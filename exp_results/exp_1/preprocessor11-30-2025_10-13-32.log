@@ -1,0 +1,42 @@
+2025-11-30 10:13:32 INFO: POS: starting comparison between /home/ilia/coding/Research/PhD/transcarpathian-texts-preprocessing/src/text_level/exp_1/pos_gold_LA1407.conllu and /home/ilia/coding/Research/PhD/transcarpathian-texts-preprocessing/src/text_level/exp_1/pos_stanza_LA1407.conllu
+2025-11-30 10:13:32 INFO: PoS and morphological labels are {'pos': ['ADV', 'VERB', 'PROPN', 'PART', 'ADJ', 'CCONJ', 'PRON', 'ADP', 'AUX', 'SCONJ', 'INTJ', 'DET', 'NOUN', 'PUNCT'], 'feats': ['Degree', 'Poss', 'Number', 'Polarity', 'NameType', 'Reflex', 'VerbForm', 'NumType', 'Tense', '_', 'VerbType', 'Case', 'Animacy', 'Mood', 'Gender', 'Aspect', 'Voice', 'Person', 'PronType']}
+2025-11-30 10:13:32 INFO: PoS precision: 75.19%
+2025-11-30 10:13:32 INFO: PoS recall: 68.67%
+2025-11-30 10:13:32 INFO: PoS macro F1-score: 65.65%
+2025-11-30 10:13:32 INFO: Robustness:  -0.25
+2025-11-30 10:13:32 INFO: Accuracy for ADV is 54.17%, the share of ADV in dataset is 7.92%
+2025-11-30 10:13:32 INFO: Accuracy for VERB is 68.49%, the share of VERB in dataset is 12.05%
+2025-11-30 10:13:32 INFO: Accuracy for PROPN is 97.22%, the share of PROPN in dataset is 5.94%
+2025-11-30 10:13:32 INFO: Accuracy for PART is 90.00%, the share of PART in dataset is 1.65%
+2025-11-30 10:13:32 INFO: Accuracy for ADJ is 64.71%, the share of ADJ in dataset is 5.61%
+2025-11-30 10:13:32 INFO: Accuracy for CCONJ is 100.00%, the share of CCONJ in dataset is 6.44%
+2025-11-30 10:13:32 INFO: Accuracy for PRON is 60.00%, the share of PRON in dataset is 5.78%
+2025-11-30 10:13:32 INFO: Accuracy for ADP is 80.00%, the share of ADP in dataset is 10.73%
+2025-11-30 10:13:32 INFO: Accuracy for AUX is 26.32%, the share of AUX in dataset is 3.14%
+2025-11-30 10:13:32 INFO: Accuracy for SCONJ is 34.62%, the share of SCONJ in dataset is 4.29%
+2025-11-30 10:13:32 INFO: Accuracy for INTJ is 100.00%, the share of INTJ in dataset is 0.17%
+2025-11-30 10:13:32 INFO: Accuracy for DET is 56.52%, the share of DET in dataset is 3.80%
+2025-11-30 10:13:32 INFO: Accuracy for NOUN is 98.04%, the share of NOUN in dataset is 16.83%
+2025-11-30 10:13:32 INFO: Accuracy for PUNCT is 100.00%, the share of PUNCT in dataset is 15.68%
+2025-11-30 10:13:32 INFO: UFeats exact match: 0.712047633334762
+2025-11-30 10:13:32 INFO: Accuracy for Degree is 50.00% from 16 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Poss is 0.00% from 1 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Number is 79.79% from 292 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Polarity is 50.00% from 4 tokens
+2025-11-30 10:13:32 INFO: Accuracy for NameType is 8.57% from 35 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Reflex is 94.12% from 17 tokens
+2025-11-30 10:13:32 INFO: Accuracy for VerbForm is 62.37% from 93 tokens
+2025-11-30 10:13:32 INFO: Accuracy for NumType is 33.33% from 3 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Tense is 33.75% from 80 tokens
+2025-11-30 10:13:32 INFO: Accuracy for _ is 72.41% from 232 tokens
+2025-11-30 10:13:32 INFO: Accuracy for VerbType is 0.00% from 2 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Case is 72.77% from 235 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Animacy is 88.11% from 143 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Mood is 64.63% from 82 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Gender is 80.57% from 211 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Aspect is 43.96% from 91 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Voice is 100.00% from 3 tokens
+2025-11-30 10:13:32 INFO: Accuracy for Person is 42.19% from 64 tokens
+2025-11-30 10:13:32 INFO: Accuracy for PronType is 58.62% from 87 tokens
+2025-11-30 10:13:32 INFO: See results of assigned rapidity in /home/ilia/coding/Research/PhD/transcarpathian-texts-preprocessing/src/text_level/exp_1/rapidity_pos_gold_LA1407.conllu
+2025-11-30 10:13:32 INFO: PoS and morphological tagging evaluation is finished

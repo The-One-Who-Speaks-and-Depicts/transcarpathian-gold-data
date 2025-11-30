@@ -65,7 +65,7 @@
 13	,	,	PUNCT	_	_	12	_	_	wf=","|PosRapidity=0
 14	Літмано́ва	Літманов	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	13	_	_	wf="Літманова"|tf="ḻʲɪtmɑnˈovɑ"|Entity=S-LOC|PosRapidity=1|SpaceAfter=No
 15	,	,	PUNCT	_	_	14	_	_	wf=","|PosRapidity=0
-16	Ярембі́на	Ярембін	PROPN	_	|Animacy=Inan|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	15	_	_	wf="Ярембіна"|tf="jɑrembˈɪnɑ"|Entity=S-LOC|PosRapidity=1|SpaceAfter=No
+16	Ярембі́на	Ярембін	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	15	_	_	wf="Ярембіна"|tf="jɑrembˈɪnɑ"|Entity=S-LOC|PosRapidity=1|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	_	_	wf=","|PosRapidity=0
 18	Крéмпах	Кремп	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	17	_	_	wf="Кремпах"|tf="krˈempɑx"|Entity=S-LOC|PosRapidity=2|SpaceAfter=No
 19	,	,	PUNCT	_	_	18	_	_	wf=","|PosRapidity=0
