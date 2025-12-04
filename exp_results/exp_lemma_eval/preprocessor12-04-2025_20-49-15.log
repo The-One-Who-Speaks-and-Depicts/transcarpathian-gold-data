@@ -1,0 +1,4 @@
+2025-12-04 20:49:15 INFO: Lemma: starting comparison between /home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/lemma_gold-pos_gold_rapidity_pos_gold_LA1407.conllu and /home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_1/lemma_stanza_rapidity_pos_gold_LA1407.conllu
+2025-12-04 20:49:15 INFO: PoS labels are ['CCONJ', 'ADP', 'NOUN', 'PRON', 'ADV', 'VERB', 'INTJ', 'SCONJ', 'PUNCT', 'DET', 'PART', 'PROPN', 'AUX', 'ADJ']
+2025-12-04 20:49:15 INFO: Accuracy score is 24.422442244224424%
+2025-12-04 20:49:15 INFO: PoS robustness:  -0.33

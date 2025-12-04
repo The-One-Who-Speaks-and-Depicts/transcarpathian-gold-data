@@ -172,7 +172,7 @@
 3	вéльо	вельо	ADV	_	_	2	_	_	wf="вельо"|tf="vˈeḻʲo"|PosRapidity=0
 4	сéлах	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	3	_	_	wf="селах"|tf="sˈelɑx"|PosRapidity=0
 5	іна́кше	інакше	ADV	_	PronType=Ind	4	_	_	wf="інакше"|tf="ɪnˈɑkʂë̝"|PosRapidity=0
-6	гва́рят	гваритіVERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	wf="гварят"|tf="ɦwˈɑrjɑt"|PosRapidity=7|SpaceAfter=No
+6	гва́рят	гвариті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	wf="гварят"|tf="ɦwˈɑrjɑt"|PosRapidity=7|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	_	_	wf=","|PosRapidity=0
 8	але	але	CCONJ	_	_	7	_	_	wf="але"|tf="ˌɑlë̝"|PosRapidity=0
 9	то	то	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	8	_	_	wf="то"|tf="tˈo"|PosRapidity=7

@@ -1,0 +1,136 @@
+2025-12-04 22:21:53 INFO: Lemma: starting comparison between /home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/lemma_gold-pos_gold_rapidity_pos_gold_LA1407.conllu and /home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_1/lemma_silver-pos_stanza_rapidity_pos_gold_LA1407.conllu
+2025-12-04 22:21:53 INFO: PoS labels are ['INTJ', 'ADV', 'VERB', 'AUX', 'NOUN', 'ADJ', 'PRON', 'SCONJ', 'PROPN', 'PART', 'CCONJ', 'ADP', 'DET', 'PUNCT']
+2025-12-04 22:21:53 INFO: Accuracy score is 69.80198019801979%
+2025-12-04 22:21:53 INFO: Lemma robustness:  -0.68
+2025-12-04 22:21:53 INFO: Share of errata, when pos is not correct, is 54.644808743169406%
+2025-12-04 22:21:53 INFO: Share of errata, when pos is correct, is 45.3551912568306%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when pos is correct, is 1.29
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when pos is incorrect, is 1.9879518072289157
+2025-12-04 22:21:53 INFO: Average Levenshtein distance is 1.6065573770491803
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when pos is correct, is 0.9027999999999993
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when pos is incorrect, is 0.825421686746988
+2025-12-04 22:21:53 INFO: Average Jato-Winkler distance is 0.8677049180327856
+2025-12-04 22:21:53 INFO: Accuracy score for INTJ is 100.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when INTJ is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when INTJ is incorrect, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for INTJ is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when INTJ is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when INTJ is incorrect, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for INTJ is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Accuracy score for ADV is 83.33333333333334%
+2025-12-04 22:21:53 INFO: Share of errata, when ADV is not correct, is 12.5%
+2025-12-04 22:21:53 INFO: Share of errata, when ADV is correct, is 87.5%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when ADV is correct, is 2.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when ADV is incorrect, is 1.5714285714285714
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for ADV is 1.625
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when ADV is correct, is 0.88
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when ADV is incorrect, is 0.8842857142857143
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for ADV is 0.8837499999999999
+2025-12-04 22:21:53 INFO: Accuracy score for VERB is 4.10958904109589%
+2025-12-04 22:21:53 INFO: Share of errata, when VERB is not correct, is 65.71428571428571%
+2025-12-04 22:21:53 INFO: Share of errata, when VERB is correct, is 34.285714285714285%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when VERB is correct, is 1.1521739130434783
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when VERB is incorrect, is 1.8333333333333333
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for VERB is 1.3857142857142857
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when VERB is correct, is 0.920434782608696
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when VERB is incorrect, is 0.917916666666667
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for VERB is 0.9195714285714286
+2025-12-04 22:21:53 INFO: Accuracy score for AUX is 15.789473684210526%
+2025-12-04 22:21:53 INFO: Share of errata, when AUX is not correct, is 25.0%
+2025-12-04 22:21:53 INFO: Share of errata, when AUX is correct, is 75.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when AUX is correct, is 2.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when AUX is incorrect, is 3.4166666666666665
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for AUX is 3.0625
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when AUX is correct, is 0.75
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when AUX is incorrect, is 0.3466666666666667
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for AUX is 0.44750000000000006
+2025-12-04 22:21:53 INFO: Accuracy score for NOUN is 74.25742574257426%
+2025-12-04 22:21:53 INFO: Share of errata, when NOUN is not correct, is 96.15384615384616%
+2025-12-04 22:21:53 INFO: Share of errata, when NOUN is correct, is 3.8461538461538463%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when NOUN is correct, is 1.48
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when NOUN is incorrect, is 1.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for NOUN is 1.4615384615384615
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when NOUN is correct, is 0.9384
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when NOUN is incorrect, is 0.94
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for NOUN is 0.9384615384615386
+2025-12-04 22:21:53 INFO: Accuracy score for ADJ is 60.0%
+2025-12-04 22:21:53 INFO: Share of errata, when ADJ is not correct, is 7.142857142857142%
+2025-12-04 22:21:53 INFO: Share of errata, when ADJ is correct, is 92.85714285714286%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when ADJ is correct, is 1.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when ADJ is incorrect, is 1.7692307692307692
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for ADJ is 1.7142857142857142
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when ADJ is correct, is 0.98
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when ADJ is incorrect, is 0.920769230769231
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for ADJ is 0.9249999999999999
+2025-12-04 22:21:53 INFO: Accuracy score for PRON is 65.71428571428571%
+2025-12-04 22:21:53 INFO: Share of errata, when PRON is not correct, is 16.666666666666664%
+2025-12-04 22:21:53 INFO: Share of errata, when PRON is correct, is 83.33333333333334%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PRON is correct, is 2.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PRON is incorrect, is 2.1
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for PRON is 2.0833333333333335
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PRON is correct, is 0.75
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PRON is incorrect, is 0.861
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for PRON is 0.8425000000000001
+2025-12-04 22:21:53 INFO: Accuracy score for SCONJ is 76.92307692307693%
+2025-12-04 22:21:53 INFO: Share of errata, when SCONJ is not correct, is 0.0%
+2025-12-04 22:21:53 INFO: Share of errata, when SCONJ is correct, is 100.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when SCONJ is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when SCONJ is incorrect, is 1.3333333333333333
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for SCONJ is 1.3333333333333333
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when SCONJ is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when SCONJ is incorrect, is 0.9499999999999998
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for SCONJ is 0.9499999999999998
+2025-12-04 22:21:53 INFO: Accuracy score for PROPN is 47.22222222222222%
+2025-12-04 22:21:53 INFO: Share of errata, when PROPN is not correct, is 94.73684210526315%
+2025-12-04 22:21:53 INFO: Share of errata, when PROPN is correct, is 5.263157894736842%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PROPN is correct, is 1.1666666666666667
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PROPN is incorrect, is 4.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for PROPN is 1.3157894736842106
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PROPN is correct, is 0.9611111111111111
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PROPN is incorrect, is 0.89
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for PROPN is 0.9573684210526316
+2025-12-04 22:21:53 INFO: Accuracy score for PART is 90.0%
+2025-12-04 22:21:53 INFO: Share of errata, when PART is not correct, is 0.0%
+2025-12-04 22:21:53 INFO: Share of errata, when PART is correct, is 100.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PART is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PART is incorrect, is 1.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for PART is 1.0
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PART is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PART is incorrect, is 0.78
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for PART is 0.78
+2025-12-04 22:21:53 INFO: Accuracy score for CCONJ is 94.87179487179486%
+2025-12-04 22:21:53 INFO: Share of errata, when CCONJ is not correct, is 100.0%
+2025-12-04 22:21:53 INFO: Share of errata, when CCONJ is correct, is 0.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when CCONJ is correct, is 1.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when CCONJ is incorrect, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for CCONJ is 1.0
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when CCONJ is correct, is 0.0
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when CCONJ is incorrect, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for CCONJ is 0.0
+2025-12-04 22:21:53 INFO: Accuracy score for ADP is 92.3076923076923%
+2025-12-04 22:21:53 INFO: Share of errata, when ADP is not correct, is 0.0%
+2025-12-04 22:21:53 INFO: Share of errata, when ADP is correct, is 100.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when ADP is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when ADP is incorrect, is 1.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for ADP is 1.0
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when ADP is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when ADP is incorrect, is 0.914
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for ADP is 0.914
+2025-12-04 22:21:53 INFO: Accuracy score for DET is 82.6086956521739%
+2025-12-04 22:21:53 INFO: Share of errata, when DET is not correct, is 25.0%
+2025-12-04 22:21:53 INFO: Share of errata, when DET is correct, is 75.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when DET is correct, is 1.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when DET is incorrect, is 2.0
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for DET is 1.75
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when DET is correct, is 0.82
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when DET is incorrect, is 0.89
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for DET is 0.8725
+2025-12-04 22:21:53 INFO: Accuracy score for PUNCT is 100.0%
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PUNCT is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance, when PUNCT is incorrect, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Levenshtein distance for PUNCT is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PUNCT is correct, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance, when PUNCT is incorrect, is -1 (no examples found)
+2025-12-04 22:21:53 INFO: Average Jaro-Winkler distance for PUNCT is -1 (no examples found)
+2025-12-04 22:21:53 INFO: See results of assigned rapidity in /home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_lemma_silver_eval/rapidity_lemma_gold-pos_gold_rapidity_pos_gold_LA1407.conllu
+2025-12-04 22:21:53 INFO: Lemmatisation evaluation is finished
