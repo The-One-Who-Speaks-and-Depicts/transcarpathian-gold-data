@@ -71,7 +71,7 @@
 19	,	,	PUNCT	_	_	18	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 20	Якубя́ни	Якубяни	PROPN	_	Animacy=Inan|Case=Nom|NameType=Geo|Number=Plur	19	_	_	wf="Якубяни"|tf="jɑkubjˈɑnɨ̈ "|Entity=S-LOC|PosRapidity=4|LemmaErrorSpots=_______|TaggedLemma=Якубяни|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-22	Матісо́ва	Матісова	PROPN	_	|Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	21	_	_	wf="Матісова"|tf="mɑtɪsˈovɑ"|Entity=S-LOC|PosRapidity=2|LemmaErrorSpots=_______|TaggedLemma=Матісов|SpaceAfter=No
+22	Матісо́ва	Матісова	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	21	_	_	wf="Матісова"|tf="mɑtɪsˈovɑ"|Entity=S-LOC|PosRapidity=2|LemmaErrorSpots=_______|TaggedLemma=Матісов|SpaceAfter=No
 23	,	,	PUNCT	_	_	22	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 24	Гайтивки	Гайтивка	PROPN	_	Animacy=Inan|Case=Nom|NameType=Geo|Number=Plur	23	_	_	wf="Гайтивки"|tf="ɦɑjtˈɯwkɤ̝"|Entity=S-LOC|PosRapidity=3|LemmaErrorSpots=________|TaggedLemma=Гайтивка|SpaceAfter=No
 25	,	,	PUNCT	_	_	24	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
