@@ -15,10 +15,10 @@
 
 # sent_id = LA1407.1.2
 # IPA_transcription = tˈotɪ̈ çpivˈɑŋkɤ̝ ɪ tˈotɑ beçˈidɑ / kˈotrom tˈerɑz / bˈudu ɦwˈɑrɪw ɪ çpˈivɑw poxˈodït s◡kɑmˈjuŋkɤ̝ / s◡kɑrpɑtorˈuçkoɦo sˈelɑ kˈotre lˈeʐɪ̈t kˌolo vˈodɪ̈ / poprˈɑdɑ nɑ◡spˈɪʂu
-# standard_text = То́ти співа́нки і то́та бесі́да, ко́тром тéраз бу́ду гва́рів і спíвав, похо́діт з Камю́нки з карпатору́ского сéла, ко́тре лéжит ко́ло во́ди Попра́да на Спі́шу,
+# standard_text = То́ти сьпіва́нки і то́та бесі́да, ко́тром тéраз бу́ду гва́рів і сьпíвав, похо́діт з Камю́нки з карпатору́ського сéла, ко́тре лéжит ко́ло во́ди Попра́да на Спі́шу,
 # german_text = Diese Lieder und die Mundart, die ich jetzt sprechen und singen werde, stammen aus Kamjunka, dem karpatoruthenischen Dorfe, das neben dem Flusse Poprad in der Zips liegt,
 1	То́ти	тот	DET	_	Case=Nom|Number=Plur|PronType=Dem	0	_	_	wf="Тоти"|tf="tˈotɪ̈"|PosRapidity=7|LemmaErrorSpots=___XX|TaggedLemma=тотий
-2	співа́нки	співанка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	wf="співанки"|tf="çpivˈɑŋkɤ̝"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=співанка
+2	сьпіва́нки	сьпіванка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	_	_	wf="сьпіванки"|tf="çpivˈɑŋkɤ̝"|PosRapidity=0|LemmaErrorSpots=_________|TaggedLemma=сьпіванка
 3	і	і	CCONJ	_	_	2	_	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
 4	то́та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	_	_	wf="тота"|tf="tˈotɑ"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=тот
 5	бесі́да	бесіда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	_	_	wf="бесіда"|tf="beçˈidɑ"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=бесіда|SpaceAfter=No
@@ -28,13 +28,13 @@
 9	бу́ду	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	8	_	_	wf="буду"|tf="bˈudu"|PosRapidity=0|LemmaErrorSpots=_XXX|TaggedLemma=бути
 10	гва́рів	гваріті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	_	_	wf="гварів"|tf="ɦwˈɑrɪw"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=гваріти
 11	і	і	CCONJ	_	_	10	_	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
-12	спíвав	співаті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	wf="співав"|tf="çpˈivɑw"|PosRapidity=0|LemmaErrorSpots=______X|TaggedLemma=співати|SpaceAfter=No
+12	сьпíвав	сьпіваті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	wf="сьпівав"|tf="çpˈivɑw"|PosRapidity=0|LemmaErrorSpots=_______X|TaggedLemma=сьпівати|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 14	похо́діт	походиті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	wf="походіт"|tf="poxˈodït"|PosRapidity=3|LemmaErrorSpots=_______X|TaggedLemma=походити
 15	з	з	ADP	_	_	14	_	_	wf="з"|tf="s"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=з
 16	Камю́нки	Камюнка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	_	_	wf="Камюнки"|tf="kɑmˈjuŋkɤ̝"|Entity=S-LOC|PosRapidity=0|LemmaErrorSpots=_______|TaggedLemma=Камюнка
 17	з	з	ADP	_	_	16	_	_	wf="з"|tf="s"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=з
-18	карпатору́ского	карпаторуский	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	17	_	_	wf="карпаторуского"|tf="kɑrpɑtorˈuçkoɦo"|PosRapidity=0|LemmaErrorSpots=_____________|TaggedLemma=карпаторуский
+18	карпатору́ського	карпаторуський	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	17	_	_	wf="карпаторуського"|tf="kɑrpɑtorˈuçkoɦo"|PosRapidity=0|LemmaErrorSpots=______________|TaggedLemma=карпаторуський
 19	сéла	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	_	_	wf="села"|tf="sˈelɑ"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=село|SpaceAfter=No
 20	,	,	PUNCT	_	_	19	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 21	ко́тре	котрий	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	20	_	_	wf="котре"|tf="kˈotre"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=котрий
@@ -48,12 +48,12 @@
 
 # sent_id = LA1407.1.3
 # IPA_transcription = de◡jʂʲʈ͡ʂʲɪ̞̈◡vˈelʲo kɑrpɑtorˈuçkɤ̝ sˈelɑ lˈeʐɑt / nɑprˈïklɑt◡fˈoḻʲvɑrk velˈɪkɤ̝j lˈɪpnïg◡ḻʲɪtmɑnˈovɑ / jɑrembˈɪnɑ krˈempɑx jɑkubjˈɑnɨ̈ mɑtɪsˈovɑ ɦɑjtˈɯwkɤ̝ / sˈulʲɪn ostˈurnʲɑ ɪ tɑg dˈaḻʲʂë̝ //
-# standard_text = де йще вéльо карпатору́ски сéла лéжат, напрі́клад Фо́льварк, Велі́кий Лі́пник, Літмано́ва, Ярембі́на, Крéмпах, Якубя́ни, Матісо́ва, Гайти́вки, Су́лін, Осту́рня і так дальше.
+# standard_text = де йще вéльо карпатору́ськи сéла лéжат, напрі́клад Фо́льварк, Велі́кий Лі́пник, Літмано́ва, Ярембі́на, Крéмпах, Якубя́ни, Матісо́ва, Гайти́вки, Су́лін, Осту́рня і так дальше.
 # german_text = wo noch viele karpatoruthenische Dörfer liegen, z. B. Folvark, Velikyj Lipnik, Litmanova, Jarembina, Krempach, Jakubjany, Matisova, Hajtyvky, Sulin, Osturnja und so weiter.
 1	де	де	ADV	_	PronType=Rel	0	_	_	wf="де"|tf="de"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=де
 2	йще	іще	PART	_	_	1	_	_	wf="йще"|tf="jʂʲʈ͡ʂʲɪ̞̈"|PosRapidity=7|LemmaErrorSpots=X__|TaggedLemma=йще
 3	вéльо	вельо	ADV	_	_	2	_	_	wf="вельо"|tf="vˈelʲo"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=вельо
-4	карпатору́ски	карпаторуский	ADJ	_	Case=Nom|Number=Plur	3	_	_	wf="карпаторуски"|tf="kɑrpɑtorˈuçkɤ̝"|PosRapidity=7|LemmaErrorSpots=_____________|TaggedLemma=карпаторуский
+4	карпатору́ськи	карпаторуський	ADJ	_	Case=Nom|Number=Plur	3	_	_	wf="карпаторуськи"|tf="kɑrpɑtorˈuçkɤ̝"|PosRapidity=7|LemmaErrorSpots=______________|TaggedLemma=карпаторуський
 5	сéла	село	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	_	_	wf="села"|tf="sˈelɑ"|PosRapidity=2|LemmaErrorSpots=____|TaggedLemma=село
 6	лéжат	лежаті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	wf="лежат"|tf="lˈeʐɑt"|PosRapidity=7|LemmaErrorSpots=_____X|TaggedLemma=лежати|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
@@ -183,14 +183,14 @@
 
 # sent_id = LA1407.1.9
 # IPA_transcription = Jɑ◡tˈɑg◡bˈudu ɦwˈɑrɪw ῾ɪ çpˈivɑw / jɑk rusnˈɑt͡sɪ ɦwˈɑrjɑt f◡kɑmjˈunt͡sʲi nɑ spˈɪʂu kˌolo poprˈɑdɑ / tˈɑm dë̝ drɪ̈tɑrë̝ ʐˈɨjut //
-# standard_text = Я так бу́ду гва́рів і спíвав, як Русна́ці гва́рят в Камю́нці на Спі́шу ко́ло Попра́да, там де дріта́рі жи́ют.
+# standard_text = Я так бу́ду гва́рів і сьпíвав, як Русна́ці гва́рят в Камю́нці на Спі́шу ко́ло Попра́да, там де дріта́рі жи́ют.
 # german_text = Ich werde so sprechen und singen, wie die Rusnaken in Kamjunka am Poprad in der Zips sprechen, dort, wo die Drahtbinder leben.
 1	Я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	wf="Я"|tf="Jɑ"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=я
 2	так	так	ADV	_	PronType=Dem	1	_	_	wf="так"|tf="tˈɑg"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=так
 3	бу́ду	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	2	_	_	wf="буду"|tf="bˈudu"|PosRapidity=0|LemmaErrorSpots=_XXX|TaggedLemma=бути
 4	гва́рів	гваріті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	_	_	wf="гварів"|tf="ɦwˈɑrɪw"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=гваріти
 5	і	і	CCONJ	_	_	4	_	_	wf="і"|tf="῾ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
-6	спíвав	співаті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	_	_	wf="співав"|tf="çpˈivɑw"|PosRapidity=0|LemmaErrorSpots=______X|TaggedLemma=співати|SpaceAfter=No
+6	сьпíвав	сьпіваті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	_	_	wf="сьпівав"|tf="çpˈivɑw"|PosRapidity=0|LemmaErrorSpots=_______X|TaggedLemma=сьпівати|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 8	як	як	SCONJ	_	_	7	_	_	wf="як"|tf="jɑk"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=як
 9	Русна́ці	Руснак	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Nat|Number=Plur	8	_	_	wf="Руснаці"|tf="rusnˈɑt͡sɪ"|Entity=S-NORP|PosRapidity=2|LemmaErrorSpots=_____X|TaggedLemma=Руснац
@@ -210,7 +210,7 @@
 
 # sent_id = LA1407.1.10
 # IPA_transcription = tˈotu beçˈidu pˈoznɑm bɑrz◡dˈobri / bo mɤ̝j ˈotet͡sʲ pod mɑdʲɑrˈɑmɪ / tɑm jɑg◡mɑdʲˈɑrskɤ̝j uʈ͡ʂʲˈïteḻʲ ῾ˈuʈ͡ʂʲɪw po◡mɑdʲˈɑrskɤ̝ j po◡rˈusʲkɤ̝ //
-# standard_text = То́ту бесі́ду по́знам барз до́брі, бо мий о́тець под Мадяра́ми там як мадя́рский учи́тель у́чів по мадя́рски і по ру́ски.
+# standard_text = То́ту бесі́ду по́знам барз до́брі, бо мий о́тець под Мадяра́ми там як мадя́рский учи́тель у́чів по мадя́рски і по ру́ськи.
 # german_text = Diese Mundart kenne ich sehr gut, da mein Vater dort bei den Ungarn als ungarischer Lehrer ungarisch und ruthenisch lehrte.
 1	То́ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	wf="Тоту"|tf="tˈotu"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=тот
 2	бесі́ду	бесіда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	_	_	wf="бесіду"|tf="beçˈidu"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=бесід
@@ -232,7 +232,7 @@
 18	мадя́рски	мадярски	ADV	_	_	17	_	_	wf="мадярски"|tf="mɑdʲˈɑrskɤ̝"|PosRapidity=7|LemmaErrorSpots=________|TaggedLemma=мадярски
 19	і	і	CCONJ	_	_	18	_	_	wf="і"|tf="j"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
 20	по	по	ADP	_	_	19	_	_	wf="по"|tf="po"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=по
-21	ру́ски	руски	ADV	_	_	20	_	_	wf="руски"|tf="rˈusʲkɤ̝"|PosRapidity=7|LemmaErrorSpots=_____|TaggedLemma=руски|SpaceAfter=No
+21	ру́ськи	руськи	ADV	_	_	20	_	_	wf="руськи"|tf="rˈusʲkɤ̝"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=руськи|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	_	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.1.11
@@ -268,7 +268,7 @@
 
 # sent_id = LA1407.1.12
 # IPA_transcription = bo fʂˈem ῾jem ʈ͡ʂʲuw◡ɑ mˌend͡ʐɪ ḻʲˈudʲmɪ nɑ◡pˈoḻʲu m bɤ̝w / dˈe◡bɑrs◡krˈɑçnʲi çpivˈɑlɪ //
-# standard_text = бо вшéм єм чув а мéнджі лю́дьмі на по́лю м би́в, де барз кра́сні співа́лі.
+# standard_text = бо вшéм єм чув а мéнджі лю́дьмі на по́лю м би́в, де барз кра́сні сьпіва́лі.
 # german_text = Denn ich hörte sie immer und war unter dem Volke auf den Feldern, wo man sehr schön gesungen hat.
 1	бо	бо	SCONJ	_	_	0	_	_	wf="бо"|tf="bo"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=бо
 2	вшéм	вше	PRON	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	1	_	_	wf="вшем"|tf="fʂˈem"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=вше
@@ -285,7 +285,7 @@
 13	де	де	ADV	_	PronType=Rel	12	_	_	wf="де"|tf="dˈe"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=де
 14	барз	барз	ADV	_	Degree=Pos	13	_	_	wf="барз"|tf="bɑrs"|PosRapidity=7|LemmaErrorSpots=____|TaggedLemma=барз
 15	кра́сні	красні	ADV	_	Degree=Pos	14	_	_	wf="красні"|tf="krˈɑçnʲi"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=красні
-16	співа́лі	співаті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	wf="співалі"|tf="çpivˈɑlɪ"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=співати|SpaceAfter=No
+16	сьпіва́лі	сьпіваті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	wf="сьпівалі"|tf="çpivˈɑlɪ"|PosRapidity=7|LemmaErrorSpots=_______X|TaggedLemma=сьпівати|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	_	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # newpar id = LA1407.2
@@ -314,8 +314,8 @@
 19	.	.	PUNCT	_	_	18	_	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.2.2
-# IPA_transcription = dʲɪwʈ͡ʂʲˈɑtɑ prjˈɑdud◡len◡ɑ xlˈopt͡sʲi jix fʂˈe zɑrɪ̈vˈɑjut / prˈɪ◡tɨm ç çmˈijut fʂˈeḻʲakɤ̝ fˈigḻʲi rˈobjat / dɑkˈodɯ ɑʂ ɪ zɑtɑnʈ͡sʲˈujut //
-# standard_text = Дівча́та пря́дут лен а хло́пці їх вше зарива́ют, [при́ тим сь смíют], вшеля́ки фíґлі ро́бят, дако́ди аж і затанцю́ют.
+# IPA_transcription = dʲɪwʈ͡ʂʲˈɑtɑ prjˈɑdud◡len◡ɑ xlˈopt͡sʲi jix fʂˈe zɑrɪ̈vˈɑjut / prˈɪ◡tɨm çɑ (ç) çmˈijut fʂˈeḻʲakɤ̝ fˈigḻʲi rˈobjat / dɑkˈodɯ ɑʂ ɪ zɑtɑnʈ͡sʲˈujut //
+# standard_text = Дівча́та пря́дут лен а хло́пці їх вше зарива́ют, [при́ тим ся (сь) сьмíют], вшеля́ки фíґлі ро́бят, дако́ди аж і затанцю́ют.
 # german_text = Die Mädchen spinnen Flachs und die Burschen reißen ihn immer ab. dabei lachen sie und machen verschiedene Scherze, manchmal tanzen sie sogar.
 1	Дівча́та	дівча	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	0	_	_	wf="Дівчата"|tf="dʲɪwʈ͡ʂʲˈɑtɑ"|PosRapidity=0|LemmaErrorSpots=____XXX|TaggedLemma=дівчина
 2	пря́дут	прядуті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="прядут"|tf="prjˈɑdud"|PosRapidity=2|LemmaErrorSpots=______X|TaggedLemma=прядути
@@ -328,22 +328,25 @@
 9	,	,	PUNCT	_	_	8	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 10	при́	при	ADP	_	_	9	_	_	wf="при"|tf="prˈɪ"|PosRapidity=1|LemmaErrorSpots=___|TaggedLemma=при
 11	тим	те	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	10	_	_	wf="тим"|tf="tɨm"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=те
-12	сь	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	12	_	_	wf="сь"|tf="ç"|PosRapidity=7|LemmaErrorSpots=_X|TaggedLemma=сь|SpaceAfter=No
-13	смíют	сміяті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	_	_	wf="сміют"|tf="çmˈijut"|PosRapidity=3|LemmaErrorSpots=_____X|TaggedLemma=сміяти|SpaceAfter=No
-14	,	,	PUNCT	_	_	14	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-15	вшеля́ки	вшелякий	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	15	_	_	wf="вшелякі"|tf="fʂˈeḻʲakɤ̝"|PosRapidity=7|LemmaErrorSpots=________|TaggedLemma=вшелякий
-16	фíґлі	фіґель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	165	_	_	wf="фіґлі"|tf="fˈigḻʲi"|PosRapidity=0|LemmaErrorSpots=___XX|TaggedLemma=фіґля
-17	ро́бят	робиті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	_	_	wf="робят"|tf="rˈobjat"|PosRapidity=2|LemmaErrorSpots=_____X|TaggedLemma=робити|SpaceAfter=No
-18	,	,	PUNCT	_	_	18	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-19	дако́ди	дакоди	SCONJ	_	PronType=Rel	19	_	_	wf="дакоди"|tf="dɑkˈodɯ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=дакоди
-20	аж	аж	PART	_	_	20	_	_	wf="аж"|tf="ɑʂ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=аж
-21	і	і	PART	_	_	21	_	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
-22	затанцю́ют	затанцюваті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	wf="затанцюют"|tf="zɑtɑnʈ͡sʲˈujut"|PosRapidity=3|LemmaErrorSpots=__________X|TaggedLemma=затанцювати|SpaceAfter=No
-23	.	.	PUNCT	_	_	23	_	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
+12	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	11	_	_	wf="ся"|tf="çɑ"|LemmaErrorSpots=__|TaggedLemma=ся
+13	(	(	PUNCT	_	_	12	_	_	wf="("|LemmaErrorSpots=_|TaggedLemma=(|SpaceAfter=No
+14	сь	сь	INTJ	_	_	13	_	_	wf="сь"|tf="ç"|LemmaErrorSpots=__|TaggedLemma=сь|SpaceAfter=No
+15	)	)	PUNCT	_	_	14	_	_	wf=")"|LemmaErrorSpots=_|TaggedLemma=)
+16	сьмíют	сьміяті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	_	_	wf="сьміют"|tf="çmˈijut"|PosRapidity=3|LemmaErrorSpots=____XX|TaggedLemma=сьміти|SpaceAfter=No
+17	,	,	PUNCT	_	_	14	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
+18	вшеля́ки	вшелякий	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	15	_	_	wf="вшелякі"|tf="fʂˈeḻʲakɤ̝"|PosRapidity=7|LemmaErrorSpots=________|TaggedLemma=вшелякий
+19	фíґлі	фіґель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	165	_	_	wf="фіґлі"|tf="fˈigḻʲi"|PosRapidity=0|LemmaErrorSpots=___XX|TaggedLemma=фіґля
+20	ро́бят	робиті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	_	_	wf="робят"|tf="rˈobjat"|PosRapidity=2|LemmaErrorSpots=_____X|TaggedLemma=робити|SpaceAfter=No
+21	,	,	PUNCT	_	_	18	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
+22	дако́ди	дакоди	SCONJ	_	PronType=Rel	19	_	_	wf="дакоди"|tf="dɑkˈodɯ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=дакоди
+23	аж	аж	PART	_	_	20	_	_	wf="аж"|tf="ɑʂ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=аж
+24	і	і	PART	_	_	21	_	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
+25	затанцю́ют	затанцюваті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	wf="затанцюют"|tf="zɑtɑnʈ͡sʲˈujut"|PosRapidity=3|LemmaErrorSpots=__________X|TaggedLemma=затанцювати|SpaceAfter=No
+26	.	.	PUNCT	_	_	23	_	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.2.3
 # IPA_transcription = nɑ◡kˈɑʐdɪ̈x veʈ͡ʂʲˈɪrkɑx / kʲˌedʲ◡nʲˈit vˈostɑ xtˈowdɨ vesˈelo çpivˈɑjut //
-# standard_text = На ка́ждих вечíрках, кед ні́т по́ста, хдо́вди весéло спíвают.
+# standard_text = На ка́ждих вечíрках, кед ні́т по́ста, хдо́вди весéло сьпíвают.
 # german_text = An allen Spielabenden, wenn es keine Fastenzeit gibt, wird lustig gesungen.
 1	На	на	ADP	_	_	0	_	_	wf="На"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
 2	ка́ждих	каждий	DET	_	Case=Loc|Number=Plur|PronType=Tot	1	_	_	wf="каждих"|tf="kˈɑʐdɪ̈x"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=каждий
@@ -355,7 +358,7 @@
 8	,	,	PUNCT	_	_	7	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 9	хдо́вди	хдовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	_	_	wf="хдовди"|tf="xtˈowdɨ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хдовди
 10	весéло	весело	ADV	_	Degree=Pos	9	_	_	wf="весело"|tf="vesˈelo"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=весело
-11	спíвают	співаті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	wf="співают"|tf="çpivˈɑjut"|PosRapidity=2|LemmaErrorSpots=______X|TaggedLemma=співати|SpaceAfter=No
+11	сьпíвают	сьпіваті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	wf="сьпівают"|tf="çpivˈɑjut"|PosRapidity=2|LemmaErrorSpots=_______X|TaggedLemma=сьпівати|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	_	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.2.4
@@ -595,7 +598,7 @@
 
 # sent_id = LA1407.3.2
 # IPA_transcription = rɑz v◡nˈoʈ͡ʂʲɨ̈ / ʈ͡ʂʲort ˈɪʂow rozbˈïtɪ stˌɑroḻʲubovˈent͡skɪj zˈɑmʊ̈k / kˈotrɪ̈j bˈɤ̝w prokḻʲɑtɪ̈j odʲ◡jednˈoɦo kʲirɑḻʲfˈijɑ //
-# standard_text = Раз в но́чи чорт íшов розби́ті старолюбовéнцкій за́мок, ко́трий би́в прокля́тий от єдно́го кіральфія.
+# standard_text = Раз в но́чи чорт íшов розби́ті старолюбовéнтскій за́мок, ко́трий би́в прокля́тий от єдно́го кіральфія.
 # german_text = Einmal in der Nacht ging der Teufel, um das Schloß Starolubovnja, das von einem Königssohn verflucht worden ist, zu zerstören.
 1	Раз	раз	ADV	_	_	0	_	_	wf="Раз"|tf="rɑz"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=раз
 2	в	в	ADP	_	_	1	_	_	wf="в"|tf="v"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=в
@@ -603,7 +606,7 @@
 4	чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	wf="чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
 5	íшов	іті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	_	_	wf="ішов"|tf="ˈɪʂow"|PosRapidity=0|LemmaErrorSpots=__X|TaggedLemma=іти
 6	розби́ті	розбиті	VERB	_	Aspect=Perf|VerbForm=Inf	5	_	_	wf="розбиті"|tf="rozbˈïtɪ"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=розбити
-7	старолюбовéнцкій	старолюбовенцкій	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	_	_	wf="старолюбовенцкій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=B-LOC|PosRapidity=1|LemmaErrorSpots=________________|TaggedLemma=старолюбовенцкій
+7	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	_	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=B-LOC|PosRapidity=1|LemmaErrorSpots=_______________XX|TaggedLemma=старолюбовентский
 8	за́мок	замка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	wf="замок"|tf="zˈɑmʊ̈k"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замка|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 10	ко́трий	котрий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	_	_	wf="котрий"|tf="kˈotrɪ̈j"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=котрий
@@ -632,7 +635,7 @@
 
 # sent_id = LA1407.3.4
 # IPA_transcription = ɑ◡kʲˈet◡çɑ / (ɨ̈) zɑpˈozdiw bɤ̝ / xtˈowdɨ o◡dvɑnˈɑt͡sʲɑtoj zɑçpˈivɑt kˈoɦut ɪ vɪ̈n / nɑ◡drˈɯd͡zʲi / çɑ / premˈinɪt nɑ koḻʲˈimɑjs //
-# standard_text = А кéд ся (и) запо́здів би, хто́вди о дванаця́той заспíват ко́гут і вин на дри́дзі ся премíніт на колíмайс.
+# standard_text = А кéд ся (и) запо́здів би, хто́вди о дванаця́той засьпíват ко́гут і вин на дри́дзі ся премíніт на колíмайс.
 # german_text = Wenn er sich aber verspäten sollte, so würde um zwölf Uhr der Hahn krähen, und er würde sich auf dem Wege in Wageschmiere (?) verwandeln.
 1	А	а	CCONJ	_	_	0	_	_	wf="А"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
 2	кéд	кед	SCONJ	_	PronType=Rel	1	_	_	wf="кед"|tf="◡kʲˈet"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=кед
@@ -646,7 +649,7 @@
 10	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хтовди
 11	о	о	ADP	_	_	10	_	_	wf="о"|tf="o"|PosRapidity=7|LemmaErrorSpots=_|TaggedLemma=о
 12	дванаця́той	дванацятий	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	11	_	_	wf="дванацятой"|tf="dvɑnˈɑt͡sʲɑtoj"|PosRapidity=7|LemmaErrorSpots=__________|TaggedLemma=дванацятий
-13	заспíват	заспіваті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	_	_	wf="заспіват"|tf="zɑçpˈivɑt"|PosRapidity=2|LemmaErrorSpots=________X|TaggedLemma=заспівати
+13	засьпíват	засьпіваті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	_	_	wf="засьпіват"|tf="zɑçpˈivɑt"|PosRapidity=2|LemmaErrorSpots=_________X|TaggedLemma=засьпівати
 14	ко́гут	когут	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	_	_	wf="когут"|tf="kˈoɦut"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=когут
 15	і	і	CCONJ	_	_	14	_	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
 16	вин	вино	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	_	_	wf="вин"|tf="vɪ̈n"|PosRapidity=7|LemmaErrorSpots=____|TaggedLemma=вино
@@ -670,7 +673,7 @@
 
 # sent_id = LA1407.3.6
 # IPA_transcription = ʈ͡ʂʲort zɑpˈozdɪw / ɑ◡nɑ◡drˈɯd͡zʲi kˌolo◡zˈɑmkɑ / jak kˈoɦut zɑçpˈivɑw / dvɑnɑt͡sʲˈɑtu ɦodˈïnu / rosˈpustɪ̈w çɑ ʈ͡ʂʲɪ̈sto nɑ◡koḻʲˈimɑjs / ɑ◡skˈɑlɑ ostˈɑlɑ tɑm / stojˈɑtɪ ɪ tˈerɑs //
-# standard_text = Чорт запо́здів, а на дри́дзі коло за́мка, як ко́гут заспíвав дванаця́ту годíну, розпустíвся чи́сто на колíмайс, а ска́ла оста́ла там стоя́ті і тéраз.
+# standard_text = Чорт запо́здів, а на дри́дзі коло за́мка, як ко́гут засьпíвав дванаця́ту годíну, розпустíвся чи́сто на колíмайс, а ска́ла оста́ла там стоя́ті і тéраз.
 # german_text = Der Teufel verspätete sich und als um zwölf Uhr der Hahn krähze, zerging er auf dem Wege neben dem Schloß ganz in Wagenschmiere und der Fels blieb dort bist heute bestehen.
 1	Чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	wf="Чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
 2	запо́здів	запоздіті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	_	_	wf="запоздів"|tf="zɑpˈozdɪw"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=запоздіти|SpaceAfter=No
@@ -683,7 +686,7 @@
 9	,	,	PUNCT	_	_	8	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 10	як	як	SCONJ	_	_	9	_	_	wf="як"|tf="jak"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=як
 11	ко́гут	когут	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	wf="когут"|tf="kˈoɦut"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=когут
-12	заспíвав	заспіваті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	wf="заспівав"|tf="zɑçpˈivɑw"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=заспівати
+12	засьпíвав	засьпіваті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	wf="засьпівав"|tf="zɑçpˈivɑw"|PosRapidity=0|LemmaErrorSpots=_________X|TaggedLemma=засьпівати
 13	дванаця́ту	дванацятий	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	12	_	_	wf="дванацяту"|tf="dvɑnɑt͡sʲˈɑtu"|PosRapidity=1|LemmaErrorSpots=__________|TaggedLemma=дванацятий
 14	годíну	годін	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	_	_	wf="годіну"|tf="ɦodˈïnu"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=годін|SpaceAfter=No
 15	,	,	PUNCT	_	_	14	_	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
@@ -750,10 +753,10 @@
 
 # sent_id = LA1407.3.9
 # IPA_transcription = zˈɑmok stˌɑroḻʲubovˈent͡skɪj stˈojit kˌolo◡poprˈɑdɑ blʲˈɪsko / mistˈoʈ͡ʂʲkɑ stˌɑroḻʲubˈownʲi / ɪ kɑmjˈuŋkɤ̝ / ɑ je mɑjˈetkom jednˈoɦo̝ poḻʲskˈoɦo̝ grˈofɑ //
-# standard_text = За́мок старолюбовéнскій сто́їт ко́ло Попра́да блíзко місто́чка Старолюбо́вні і Камю́нки, а є має́тком єдно́го польско́го ґро́фа.
+# standard_text = За́мок старолюбовéнтскій сто́їт ко́ло Попра́да блíзко місто́чка Старолюбо́вні і Камю́нки, а є має́тком єдно́го польско́го ґро́фа.
 # german_text = Das Schloß Starolubovnja steht neben dem Poprad in der Nähe des Städtchens Starolubovńa und der Kamjunka und ist der Besitz eines polnischen Grafen.
 1	За́мок	замок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	wf="Замок"|tf="zˈɑmok"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замок
-2	старолюбовéнскій	старолюбовенскій	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	_	_	wf="старолюбовенскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=E-LOC|PosRapidity=1|LemmaErrorSpots=______________XX|TaggedLemma=старолюбовенский
+2	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	_	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=E-LOC|PosRapidity=1|LemmaErrorSpots=_______________XX|TaggedLemma=старолюбовентский
 3	сто́їт	стояті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="стоїт"|tf="stˈojit"|PosRapidity=7|LemmaErrorSpots=_____X|TaggedLemma=стояти
 4	ко́ло	коло	ADP	_	_	3	_	_	wf="коло"|tf="kˌolo"|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
 5	Попра́да	Попрад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	4	_	_	wf="Попрада"|tf="poprˈɑdɑ"|Entity=S-LOC|PosRapidity=1|LemmaErrorSpots=______X|TaggedLemma=Попрада
