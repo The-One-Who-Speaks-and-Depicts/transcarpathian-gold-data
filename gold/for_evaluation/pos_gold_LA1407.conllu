@@ -103,7 +103,7 @@
 # IPA_transcription = tu jezd◡ɦrɑnït͡sɑ mˌend͡ʐɪ◡rusɪnˈɑmɪ j rusnɑkˈɑmɪ ɪ slovɑkˈɑmɪ
 # standard_text = Ту єст гра́ніца мéнджі Русіна́мі й Руснака́мі і Словака́мі
 # german_text = Hier ist die Grenze zwischen den Ruthenen und Rusnaken und den Slovaken
-1	Ту	той	ADV	_	PronType=Dem	0	_	_	wf="Ту"|tf="tu"
+1	Ту	ту	ADV	_	PronType=Dem	0	_	_	wf="Ту"|tf="tu"
 2	єст	єст	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="єст"|tf="jezd"
 3	гра́ніца	грані	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	_	_	wf="граніца"|tf="ɦrɑnït͡sɑ"
 4	мéнджі	Менджа	ADP	_	_	3	_	_	wf="менджі"|tf="mˌend͡ʐɪ"
@@ -132,7 +132,7 @@
 13	Подкарпа́тской	подкарпатской	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	12	_	_	wf="Подкарпатской"|tf="potkɑrpɑˈt͡skoj"|Entity=B-LOC
 14	Ру́сі	Русь	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Nat|Number=Sing	13	_	_	wf="Русі"|tf="rˈusɪ"|Entity=E-LOC
 15	ту	той	ADV	_	PronType=Dem	14	_	_	wf="ту"|tf="tˈu"
-16	би́ла	бити	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	wf="била"|tf="bɤ̝lɑ"
+16	би́ла	бити	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	wf="била"|tf="bɤ̝lɑ"
 17	зробéна	зробений	ADJ	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	16	_	_	wf="зробена"|tf="zrobˈenɑ"
 18	мéнджі	мендж	ADP	_	_	17	_	_	wf="менджі"|tf="mˌend͡ʐɪ"
 19	ні́ма	Кіма	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	18	_	_	wf="німа"|tf="nˈɪmɑ"

@@ -131,8 +131,8 @@
 12	гра́ніца	граніца	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	11	_	_	wf="граніца"|tf="ɦrɑnʲɪt͡sɑ"|PosRapidity=2
 13	Подкарпа́тской	подкарпатский	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	12	_	_	wf="Подкарпатской"|tf="potkɑrpɑˈt͡skoj"|Entity=B-LOC|PosRapidity=0
 14	Ру́сі	Русь	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|NameType=Nat|Number=Sing	13	_	_	wf="Русі"|tf="rˈusɪ"|Entity=E-LOC|PosRapidity=1
-15	ту	той	ADV	_	PronType=Dem	14	_	_	wf="ту"|tf="tˈu"|PosRapidity=7
-16	би́ла	биті	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	wf="била"|tf="bɤ̝lɑ"|PosRapidity=0
+15	ту	ту	ADV	_	PronType=Dem	14	_	_	wf="ту"|tf="tˈu"|PosRapidity=7
+16	би́ла	биті	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	_	_	wf="била"|tf="bɤ̝lɑ"|PosRapidity=0
 17	зробéна	зробений	ADJ	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	16	_	_	wf="зробена"|tf="zrobˈenɑ"|PosRapidity=0
 18	мéнджі	менджі	ADP	_	_	17	_	_	wf="менджі"|tf="mˌend͡ʐɪ"|PosRapidity=7
 19	ні́ма	він	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	18	_	_	wf="німа"|tf="nˈɪmɑ"|PosRapidity=7
