@@ -607,7 +607,7 @@
 5	íшов	іті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	_	_	wf="ішов"|tf="ˈɪʂow"|PosRapidity=0
 6	розби́ті	розбиті	VERB	_	Aspect=Perf|VerbForm=Inf	5	_	_	wf="розбиті"|tf="rozbˈïtɪ"|PosRapidity=7
 7	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	_	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=B-LOC|PosRapidity=1
-8	за́мок	замка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	wf="замок"|tf="zˈɑmʊ̈k"|Entity=E-LOC|PosRapidity=0|SpaceAfter=No
+8	за́мок	замка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	wf="замок"|tf="zˈɑmʊ̈k"|Entity=E-LOC|PosRapidity=1|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	_	_	wf=","|PosRapidity=0
 10	ко́трий	котрий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	_	_	wf="котрий"|tf="kˈotrɪ̈j"|PosRapidity=0
 11	би́в	биті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	wf="бив"|tf="bˈɤ̝w"|PosRapidity=0

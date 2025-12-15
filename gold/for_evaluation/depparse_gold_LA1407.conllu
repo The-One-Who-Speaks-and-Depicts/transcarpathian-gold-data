@@ -1,4 +1,3 @@
-# TODO: хдо́вди - это, кажется,  не неопределённое местоимение, а наречие уровня "где-то"
 # doc_title = LA 1407
 # newdoc id = LA1407
 # newpar id = LA1407.1
@@ -581,68 +580,68 @@
 3	но́чи	ноч	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	wf="ночи"|tf="nˈoʈ͡ʂʲɨ̈ "|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=2|LemmaErrorSpots=___X|TaggedLemma=ноча
 4	чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	wf="чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
 5	íшов	іті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="ішов"|tf="ˈɪʂow"|PosRapidity=0|LemmaErrorSpots=__X|TaggedLemma=іти
-6	розби́ті	розбиті	VERB	_	Aspect=Perf|VerbForm=Inf	8	amod	_	wf="розбиті"|tf="rozbˈïtɪ"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=розбити
+6	розби́ті	розбиті	VERB	_	Aspect=Perf|VerbForm=Inf	5	xcomp	_	wf="розбиті"|tf="rozbˈïtɪ"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=розбити
 7	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=B-LOC|PosRapidity=1|LemmaErrorSpots=_______________XX|TaggedLemma=старолюбовентский
-8	за́мок	замка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	wf="замок"|tf="zˈɑmʊ̈k"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замка|SpaceAfter=No
+8	за́мок	замка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	wf="замок"|tf="zˈɑmʊ̈k"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замка|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-10	ко́трий	котрий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	wf="котрий"|tf="kˈotrɪ̈j"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=котрий
-11	би́в	биті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	acl:relcl	_	wf="бив"|tf="bˈɤ̝w"|PosRapidity=0|LemmaErrorSpots=___X|TaggedLemma=бити
-12	прокля́тий	проклятий	ADJ	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	15	amod	_	wf="проклятий"|tf="prokḻʲɑtɪ̈j"|PosRapidity=0|LemmaErrorSpots=_________|TaggedLemma=проклятий
-13	от	от	ADP	_	_	12	discourse	_	wf="от"|tf="odʲ"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=от
+10	ко́трий	котрий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj:pass	_	wf="котрий"|tf="kˈotrɪ̈j"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=котрий
+11	би́в	биті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	aux:pass	_	wf="бив"|tf="bˈɤ̝w"|PosRapidity=0|LemmaErrorSpots=___X|TaggedLemma=бити
+12	прокля́тий	проклятий	ADJ	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	acl:relcl	_	wf="проклятий"|tf="prokḻʲɑtɪ̈j"|PosRapidity=0|LemmaErrorSpots=_________|TaggedLemma=проклятий
+13	от	от	ADP	_	_	15	case	_	wf="от"|tf="odʲ"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=от
 14	єдно́го	єдин	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	wf="єдного"|tf="jednˈoɦo"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=єдин
-15	кіральфія	кіральфій	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obj	_	wf="кіральфія"|tf="kʲirɑḻʲfˈijɑ"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=кіральфія|SpaceAfter=No
+15	кіральфія	кіральфій	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl:agent	_	wf="кіральфія"|tf="kʲirɑḻʲfˈijɑ"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=кіральфія|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.3.3
 # IPA_transcription = ʈ͡ʂʲort mɑw prïkɑzˈɑno do dvɑnˈɑt͡sʲɑtoj ɦodˈïnɨ̈ v◡nˈoʈ͡ʂʲɨ̈  rozbˈïtɪ zˈɑmʊ̈k //
 # standard_text = Чорт мав пріказа́но до дванаця́той годíни в но́чи розби́ті за́мок.
 # german_text = Es wurde dem Teufel befohlen, bis zwölf Uhr nachts das Schloß zu zerstören.
-1	Чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	wf="Чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
-2	мав	маті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="мав"|tf="mɑw"|PosRapidity=0|LemmaErrorSpots=___X|TaggedLemma=мати
-3	пріказа́но	пріказаті	VERB	_	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	2	advmod	_	wf="пріказано"|tf="prïkɑzˈɑno"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=пріказати
+1	Чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	wf="Чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
+2	мав	маті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	aux:pass	_	wf="мав"|tf="mɑw"|PosRapidity=0|LemmaErrorSpots=___X|TaggedLemma=мати
+3	пріказа́но	пріказаті	VERB	_	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	0	root	_	wf="пріказано"|tf="prïkɑzˈɑno"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=пріказати
 4	до	до	ADP	_	_	6	advmod	_	wf="до"|tf="do"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=до
 5	дванаця́той	дванацятий	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	wf="дванацятой"|tf="dvɑnˈɑt͡sʲɑtoj"|PosRapidity=0|LemmaErrorSpots=__________|TaggedLemma=дванацятий
-6	годíни	годіна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obj	_	wf="годіни"|tf="ɦodˈïnɨ̈ "|PosRapidity=0|LemmaErrorSpots=_____X|TaggedLemma=годінь
+6	годíни	годіна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	wf="годіни"|tf="ɦodˈïnɨ̈ "|PosRapidity=0|LemmaErrorSpots=_____X|TaggedLemma=годінь
 7	в	в	ADP	_	_	8	case	_	wf="в"|tf="v"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=в
 8	но́чи	ноча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	2	obl	_	wf="ночи"|tf="nˈoʈ͡ʂʲɨ̈ "|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=ноча
-9	розби́ті	розбиті	VERB	_	Aspect=Perf|VerbForm=Inf	10	amod	_	wf="розбиті"|tf="rozbˈïtɪ"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=розбити
-10	за́мок	замок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nsubj	_	wf="замок"|tf="zˈɑmʊ̈k"|PosRapidity=0|LemmaErrorSpots=___XX|TaggedLemma=замка|SpaceAfter=No
+9	розби́ті	розбиті	VERB	_	Aspect=Perf|VerbForm=Inf	3	xcomp	_	wf="розбиті"|tf="rozbˈïtɪ"|PosRapidity=7|LemmaErrorSpots=______X|TaggedLemma=розбити
+10	за́мок	замок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	wf="замок"|tf="zˈɑmʊ̈k"|PosRapidity=0|LemmaErrorSpots=___XX|TaggedLemma=замка|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.3.4
 # IPA_transcription = ɑ◡kʲˈet◡çɑ / (ɨ̈) zɑpˈozdiw bɤ̝ / xtˈowdɨ o◡dvɑnˈɑt͡sʲɑtoj zɑçpˈivɑt kˈoɦut ɪ vɪ̈n / nɑ◡drˈɯd͡zʲi / çɑ / premˈinɪt nɑ koḻʲˈimɑjs //
 # standard_text = А кéд ся (и) запо́здів би, хто́вди о дванаця́той засьпíват ко́гут і вин на дри́дзі ся премíніт на колíмайс.
 # german_text = Wenn er sich aber verspäten sollte, so würde um zwölf Uhr der Hahn krähen, und er würde sich auf dem Wege in Wageschmiere (?) verwandeln.
-1	А	а	CCONJ	_	_	7	cc	_	wf="А"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
-2	кéд	кед	SCONJ	_	PronType=Rel	7	nsubj	_	wf="кед"|tf="◡kʲˈet"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=кед
-3	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	advmod	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
+1	А	а	CCONJ	_	_	13	cc	_	wf="А"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
+2	кéд	кед	SCONJ	_	PronType=Rel	7	mark	_	wf="кед"|tf="◡kʲˈet"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=кед
+3	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
 4	(	(	PUNCT	_	_	5	punct	_	wf="("|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=(|SpaceAfter=No
 5	и	и	INTJ	_	_	7	discourse	_	wf="и"|tf="ɨ̈ "|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=и|SpaceAfter=No
 6	)	)	PUNCT	_	_	5	punct	_	wf=")"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=)
-7	запо́здів	запоздіті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="запоздів"|tf="zɑpˈozdiw"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=запоздіти
+7	запо́здів	запоздіті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	13	advcl	_	wf="запоздів"|tf="zɑpˈozdiw"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=запоздіти
 8	би	би	AUX	_	Mood=Cnd	7	aux	_	wf="би"|tf="bɤ̝"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=би|SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-10	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	discourse	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хтовди
-11	о	о	ADP	_	_	12	advmod	_	wf="о"|tf="o"|PosRapidity=7|LemmaErrorSpots=_|TaggedLemma=о
-12	дванаця́той	дванацятий	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	14	amod	_	wf="дванацятой"|tf="dvɑnˈɑt͡sʲɑtoj"|PosRapidity=7|LemmaErrorSpots=__________|TaggedLemma=дванацятий
-13	засьпíват	засьпіваті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	punct	_	wf="засьпіват"|tf="zɑçpˈivɑt"|PosRapidity=2|LemmaErrorSpots=_________X|TaggedLemma=засьпівати
-14	ко́гут	когут	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obj	_	wf="когут"|tf="kˈoɦut"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=когут
-15	і	і	CCONJ	_	_	18	cc	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
-16	вин	вино	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	det	_	wf="вин"|tf="vɪ̈n"|PosRapidity=7|LemmaErrorSpots=____|TaggedLemma=вино
-17	на	на	ADP	_	_	18	det	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
-18	дри́дзі	дрига	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	conj	_	wf="дридзі"|tf="drˈɯd͡zʲi"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=1|LemmaErrorSpots=___XXX|TaggedLemma=дридза
-19	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	advmod	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
-20	премíніт	премініті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	amod	_	wf="премініт"|tf="premˈinɪt"|PosRapidity=7|LemmaErrorSpots=________X|TaggedLemma=премініти
-21	на	на	ADP	_	_	22	amod	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
-22	колíмайс	колімайс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	conj	_	wf="колімайс"|tf="koḻʲˈimɑjs"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=колімайс|SpaceAfter=No
-23	.	.	PUNCT	_	_	7	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
+9	,	,	PUNCT	_	_	7	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
+10	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	advmod	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хтовди
+11	о	о	ADP	_	_	12	case	_	wf="о"|tf="o"|PosRapidity=7|LemmaErrorSpots=_|TaggedLemma=о
+12	дванаця́той	дванацятий	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	13	obl	_	wf="дванацятой"|tf="dvɑnˈɑt͡sʲɑtoj"|PosRapidity=7|LemmaErrorSpots=__________|TaggedLemma=дванацятий
+13	засьпíват	засьпіваті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	wf="засьпіват"|tf="zɑçpˈivɑt"|PosRapidity=2|LemmaErrorSpots=_________X|TaggedLemma=засьпівати
+14	ко́гут	когут	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	wf="когут"|tf="kˈoɦut"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=когут
+15	і	і	CCONJ	_	_	20	cc	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
+16	вин	вино	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	wf="вин"|tf="vɪ̈n"|PosRapidity=7|LemmaErrorSpots=____|TaggedLemma=вино
+17	на	на	ADP	_	_	18	case	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
+18	дри́дзі	дрига	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	wf="дридзі"|tf="drˈɯd͡zʲi"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=1|LemmaErrorSpots=___XXX|TaggedLemma=дридза
+19	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	20	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
+20	премíніт	премініті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	conj	_	wf="премініт"|tf="premˈinɪt"|PosRapidity=7|LemmaErrorSpots=________X|TaggedLemma=премініти
+21	на	на	ADP	_	_	22	case	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
+22	колíмайс	колімайс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	wf="колімайс"|tf="koḻʲˈimɑjs"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=колімайс|SpaceAfter=No
+23	.	.	PUNCT	_	_	13	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.3.5
 # IPA_transcription = tˈɑk◡çɑ◡i stˈɑlo //
 # standard_text = Та́к ся і ста́ло.
 # german_text = So geschah es auch.
 1	Та́к	так	ADV	_	PronType=Dem	4	advmod	_	wf="Так"|tf="tˈɑk"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=так
-2	ся	ся	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	nsubj	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
+2	ся	ся	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
 3	і	і	PART	_	_	4	discourse	_	wf="і"|tf="i"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
 4	ста́ло	статі	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="стало"|tf="stˈɑlo"|PosRapidity=0|LemmaErrorSpots=____X|TaggedLemma=стати|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
@@ -657,34 +656,34 @@
 4	а	а	CCONJ	_	_	16	cc	_	wf="а"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
 5	на	на	ADP	_	Case=Loc	6	case	_	wf="на"|tf="nɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=на
 6	дри́дзі	дридза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	wf="дридзі"|tf="drˈɯd͡zʲi"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=1|LemmaErrorSpots=______|TaggedLemma=дридза
-7	коло	коло	ADP	_	_	8	amod	_	wf="коло"|tf="kˌolo"|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
-8	за́мка	замка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nsubj	_	wf="замка"|tf="zˈɑmkɑ"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замка|SpaceAfter=No
+7	коло	коло	ADP	_	_	8	case	_	wf="коло"|tf="kˌolo"|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
+8	за́мка	замка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obl	_	wf="замка"|tf="zˈɑmkɑ"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замка|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-10	як	як	SCONJ	_	_	12	advmod	_	wf="як"|tf="jak"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=як
+10	як	як	SCONJ	_	_	12	mark	_	wf="як"|tf="jak"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=як
 11	ко́гут	когут	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	wf="когут"|tf="kˈoɦut"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=когут
-12	засьпíвав	засьпіваті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	acl:relcl	_	wf="засьпівав"|tf="zɑçpˈivɑw"|PosRapidity=0|LemmaErrorSpots=_________X|TaggedLemma=засьпівати
+12	засьпíвав	засьпіваті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	advcl	_	wf="засьпівав"|tf="zɑçpˈivɑw"|PosRapidity=0|LemmaErrorSpots=_________X|TaggedLemma=засьпівати
 13	дванаця́ту	дванацятий	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	14	amod	_	wf="дванацяту"|tf="dvɑnɑt͡sʲˈɑtu"|PosRapidity=1|LemmaErrorSpots=__________|TaggedLemma=дванацятий
 14	годíну	годін	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	wf="годіну"|tf="ɦodˈïnu"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=годін|SpaceAfter=No
 15	,	,	PUNCT	_	_	12	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 16	розпустíвся	розпустітися	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	wf="розпустівся"|tf="rosˈpustɪ̈w çɑ"|PosRapidity=0|LemmaErrorSpots=____________|TaggedLemma=розпустітися
 17	чи́сто	чисто	ADV	_	Degree=Pos	16	advmod	_	wf="чисто"|tf="ʈ͡ʂʲɪ̈sto"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=чисто
-18	на	на	ADP	_	_	19	amod	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
-19	колíмайс	колімайс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	wf="колімайс"|tf="koḻʲˈimɑjs"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=колімайс|SpaceAfter=No
+18	на	на	ADP	_	_	19	case	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
+19	колíмайс	колімайс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	wf="колімайс"|tf="koḻʲˈimɑjs"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=колімайс|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 21	а	а	CCONJ	_	_	23	cc	_	wf="а"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
 22	ска́ла	скала	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	wf="скала"|tf="skˈɑlɑ"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=скал
-23	оста́ла	остаті	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	conj	_	wf="остала"|tf="ostˈɑlɑ"|PosRapidity=0|LemmaErrorSpots=_____X|TaggedLemma=остати
+23	оста́ла	остаті	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	wf="остала"|tf="ostˈɑlɑ"|PosRapidity=0|LemmaErrorSpots=_____X|TaggedLemma=остати
 24	там	там	ADV	_	PronType=Dem	23	advmod	_	wf="там"|tf="tɑm"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=там
 25	стоя́ті	стояті	VERB	_	Aspect=Imp|VerbForm=Inf	23	xcomp:pred	_	wf="стояті"|tf="stojˈɑtɪ"|PosRapidity=1|LemmaErrorSpots=_____X|TaggedLemma=стояти
-26	і	і	CCONJ	_	_	27	cc	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
-27	тéраз	тераз	ADV	_	_	25	conj	_	wf="тераз"|tf="tˈerɑs"|PosRapidity=7|LemmaErrorSpots=_____|TaggedLemma=тераз|SpaceAfter=No
+26	і	і	CCONJ	_	_	27	advmod	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
+27	тéраз	тераз	ADV	_	_	25	advmod	_	wf="тераз"|tf="tˈerɑs"|PosRapidity=7|LemmaErrorSpots=_____|TaggedLemma=тераз|SpaceAfter=No
 28	.	.	PUNCT	_	_	2	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
 
 # sent_id = LA1407.3.7
 # IPA_transcription = ot◡tˈoɦo ʈ͡ʂʲɑsu / nɑzˈɪ̈vat͡sʲɑ ʈ͡ʂʲortˈovɑ skˈɑlɑ //
 # standard_text = От то́го ча́су нази́ватся Чорто́ва ска́ла.
 # german_text = Seit dieser Zeit heißt er Teufelsfels.
-1	От	от	ADP	_	_	4	discourse	_	wf="От"|tf="ot"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=от
+1	От	от	ADP	_	_	3	case	_	wf="От"|tf="ot"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=от
 2	то́го	той	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	wf="того"|tf="tˈoɦo"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=той
 3	ча́су	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	wf="часу"|tf="ʈ͡ʂʲɑsu"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=час
 4	нази́ватся	називатися	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="називатся"|tf="nɑzˈɪ̈vat͡sʲɑ"|PosRapidity=1|LemmaErrorSpots=__________|TaggedLemma=називатися
@@ -699,11 +698,11 @@
 1	Чорто́ва	чортовий	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	wf="Чортова"|tf="ʈ͡ʂʲortˈovɑ"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=чортовий
 2	ска́ла	скал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	wf="скала"|tf="skˈɑlɑ"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=скал
 3	сто́їт	стояті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="стоїт"|tf="stˈojit"|PosRapidity=1|LemmaErrorSpots=_____X|TaggedLemma=стояти
-4	ко́ло	коло	ADP	_	_	3	advmod	_	wf="коло"|tf="kˌolo"|Entity=B-LOC|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
+4	ко́ло	коло	ADP	_	_	5	case	_	wf="коло"|tf="kˌolo"|Entity=B-LOC|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
 5	Попра́да	Попрад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	3	obj	_	wf="Попрада"|tf="poprˈɑdɑ"|Entity=I-LOC|PosRapidity=1|LemmaErrorSpots=______X|TaggedLemma=Попрада
 6	на	на	ADP	_	_	7	case	_	wf="на"|tf="nɑ"|Entity=I-LOC|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
 7	доли́ні	долина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	wf="долині"|tf="dolˈïnɪ"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=долина
-8	блíзко	блізко	ADP	_	_	9	advmod	_	wf="блізко"|tf="bḻʲˈɪsko"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=блізко
+8	блíзко	блізко	ADP	_	_	9	case	_	wf="блізко"|tf="bḻʲˈɪsko"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=блізко
 9	Уя́ка	Уяка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	7	nmod	_	wf="Уяка"|tf="wjˈɑkɑ"|Entity=S-LOC|PosRapidity=2|LemmaErrorSpots=____|TaggedLemma=Уяка|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 11	Гайти́вок	Гайтивок	PROPN	_	Animacy=Inan|Case=Gen|NameType=Geo|Number=Plur	9	conj	_	wf="Гайтивок"|tf="ɦɑjtˈɪ̈wok"|Entity=S-LOC|PosRapidity=5|LemmaErrorSpots=________|TaggedLemma=Гайтивок
@@ -711,17 +710,17 @@
 13	за́мка	замка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	wf="замка"|tf="zˈɑmkɑ"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замка
 14	Старолюбо́вні	Старолюбовна	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	13	flat:title	_	wf="Старолюбовні"|tf="stˌɑroḻʲubˈownʲi"|Entity=E-LOC|PosRapidity=2|LemmaErrorSpots=___________X|TaggedLemma=Старолюбовні
 15	(	(	PUNCT	_	_	17	punct	_	wf="("|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=(|SpaceAfter=No
-16	о	о	ADP	_	_	17	advmod	_	wf="о"|tf="o"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=о
+16	о	о	ADP	_	_	17	case	_	wf="о"|tf="o"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=о
 17	ко́трой	котрий	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	13	parataxis	_	wf="котрой"|tf="kˈotroj"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=котрий|SpaceAfter=No
 18	)	)	PUNCT	_	_	17	punct	_	wf=")"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=)|SpaceAfter=No
 19	,	,	PUNCT	_	_	25	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-20	о	о	ADP	_	_	25	cc	_	wf="о"|tf="o"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=о
-21	ко́трой	котрий	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	25	advmod	_	wf="котрой"|tf="kˈotroj"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=котрий
-22	то́та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	24	amod	_	wf="тота"|tf="tˈotɑ"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=тот
+20	о	о	ADP	_	_	21	case	_	wf="о"|tf="o"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=о
+21	ко́трой	котрий	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	25	mark	_	wf="котрой"|tf="kˈotroj"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=котрий
+22	то́та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	wf="тота"|tf="tˈotɑ"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=тот
 23	наро́дна	народний	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	24	amod	_	wf="народна"|tf="nɑrˈodnɑ"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=народний
-24	приповíдка	приповідка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	wf="приповідка"|tf="prïpovˈitkɑ"|PosRapidity=0|LemmaErrorSpots=__________|TaggedLemma=приповідка
-25	розширéна	розширений	ADJ	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	advcl	_	wf="розширена"|tf="roʂɪ̈rˈenɑ"|PosRapidity=0|LemmaErrorSpots=__________|TaggedLemma=розширений
-26	мéнджі	менджі	ADP	_	_	27	amod	_	wf="менджі"|tf="mˌend͡ʐï"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=менджі
+24	приповíдка	приповідка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj:pass	_	wf="приповідка"|tf="prïpovˈitkɑ"|PosRapidity=0|LemmaErrorSpots=__________|TaggedLemma=приповідка
+25	розширéна	розширений	ADJ	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	acl:recl	_	wf="розширена"|tf="roʂɪ̈rˈenɑ"|PosRapidity=0|LemmaErrorSpots=__________|TaggedLemma=розширений
+26	мéнджі	менджі	ADP	_	_	27	case	_	wf="менджі"|tf="mˌend͡ʐï"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=менджі
 27	наро́дом	народ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	25	obl	_	wf="народом"|tf="nɑrˈodom"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=народ
 28	на	на	ADP	_	_	29	case	_	wf="на"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
 29	околíці	околіця	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	obl	_	wf="околіці"|tf="okoḻʲit͡si"|PosRapidity=0|LemmaErrorSpots=_____XX|TaggedLemma=околіка|SpaceAfter=No
@@ -731,24 +730,24 @@
 # IPA_transcription = zˈɑmok stˌɑroḻʲubovˈent͡skɪj stˈojit kˌolo◡poprˈɑdɑ blʲˈɪsko / mistˈoʈ͡ʂʲkɑ stˌɑroḻʲubˈownʲi / ɪ kɑmjˈuŋkɤ̝ / ɑ je mɑjˈetkom jednˈoɦo̝ poḻʲskˈoɦo̝ grˈofɑ //
 # standard_text = За́мок старолюбовéнтскій сто́їт ко́ло Попра́да блíзко місто́чка Старолюбо́вні і Камю́нки, а є має́тком єдно́го польско́го ґро́фа.
 # german_text = Das Schloß Starolubovnja steht neben dem Poprad in der Nähe des Städtchens Starolubovńa und der Kamjunka und ist der Besitz eines polnischen Grafen.
-1	За́мок	замок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	wf="Замок"|tf="zˈɑmok"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замок
-2	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=E-LOC|PosRapidity=1|LemmaErrorSpots=_______________XX|TaggedLemma=старолюбовентский
-3	сто́їт	стояті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	punct	_	wf="стоїт"|tf="stˈojit"|PosRapidity=7|LemmaErrorSpots=_____X|TaggedLemma=стояти
-4	ко́ло	коло	ADP	_	_	7	amod	_	wf="коло"|tf="kˌolo"|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
-5	Попра́да	Попрад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	1	nmod	_	wf="Попрада"|tf="poprˈɑdɑ"|Entity=S-LOC|PosRapidity=1|LemmaErrorSpots=______X|TaggedLemma=Попрада
-6	блíзко	блізко	ADP	_	_	7	advmod	_	wf="блізко"|tf="blʲˈɪsko"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=блізко
-7	місто́чка	місточко	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	wf="місточка"|tf="mistˈoʈ͡ʂʲkɑ"|PosRapidity=2|LemmaErrorSpots=_______X|TaggedLemma=місточка
-8	Старолюбо́вні	Старолюбовня	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	7	nmod	_	wf="Старолюбовні"|tf="stˌɑroḻʲubˈownʲi"|Entity=S-LOC|PosRapidity=2|LemmaErrorSpots=___________X|TaggedLemma=Старолюбовні
+1	За́мок	замок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="Замок"|tf="zˈɑmok"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замок
+2	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=E-LOC|PosRapidity=1|LemmaErrorSpots=_______________XX|TaggedLemma=старолюбовентский
+3	сто́їт	стояті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="стоїт"|tf="stˈojit"|PosRapidity=7|LemmaErrorSpots=_____X|TaggedLemma=стояти
+4	ко́ло	коло	ADP	_	_	5	case	_	wf="коло"|tf="kˌolo"|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
+5	Попра́да	Попрад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	3	obl	_	wf="Попрада"|tf="poprˈɑdɑ"|Entity=S-LOC|PosRapidity=1|LemmaErrorSpots=______X|TaggedLemma=Попрада
+6	блíзко	блізко	ADP	_	_	7	case	_	wf="блізко"|tf="blʲˈɪsko"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=блізко
+7	місто́чка	місточко	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	wf="місточка"|tf="mistˈoʈ͡ʂʲkɑ"|PosRapidity=2|LemmaErrorSpots=_______X|TaggedLemma=місточка
+8	Старолюбо́вні	Старолюбовня	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	7	flat:title	_	wf="Старолюбовні"|tf="stˌɑroḻʲubˈownʲi"|Entity=S-LOC|PosRapidity=2|LemmaErrorSpots=___________X|TaggedLemma=Старолюбовні
 9	і	і	CCONJ	_	_	10	cc	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
 10	Камю́нки	Камюнка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	8	conj	_	wf="Камюнки"|tf="kɑmjˈuŋkɤ̝"|Entity=S-LOC|PosRapidity=1|LemmaErrorSpots=_______|TaggedLemma=Камюнка|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
 12	а	а	CCONJ	_	_	14	cc	_	wf="а"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
 13	є	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	wf="є"|tf="je"|PosRapidity=0|LemmaErrorSpots=_XXX|TaggedLemma=бути
-14	має́тком	маєток	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	wf="маєтком"|tf="mɑjˈetkom"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=маєток
+14	має́тком	маєток	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	conj	_	wf="маєтком"|tf="mɑjˈetkom"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=маєток
 15	єдно́го	єдин	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	wf="єдного"|tf="jednˈoɦo̝"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=єдин
 16	польско́го	польский	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	wf="польского"|tf="poḻʲskˈoɦo̝"|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=польский
 17	ґро́фа	ґрофа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	wf="ґрофа"|tf="grˈofɑ"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=ґрофа|SpaceAfter=No
-18	.	.	PUNCT	_	_	7	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.|SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.|SpaceAfter=No
 
 # sent_id = LA1407.3.10
 # IPA_transcription = kʲˈet◡çɑ ...
