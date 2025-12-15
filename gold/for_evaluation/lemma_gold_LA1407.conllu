@@ -338,7 +338,7 @@
 19	фíґлі	фіґель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	165	_	_	wf="фіґлі"|tf="fˈigḻʲi"|PosRapidity=0
 20	ро́бят	робиті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	_	_	wf="робят"|tf="rˈobjat"|PosRapidity=2|SpaceAfter=No
 21	,	,	PUNCT	_	_	18	_	_	wf=","|PosRapidity=0
-22	дако́ди	дакоди	SCONJ	_	PronType=Rel	19	_	_	wf="дакоди"|tf="dɑkˈodɯ"|PosRapidity=7
+22	дако́ди	дакоди	ADV	_	Degree=Pos	19	_	_	wf="дакоди"|tf="dɑkˈodɯ"|PosRapidity=7
 23	аж	аж	PART	_	_	20	_	_	wf="аж"|tf="ɑʂ"|PosRapidity=0
 24	і	і	PART	_	_	21	_	_	wf="і"|tf="ɪ"|PosRapidity=0
 25	затанцю́ют	затанцюваті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	wf="затанцюют"|tf="zɑtɑnʈ͡sʲˈujut"|PosRapidity=3|SpaceAfter=No
@@ -356,7 +356,7 @@
 6	ні́т	ніт	VERB	_	Polarity=Neg	5	_	_	wf="ніт"|tf="nʲˈit"|PosRapidity=7
 7	по́ста	пост	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	wf="поста"|tf="vˈostɑ"|PosRapidity=0|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	_	_	wf=","|PosRapidity=0
-9	хдо́вди	хдовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	_	_	wf="хдовди"|tf="xtˈowdɨ"|PosRapidity=7
+9	хдо́вди	хдовди	PRON	_	PronType=Ind	8	_	_	wf="хдовди"|tf="xtˈowdɨ"|PosRapidity=7
 10	весéло	весело	ADV	_	Degree=Pos	9	_	_	wf="весело"|tf="vesˈelo"|PosRapidity=0
 11	сьпíвают	сьпіваті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	wf="сьпівают"|tf="çpivˈɑjut"|PosRapidity=2|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	_	_	wf="."|PosRapidity=0
@@ -372,7 +372,7 @@
 5	фíґлі	фіґель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	_	_	wf="фіґлі"|tf="fˈigḻʲi"|PosRapidity=0
 6	робі́ті	робіті	VERB	_	Aspect=Imp|VerbForm=Inf	5	_	_	wf="робіті"|tf="rˈobïtɪ"|PosRapidity=7|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	_	_	wf=","|PosRapidity=0
-8	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	7	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7
+8	хто́вди	хтовди	PRON	_	PronType=Ind	7	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7
 9	на	на	ADP	_	_	8	_	_	wf="на"|tf="nɑ"|PosRapidity=1
 10	ка́рти	карта	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	_	_	wf="карти"|tf="kˈɑrtɪ̈"|PosRapidity=0
 11	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	_	_	wf="ся"|tf="çɑ"|PosRapidity=0
@@ -396,7 +396,7 @@
 4	в	в	ADP	_	_	3	_	_	wf="в"|tf="v"|PosRapidity=1
 5	лíті	літо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	_	_	wf="літі"|tf="ḻʲˈitʲi"|PosRapidity=1|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	_	_	wf=","|PosRapidity=0
-7	лем	лем	SCONJ	_	_	6	_	_	wf="лем"|tf="lem"|PosRapidity=7
+7	лем	лем	PART	_	_	6	_	_	wf="лем"|tf="lem"|PosRapidity=7
 8	в	в	ADP	_	_	7	_	_	wf="в"|tf="v"|PosRapidity=1
 9	зíмі	зіма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	wf="зімі"|tf="zˈimi"|PosRapidity=0|SpaceAfter=No
 10	,	,	PUNCT	_	_	9	_	_	wf=","|PosRapidity=0
@@ -408,7 +408,7 @@
 16	сто́ят	стояті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	wf="стоят"|tf="stˈojɑt"|PosRapidity=3|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	_	_	wf=","|PosRapidity=0
 18	а	а	CCONJ	_	_	17	_	_	wf="а"|tf="ɑ"|PosRapidity=0
-19	дако́ди	дакоди	SCONJ	_	PronType=Rel	18	_	_	wf="дакоди"|tf="dɑkˈodɨ"|PosRapidity=7
+19	дако́ди	дакоди	ADV	_	Degree=Pos	18	_	_	wf="дакоди"|tf="dɑkˈodɨ"|PosRapidity=7
 20	аж	аж	PART	_	_	19	_	_	wf="аж"|tf="῾aʐ"|PosRapidity=0
 21	до	до	ADP	_	_	20	_	_	wf="до"|tf="do"|PosRapidity=1
 22	но́чи	ноч	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	_	_	wf="ночи"|tf="nˈoʈ͡ʂʲï"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=0
@@ -429,14 +429,14 @@
 5	шу́мни	шумни	ADJ	_	Case=Nom|Number=Plur	4	_	_	wf="шумни"|tf="ʂumnɯ"|PosRapidity=7|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	_	_	wf=","|PosRapidity=0
 7	та́кже	также	ADV	_	_	6	_	_	wf="также"|tf="tˈɑgʐë̝"|PosRapidity=7
-8	дако́ди	дакоди	SCONJ	_	PronType=Rel	7	_	_	wf="дакоди"|tf="dɑkˈʊ̞̈dɯ"|PosRapidity=7
+8	дако́ди	дакоди	ADV	_	Degree=Pos	7	_	_	wf="дакоди"|tf="dɑkˈʊ̞̈dɯ"|PosRapidity=7
 9	і	і	CCONJ	_	_	8	_	_	wf="і"|tf="῾ɪ"|PosRapidity=0
 10	пан	пан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	_	_	wf="пан"|tf="pɑn"|PosRapidity=0
 11	учи́тель	учитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	_	_	wf="учитель"|tf="uʈ͡ʂʲˈïteḻʲ"|PosRapidity=0
-12	íдут	іті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	_	_	wf="ідут"|tf="῾ˈɪdut"|PosRapidity=3
+12	íдут	іті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	_	_	wf="ідут"|tf="῾ˈɪdut"|PosRapidity=2
 13	посмотрíти	посмотріті	VERB	_	Aspect=Perf|VerbForm=Inf	12	_	_	wf="посмотріти"|tf="posmotˈrïtɪ"|PosRapidity=0
 14	а	а	CCONJ	_	_	13	_	_	wf="а"|tf="ɑ"|PosRapidity=0
-15	погва́рят	погвариті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	_	_	wf="погварят"|tf="poɦwˈɑrjɑt"|PosRapidity=3
+15	погва́рят	погвариті	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	_	_	wf="погварят"|tf="poɦwˈɑrjɑt"|PosRapidity=3
 16	з	з	ADP	_	_	15	_	_	wf="з"|tf="s"|PosRapidity=1
 17	парубка́мі	парубок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	16	_	_	wf="парубкамі"|tf="pɑrɯpkˈɑmɪ"|PosRapidity=2
 18	і	і	CCONJ	_	_	17	_	_	wf="і"|tf="῾ɪ"|PosRapidity=0
@@ -448,7 +448,7 @@
 # IPA_transcription = lˌem ʐe f◡tˈɑkɤ̝j ʈ͡ʂʲɑs fʂˈɨtkɤ̝ sud◡vˈɑʐnɨ̈ / ɑ◡nʲˈe◡çmut tˈoto rˈobïtɪ / ʂto drˈuɦɨ̈j rɑs / bˌo çɑ kˈuçʈ͡sʲok ɦɑnʲbjat //
 # standard_text = Лем же в та́кий час вши́тки сут ва́жни а не сьмут то́то робі́ті, што дру́гий раз, бо ся ку́сьцьок га́ньбят.
 # german_text = Nur in solchen Momenten sind alle sehr ernst und dürfen es nicht so treiben, wie sonst, weil sie sich ein wenig genieren.
-1	Лем	лем	SCONJ	_	_	0	_	_	wf="Лем"|tf="lˌem"|PosRapidity=7
+1	Лем	лем	PART	_	_	0	_	_	wf="Лем"|tf="lˌem"|PosRapidity=7
 2	же	же	PART	_	_	1	_	_	wf="же"|tf="ʐe"|PosRapidity=0
 3	в	в	ADP	_	_	2	_	_	wf="в"|tf="f"|PosRapidity=1
 4	та́кий	такий	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	_	_	wf="такий"|tf="tˈɑkɤ̝j"|PosRapidity=0
@@ -477,8 +477,8 @@
 # standard_text = Вечíрки лем хто́вди сут вечíркамі, кед хло́пці й дівча́та сут са́мі.
 # german_text = Die Spielabende werden erst dann zu Spielabenden, wenn Burschen und Mädchen allein sind.
 1	Вечíрки	вечірка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	wf="Вечірки"|tf="veʈ͡ʂʲˈɪrkɤ̝"|PosRapidity=0
-2	лем	лем	SCONJ	_	_	1	_	_	wf="лем"|tf="lem"|PosRapidity=7
-3	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	_	_	wf="хтовди"|tf="xtˈowdɨ̈ "|PosRapidity=7
+2	лем	лем	PART	_	_	1	_	_	wf="лем"|tf="lem"|PosRapidity=7
+3	хто́вди	хтовди	PRON	_	PronType=Ind	2	_	_	wf="хтовди"|tf="xtˈowdɨ̈ "|PosRapidity=7
 4	сут	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	wf="сут"|tf="sud"|PosRapidity=7
 5	вечíркамі	вечірка	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	4	_	_	wf="вечіркамі"|tf="veʈ͡ʂʲˈɪrkˈɑmɪ"|PosRapidity=3|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	_	_	wf=","|PosRapidity=0
@@ -519,7 +519,7 @@
 # standard_text = Вечíрки дако́ди аж до пулно́чи тріма́ют, кед не да́льше.
 # german_text = Die Spielabende werden manchmal bis zur Mitternacht hingezogen, wenn nicht länger.
 1	Вечíрки	вечірка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	_	_	wf="Вечірки"|tf="veʈ͡ʂʲˈɪrkɤ̝"|PosRapidity=0
-2	дако́ди	дакоди	SCONJ	_	PronType=Rel	1	_	_	wf="дакоди"|tf="dɑkˈɪ̈dʊ̞̈"|PosRapidity=7
+2	дако́ди	дакоди	ADV	_	Degree=Pos	1	_	_	wf="дакоди"|tf="dɑkˈɪ̈dʊ̞̈"|PosRapidity=7
 3	аж	аж	PART	_	_	2	_	_	wf="аж"|tf="ɑʐ"|PosRapidity=0
 4	до	до	ADP	_	_	3	_	_	wf="до"|tf="do"|PosRapidity=1
 5	пулно́чи	пулноч	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	_	_	wf="пулночи"|tf="pˌulnˈoʈ͡ʂʲˈɪ"|PosRapidity=0
@@ -547,7 +547,7 @@
 11	хтят	хтиті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	wf="хтят"|tf="xtʲˈɑt"|PosRapidity=2
 12	женíті	женіті	VERB	_	Aspect=Perf|VerbForm=Inf	11	_	_	wf="женіті"|tf="ʐenˈïtɪ"|PosRapidity=7|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	_	_	wf=","|PosRapidity=0
-14	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7
+14	хто́вди	хтовди	PRON	_	PronType=Ind	13	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7
 15	найвéцей	найвецей	ADV	_	Degree=Sup	14	_	_	wf="найвецей"|tf="nɑjvˈet͡sej"|PosRapidity=7|SpaceAfter=No
 16	,	,	PUNCT	_	_	15	_	_	wf=","|PosRapidity=0
 17	раз	раз	ADV	_	_	16	_	_	wf="раз"|tf="rɑs"|PosRapidity=7
@@ -646,7 +646,7 @@
 7	запо́здів	запоздіті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	wf="запоздів"|tf="zɑpˈozdiw"|PosRapidity=0
 8	би	би	AUX	_	Mood=Cnd	7	_	_	wf="би"|tf="bɤ̝"|PosRapidity=0|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	_	_	wf=","|PosRapidity=0
-10	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7
+10	хто́вди	хтовди	PRON	_	PronType=Ind	9	_	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7
 11	о	о	ADP	_	_	10	_	_	wf="о"|tf="o"|PosRapidity=7
 12	дванаця́той	дванацятий	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumType=Ord	11	_	_	wf="дванацятой"|tf="dvɑnˈɑt͡sʲɑtoj"|PosRapidity=7
 13	засьпíват	засьпіваті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	_	_	wf="засьпіват"|tf="zɑçpˈivɑt"|PosRapidity=2
