@@ -1,0 +1,74 @@
+2025-12-16 21:19:57 DEBUG: Configuration loaded: {'exp_dir': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results', 'exp_name': 'exp_depparse_eval', 'phase': 'eval', 'stage': 'depparse', 'tagging_settings': {'input_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/LA1407_merged_for_depparse.conllu', 'pretagged': True}, 'evaluation_settings': {'pred_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_depparse_merged/depparse_gold_stanza_LA1407_merged_for_depparse.conllu', 'gold_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/for_evaluation/depparse_gold_LA1407.conllu', 'train_result': 88.6, 'train_ufeats': 85.87}}
+2025-12-16 21:19:57 INFO: Dependency parsing: starting comparison between /home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/for_evaluation/depparse_gold_LA1407.conllu and /home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_depparse_merged/depparse_gold_stanza_LA1407_merged_for_depparse.conllu
+2025-12-16 21:19:57 INFO: PoS labels are ['PUNCT', 'NOUN', 'DET', 'AUX', 'SCONJ', 'INTJ', 'CCONJ', 'PROPN', 'ADJ', 'VERB', 'ADP', 'PART', 'PRON', 'ADV']
+2025-12-16 21:19:57 INFO: Syntactic labels are ['nsubj:pass', 'case', 'obl', 'cc', '_', 'root', 'aux:pass', 'flat:title', 'expl:pv', 'nummod', 'cop', 'nmod', 'det', 'acl:relcl', 'fixed', 'expl', 'appos', 'conj', 'amod', 'parataxis:discourse', 'obj', 'advcl', 'ccomp', 'acl', 'iobj', 'obl:cmpr', 'xcomp', 'obl:agent', 'discourse', 'mark', 'parataxis', 'advmod', 'acl:recl', 'aux', 'punct', 'nsubj', 'xcomp:pred']
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:57 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 DEBUG: <class 'zss.simple_tree.Node'>
+2025-12-16 21:19:58 INFO: Average tree edit distance is 9.00
+2025-12-16 21:19:58 INFO: UAS in dataset: 0.00%
+2025-12-16 21:19:58 DEBUG: Sign-neutral cosine similarity is 0.27
+2025-12-16 21:19:58 INFO: UAS robustness in dataset: 0.27%
+2025-12-16 21:19:58 INFO: LAS in dataset: 0.00%
+2025-12-16 21:19:58 DEBUG: Sign-neutral cosine similarity is 0.28
+2025-12-16 21:19:58 INFO: LAS robustness in dataset: 0.28%
+2025-12-16 21:19:58 INFO: Share of correctly morphologically tagged items in dataset is 0.00%
+2025-12-16 21:19:58 INFO: Share of correctly syntactically tagged items in dataset among correctly morphologically tagged items is 0.00%
+2025-12-16 21:19:58 INFO: Share of correctly syntactically tagged items in dataset among correctly morphologically tagged items is 0.00%
+2025-12-16 21:19:58 INFO: Share of correctly syntactically tagged items in dataset among correctly morphologically tagged items is 0.00%
+2025-12-16 21:19:58 INFO: Share of correctly syntactically tagged items in dataset among correctly morphologically tagged items is 0.00%

@@ -1,0 +1,277 @@
+2025-12-16 21:39:32 DEBUG: Configuration loaded: {'exp_dir': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results', 'exp_name': 'exp_depparse_eval', 'phase': 'eval', 'stage': 'depparse', 'tagging_settings': {'input_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/LA1407_merged_for_depparse.conllu', 'pretagged': True}, 'evaluation_settings': {'pred_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_depparse_merged/depparse_gold_stanza_LA1407_merged_for_depparse.conllu', 'gold_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/for_evaluation/depparse_gold_LA1407.conllu', 'train_result': 88.6, 'train_ufeats': 85.87}}
+2025-12-16 21:39:32 INFO: Dependency parsing: starting comparison between /home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/for_evaluation/depparse_gold_LA1407.conllu and /home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_depparse_merged/depparse_gold_stanza_LA1407_merged_for_depparse.conllu
+2025-12-16 21:39:32 INFO: PoS labels are ['ADP', 'INTJ', 'PUNCT', 'DET', 'AUX', 'PRON', 'PROPN', 'CCONJ', 'ADJ', 'PART', 'VERB', 'NOUN', 'SCONJ', 'ADV']
+2025-12-16 21:39:32 INFO: Syntactic labels are ['aux:pass', 'nsubj:pass', 'acl:relcl', 'nsubj', 'iobj', 'cc', 'obl', 'xcomp', 'conj', 'advmod', '_', 'acl:recl', 'expl:pv', 'punct', 'mark', 'ccomp', 'xcomp:pred', 'nummod', 'flat:title', 'case', 'det', 'acl', 'parataxis:discourse', 'obl:cmpr', 'root', 'parataxis', 'aux', 'cop', 'fixed', 'obj', 'advcl', 'appos', 'amod', 'discourse', 'obl:agent', 'nmod', 'expl']
+2025-12-16 21:39:33 INFO: Average tree edit distance is 9.00
+2025-12-16 21:39:33 INFO: UAS in dataset: 0.00%
+2025-12-16 21:39:33 DEBUG: Sign-neutral cosine similarity is 0.27
+2025-12-16 21:39:33 INFO: UAS robustness in dataset: 0.27
+2025-12-16 21:39:33 INFO: LAS in dataset: 0.00%
+2025-12-16 21:39:33 DEBUG: Sign-neutral cosine similarity is 0.28
+2025-12-16 21:39:33 INFO: LAS robustness in dataset: 0.28
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items in dataset is 98.19%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items in dataset among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items in dataset among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items in dataset among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items in dataset among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UCP is 47.18%
+2025-12-16 21:39:33 INFO: LCP is 35.57%
+2025-12-16 21:39:33 INFO: UAS for aux:pass: 0.00%
+2025-12-16 21:39:33 INFO: LAS for aux:pass: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for aux:pass is 66.67%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux:pass among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux:pass among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux:pass among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux:pass among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for nsubj:pass: 0.00%
+2025-12-16 21:39:33 INFO: LAS for nsubj:pass: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for nsubj:pass is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj:pass among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj:pass among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj:pass among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj:pass among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for acl:relcl: 0.00%
+2025-12-16 21:39:33 INFO: LAS for acl:relcl: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for acl:relcl is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:relcl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:relcl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:relcl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:relcl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for nsubj: 0.00%
+2025-12-16 21:39:33 INFO: LAS for nsubj: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for nsubj is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nsubj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for iobj: 0.00%
+2025-12-16 21:39:33 INFO: LAS for iobj: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for iobj is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for iobj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for iobj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for iobj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for iobj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for cc: 0.00%
+2025-12-16 21:39:33 INFO: LAS for cc: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for cc is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cc among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cc among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cc among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cc among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for obl: 0.00%
+2025-12-16 21:39:33 INFO: LAS for obl: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for obl is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for xcomp: 0.00%
+2025-12-16 21:39:33 INFO: LAS for xcomp: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for xcomp is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for conj: 0.00%
+2025-12-16 21:39:33 INFO: LAS for conj: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for conj is 98.18%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for conj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for conj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for conj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for conj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for advmod: 0.00%
+2025-12-16 21:39:33 INFO: LAS for advmod: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for advmod is 87.88%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advmod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advmod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advmod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advmod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for _: 0.00%
+2025-12-16 21:39:33 INFO: LAS for _: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for _ is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for _ among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for _ among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for _ among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for _ among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for acl:recl: 0.00%
+2025-12-16 21:39:33 INFO: LAS for acl:recl: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for acl:recl is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:recl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:recl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:recl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl:recl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for expl:pv: 0.00%
+2025-12-16 21:39:33 INFO: LAS for expl:pv: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for expl:pv is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl:pv among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl:pv among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl:pv among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl:pv among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for punct: 0.00%
+2025-12-16 21:39:33 INFO: LAS for punct: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for punct is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for punct among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for punct among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for punct among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for punct among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for mark: 0.00%
+2025-12-16 21:39:33 INFO: LAS for mark: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for mark is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for mark among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for mark among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for mark among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for mark among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for ccomp: 0.00%
+2025-12-16 21:39:33 INFO: LAS for ccomp: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for ccomp is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for ccomp among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for ccomp among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for ccomp among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for ccomp among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for xcomp:pred: 0.00%
+2025-12-16 21:39:33 INFO: LAS for xcomp:pred: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for xcomp:pred is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp:pred among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp:pred among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp:pred among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for xcomp:pred among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for nummod: 0.00%
+2025-12-16 21:39:33 INFO: LAS for nummod: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for nummod is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nummod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nummod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nummod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nummod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for flat:title: 0.00%
+2025-12-16 21:39:33 INFO: LAS for flat:title: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for flat:title is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for flat:title among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for flat:title among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for flat:title among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for flat:title among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for case: 0.00%
+2025-12-16 21:39:33 INFO: LAS for case: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for case is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for case among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for case among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for case among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for case among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for det: 0.00%
+2025-12-16 21:39:33 INFO: LAS for det: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for det is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for det among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for det among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for det among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for det among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for acl: 0.00%
+2025-12-16 21:39:33 INFO: LAS for acl: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for acl is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for acl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for parataxis:discourse: 0.00%
+2025-12-16 21:39:33 INFO: LAS for parataxis:discourse: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for parataxis:discourse is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis:discourse among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis:discourse among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis:discourse among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis:discourse among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for obl:cmpr: 0.00%
+2025-12-16 21:39:33 INFO: LAS for obl:cmpr: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for obl:cmpr is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:cmpr among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:cmpr among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:cmpr among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:cmpr among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for root: 0.00%
+2025-12-16 21:39:33 INFO: LAS for root: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for root is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for root among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for root among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for root among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for root among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for parataxis: 0.00%
+2025-12-16 21:39:33 INFO: LAS for parataxis: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for parataxis is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for parataxis among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for aux: 0.00%
+2025-12-16 21:39:33 INFO: LAS for aux: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for aux is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for aux among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for cop: 0.00%
+2025-12-16 21:39:33 INFO: LAS for cop: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for cop is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cop among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cop among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cop among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for cop among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for fixed: 0.00%
+2025-12-16 21:39:33 INFO: LAS for fixed: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for fixed is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for fixed among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for fixed among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for fixed among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for fixed among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for obj: 0.00%
+2025-12-16 21:39:33 INFO: LAS for obj: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for obj is 92.86%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obj among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obj among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for advcl: 0.00%
+2025-12-16 21:39:33 INFO: LAS for advcl: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for advcl is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advcl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advcl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advcl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for advcl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for appos: 0.00%
+2025-12-16 21:39:33 INFO: LAS for appos: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for appos is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for appos among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for appos among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for appos among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for appos among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for amod: 0.00%
+2025-12-16 21:39:33 INFO: LAS for amod: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for amod is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for amod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for amod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for amod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for amod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for discourse: 0.00%
+2025-12-16 21:39:33 INFO: LAS for discourse: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for discourse is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for discourse among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for discourse among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for discourse among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for discourse among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for obl:agent: 0.00%
+2025-12-16 21:39:33 INFO: LAS for obl:agent: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for obl:agent is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:agent among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:agent among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:agent among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for obl:agent among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for nmod: 0.00%
+2025-12-16 21:39:33 INFO: LAS for nmod: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for nmod is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nmod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nmod among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nmod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for nmod among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: UAS for expl: 0.00%
+2025-12-16 21:39:33 INFO: LAS for expl: 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly morphologically tagged items for expl is 100.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl among correctly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl among incorrectly morphologically tagged items is 0.00%
+2025-12-16 21:39:33 INFO: Share of correctly syntactically tagged items for expl among incorrectly morphologically tagged items is 0.00%
