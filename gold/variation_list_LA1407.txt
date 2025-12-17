@@ -1,0 +1,6 @@
+Phon/G
+Phon/SP_Front
+Phon/NTSK
+Phon/Edn
+Morph/Pronoun_Long
+Morph/Infinitive
