@@ -4,7 +4,9 @@
 # sent_id = LA1407.1.1
 # IPA_transcription = kɑmjˈunʲskɑ beçˈidɑ / kˌolo poprˈɑdɑ nɑ◡spˈɪʂu //
 # standard_text = Камю́ньска бесі́да ко́ло Попра́да на Спі́шу.
+# variation_text = Камю́{ньск=>ньск:::variation_type=Phon/NTSK}а бесі́да ко́ло Попра́да на {Спі́=>Спі́:::variation_type=Phon/SP_Front}шу.
 # german_text = Die Mundart von Kamjunka am Poprad in der Zips.
+# english_text = The dialect of Kamjunka on the river Poprad in the Spiš.
 1	Камю́ньска	камюньский	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	wf="Камюньска"|tf="kɑmjˈunʲskɑ"|PosRapidity=0|LemmaErrorSpots=__________|TaggedLemma=камюньский
 2	бесі́да	бесіда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="бесіда"|tf="beçˈidɑ"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=бесіда
 3	ко́ло	коло	ADP	_	_	4	case	_	wf="коло"|tf="kˌolo"|PosRapidity=1|LemmaErrorSpots=____|TaggedLemma=коло
@@ -16,7 +18,9 @@
 # sent_id = LA1407.1.2 - LA1407.1.3
 # IPA_transcription = tˈotɪ̈ çpivˈɑŋkɤ̝ ɪ tˈotɑ beçˈidɑ / kˈotrom tˈerɑz / bˈudu ɦwˈɑrɪw ɪ çpˈivɑw poxˈodït s◡kɑmˈjuŋkɤ̝ / s◡kɑrpɑtorˈuçkoɦo sˈelɑ kˈotre lˈeʐɪ̈t kˌolo vˈodɪ̈ / poprˈɑdɑ nɑ◡spˈɪʂu / de◡jʂʲʈ͡ʂʲɪ̞̈◡vˈelʲo kɑrpɑtorˈuçkɤ̝ sˈelɑ lˈeʐɑt / nɑprˈïklɑt◡fˈoḻʲvɑrk velˈɪkɤ̝j lˈɪpnïg◡ḻʲɪtmɑnˈovɑ / jɑrembˈɪnɑ krˈempɑx jɑkubjˈɑnɨ̈ mɑtɪsˈovɑ ɦɑjtˈɯwkɤ̝ / sˈulʲɪn ostˈurnʲɑ ɪ tɑg dˈaḻʲʂë̝ //
 # standard_text = То́ти сьпіва́нки і то́та бесі́да, ко́тром тéраз бу́ду гва́рів і сьпíвав, похо́діт з Камю́нки з карпатору́ського сéла, ко́тре лéжит ко́ло во́ди Попра́да на Спі́шу, де йще вéльо карпатору́ськи сéла лéжат, напрі́клад Фо́льварк, Велі́кий Лі́пник, Літмано́ва, Ярембі́на, Крéмпах, Якубя́ни, Матісо́ва, Гайти́вки, Су́лін, Осту́рня і так дальше.
+# variation_text = То́ти {сьпі=>спі:::variation_type=Phon/SP_Front}ва́нки і то́та бесі́да, ко́тром тéраз бу́ду {г=>г:::variation_type=Phon/G}ва́рів і {сьпі=>спі:::variation_type=Phon/SP_Front}íвав, похо́діт з Камю́нки з карпатору́сько{г=>г:::variation_type=Phon/G}о сéла, ко́тре лéжит ко́ло во́ди Попра́да на Спі́шу, де йще вéльо карпатору́ськи сéла лéжат, напрі́клад Фо́льварк, Велі́кий Лі́пник, Літмано́ва, Ярембі́на, Крéмпах, Якубя́ни, Матісо́ва, {Г=>Г:::variation_type=Phon/G}айти́вки, Су́лін, Осту́рня і так дальше.
 # german_text = Diese Lieder und die Mundart, die ich jetzt sprechen und singen werde, stammen aus Kamjunka, dem karpatoruthenischen Dorfe, das neben dem Flusse Poprad in der Zips liegt, wo noch viele karpatoruthenische Dörfer liegen, z. B. Folvark, Velikyj Lipnik, Litmanova, Jarembina, Krempach, Jakubjany, Matisova, Hajtyvky, Sulin, Osturnja und so weiter.
+# english_text = These songs and the dialect I will now speak and sing come from Kamjunka, the Carpathian Ruthenian village located next to the Poprad River in the Zips region, where there are many other Carpathian Ruthenian villages, such as Folvark, Velikyj Lipnik, Litmanova, Jarembina, Krempach, Jakubjany, Matisova, Hajtyvky, Sulin, Ostturnja and so on.
 1	То́ти	тот	DET	_	Case=Nom|Number=Plur|PronType=Dem	2	advmod	_	wf="Тоти"|tf="tˈotɪ̈"|PosRapidity=7|LemmaErrorSpots=___XX|TaggedLemma=тотий
 2	сьпіва́нки	сьпіванка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	conj	_	wf="сьпіванки"|tf="çpivˈɑŋkɤ̝"|PosRapidity=0|LemmaErrorSpots=_________|TaggedLemma=сьпіванка
 3	і	і	CCONJ	_	_	2	cc	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
@@ -81,7 +85,9 @@
 # sent_id = LA1407.1.4
 # IPA_transcription = to sut fʂˈɯtkɤ̝ lemkˈʊ̈wskɤ̝ sˈelɑ de po lemkˈʊ̈wskɤ̝ ɦwˈɑrjɑt //
 # standard_text = То сут вши́тки лемки́вски сéла, де по лемки́вски гва́рят.
+# variation_text = {То=>Тото:::variation_type=Morph/Pronoun_Long} сут вши́тки лемки́вски сéла, де по лемки́вски {г=>г:::variation_type=Phon/G}ва́рят.
 # german_text = Das sind alles lemkische Dörfer, wo lemkisch gesprochen wird.
+# english_text = These are all Lemko villages where Lemkian is spoken.
 1	То	то	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	5	nsubj	_	wf="То"|tf="to"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=то
 2	сут	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	wf="сут"|tf="sut"|PosRapidity=7|LemmaErrorSpots=XXXX|TaggedLemma=сути
 3	вши́тки	вшиткий	PRON	_	Case=Nom|Number=Plur|PronType=Tot	6	det	_	wf="вшитки"|tf="fʂˈɯtkɤ̝"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=вшитки
@@ -97,7 +103,9 @@
 # sent_id = LA1407.1.5 - LA1407.1.8
 # IPA_transcription = tu jezd◡ɦrɑnït͡sɑ mˌend͡ʐɪ◡rusɪnˈɑmɪ j rusnɑkˈɑmɪ ɪ slovɑkˈɑmɪ / ɪ zˈɑto fʂˈɨtkɤ̝ tˌotɯ◡rusnˈɑt͡si / vɪnʈ͡ʂʲujut sˈobi ʐˈebɤ̝ ku kˈɤ̝nt͡su ɦrɑnʲɪt͡sɑ potkɑrpɑˈt͡skoj rˈusɪ / tˈu bɤ̝lɑ zrobˈenɑ / mˌend͡ʐɪ◡nˈɪmɑ j slovɑkˈɑmɪ // bo rusnˈɑt͡sɪ / neprerˈɨvno ot◡tˈɪsɪ̈ ɑʂ◡ku◡poprˈɑdu / çɑ tʲˈɑɦnut / ɪ do wjˈednɑ ʐˈɨjutʲ◡jɑk◡jˈednɑ rodˈɪnɑ // xotʲ u◡vˈeḻʲo sˈelɑx / ɪnˈɑkʂë̝ ɦwˈɑrjɑt ˌɑlë̝ tˈo jez◡jˈednɑ beçˈidɑ / (ʂtʂ) //
 # standard_text = Ту єст гра́ніца мéнджі Русіна́мі й Руснака́мі і Словака́мі і за́то вши́тки то́ти Русна́ці вінчу́ют со́бі, жéбі ку ки́нцу гра́ніца Подкарпа́тской Ру́сі ту би́ла зробéна мéнджі ні́ма й Словака́мі, бо Русна́ці непрери́вно от Ті́си аж ку Попра́ду ся тя́гнут і до вє́дна жи́ют як є́дна роді́на, хоть у вéльо сéлах іна́кше гва́рят, але то єст є́дна бесі́да.
+# variation_text = Ту єст {г=>г:::variation_type=Phon/G}ра́ніца мéнджі Русіна́мі й Руснака́мі і Словака́мі і за́то вши́тки то́ти Русна́ці вінчу́ют со́бі, жéбі ку ки́нцу {г=>г:::variation_type=Phon/G}ра́ніца Подкарпа́тской Ру́сі ту би́ла зробéна мéнджі ні́ма й Словака́мі, бо Русна́ці непрери́вно от Ті́си аж ку Попра́ду ся тя́{г=>г:::variation_type=Phon/G}нут і до {вє́дн=>є́дн:::variation_type=Phon/Edn}а жи́ют як {є́дн=>є́дн:::variation_type=Phon/Edn}а роді́на, хоть у вéльо сéлах іна́кше {г=>г:::variation_type=Phon/G}ва́рят, але {то=>тото:::variation_type=Morph/Pronoun_Long} єст {є́дн=>є́дн:::variation_type=Phon/Edn}а бесі́да.
 # german_text = Hier ist die Grenze zwischen den Ruthenen und Rusnaken und den Slovaken, und daher wünschen sich alle diese Rusnaken, daß hier endlich die Grenze zwischen der Karpato-Ruś und der Slovakei gezogen wird, denn die Rusnaken erstrecken sich ununterbrochen von der Theiß bis zum Poprad und leben alle zusammen wie eine Familie, obwohl in vielen Dörfern anders gesprochen wird, aber es ist dieselbe Sprache.
+# english_text = Here is the border between the Ruthenians and Rusnaks and the Slovaks, and therefore all these Rusnaks wish that the border between Carpathian Rus and Slovakia would finally be drawn here, because the Rusnaks extend uninterrupted from the Tisza to the Poprad and all live together like one family, although different languages ​​are spoken in many villages, but it is the same language.
 1	Ту	ту	ADV	_	PronType=Dem	3	advmod	_	wf="Ту"|tf="tu"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=ту
 2	єст	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="єст"|tf="jezd"|PosRapidity=7|LemmaErrorSpots=XXXX|TaggedLemma=єсти
 3	гра́ніца	граніца	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	wf="граніца"|tf="ɦrɑnït͡sɑ"|PosRapidity=2|LemmaErrorSpots=_______|TaggedLemma=граніца
@@ -164,7 +172,9 @@
 # sent_id = LA1407.1.9
 # IPA_transcription = Jɑ◡tˈɑg◡bˈudu ɦwˈɑrɪw ῾ɪ çpˈivɑw / jɑk rusnˈɑt͡sɪ ɦwˈɑrjɑt f◡kɑmjˈunt͡sʲi nɑ spˈɪʂu kˌolo poprˈɑdɑ / tˈɑm dë̝ drɪ̈tɑrë̝ ʐˈɨjut //
 # standard_text = Я так бу́ду гва́рів і сьпíвав, як Русна́ці гва́рят в Камю́нці на Спі́шу ко́ло Попра́да, там де дріта́рі жи́ют.
+# variation_text = Я так бу́ду {г=>г:::variation_type=Phon/G}ва́рів і {сьпí=>спí:::variation_type=Phon/SP_Front}вав, як Русна́ці {г=>г:::variation_type=Phon/G}ва́рят в Камю́нці на {Спі́=>Спі́:::variation_type=Phon/SP_Front}шу ко́ло Попра́да, там де дріта́рі жи́ют.
 # german_text = Ich werde so sprechen und singen, wie die Rusnaken in Kamjunka am Poprad in der Zips sprechen, dort, wo die Drahtbinder leben.
+# english_text = I will speak and sing like the Rusnak people in Kamjunka on the Poprad in Spiš, where the wire binders live.
 1	Я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	wf="Я"|tf="Jɑ"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=я
 2	так	так	ADV	_	PronType=Dem	4	advmod	_	wf="так"|tf="tˈɑg"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=так
 3	бу́ду	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	cop	_	wf="буду"|tf="bˈudu"|PosRapidity=0|LemmaErrorSpots=_XXX|TaggedLemma=бути
@@ -191,7 +201,9 @@
 # sent_id = LA1407.1.10
 # IPA_transcription = tˈotu beçˈidu pˈoznɑm bɑrz◡dˈobri / bo mɤ̝j ˈotet͡sʲ pod mɑdʲɑrˈɑmɪ / tɑm jɑg◡mɑdʲˈɑrskɤ̝j uʈ͡ʂʲˈïteḻʲ ῾ˈuʈ͡ʂʲɪw po◡mɑdʲˈɑrskɤ̝ j po◡rˈusʲkɤ̝ //
 # standard_text = То́ту бесі́ду по́знам барз до́брі, бо мий о́тець под Мадяра́ми там як мадя́рский учи́тель у́чів по мадя́рски і по ру́ськи.
+# variation_text = То́ту бесі́ду по́знам барз до́брі, бо мий о́тець под Мадяра́ми там як мадя́рский учи́тель у́чів по мадя́рски і по ру́ськи.
 # german_text = Diese Mundart kenne ich sehr gut, da mein Vater dort bei den Ungarn als ungarischer Lehrer ungarisch und ruthenisch lehrte.
+# english_text = I know this dialect very well, as my father taught Hungarian and Ruthenian there as a Hungarian teacher among the Hungarians.
 1	То́ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	advmod	_	wf="Тоту"|tf="tˈotu"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=тот
 2	бесі́ду	бесіда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	wf="бесіду"|tf="beçˈidu"|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=бесід
 3	по́знам	познаті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	wf="познам"|tf="pˈoznɑm"|PosRapidity=2|LemmaErrorSpots=______X|TaggedLemma=познати|Topic=True
@@ -218,7 +230,9 @@
 # sent_id = LA1407.1.11 - LA1407.1.12
 # IPA_transcription = jɑ tɑm rˈos pres◡ferˈijɪ (j) fʂˈɨtkom ʈ͡ʂʲuw / ῾od◡d῾ˈitɪw ɦwɑrˈɪtɪ / s◡kotrˈɪ̈mɑ jem çɑ bˈɑvɪw ɪ bɑrz◡dˈobri jˈem çɑ nɑˈuʈ͡ʂʲɪw tˈotu beçˈidu // bo fʂˈem ῾jem ʈ͡ʂʲuw◡ɑ mˌend͡ʐɪ ḻʲˈudʲmɪ nɑ◡pˈoḻʲu m bɤ̝w / dˈe◡bɑrs◡krˈɑçnʲi çpivˈɑlɪ //
 # standard_text = Я там рос през ферíї і вши́тком чув од дíтів гварíті, с котри́ма єм ся ба́вів і барз до́брі єм ся нау́чів то́ту бесі́ду, бо вшéм єм чув а мéнджі лю́дьмі на по́лю м би́в, де барз кра́сні сьпіва́лі.
+# variation_text = Я там рос през ферíї і вши́тком чув од дíтів {г=>г:::variation_type=Phon/G}варíті, с котри́ма єм ся ба́вів і барз до́брі єм ся нау́чів то́ту бесі́ду, бо вшéм єм чув а мéнджі лю́дьмі на по́лю м би́в, де барз кра́сні {сьпі=>сьпі:::variation_type=Phon/SP_Front}ва́лі.
 # german_text = Ich wichs dort während der Ferien auf und hörte von Kindern, mit denen ich spielte, alles sprechen, und lernte von ihnen diese Mundart, denn ich hörte sie immer und war unter dem Volke auf den Feldern, wo man sehr schön gesungen hat.
+# english_text = I spent my holidays there and heard the children I played with speak everything, and learned this dialect from them, because I always heard it and was among the people in the fields, where they sang very beautifully.
 1	Я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wf="Я"|tf="jɑ"|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=я
 2	там	там	ADV	_	PronType=Dem	3	advmod	_	wf="там"|tf="tɑm"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=там
 3	рос	рості	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="рос"|tf="rˈos"|PosRapidity=7|LemmaErrorSpots=____X|TaggedLemma=рости
@@ -267,7 +281,9 @@
 # sent_id = LA1407.2.1
 # IPA_transcription = xlˈopt͡sʲi ɪ dʲiwʈ͡ʂʲˈɑtɑ xoˈdʲɑt nɑ ve̝ʈ͡ʂʲˈɪrkɤ̝ / dë̝ bɑrz vesˈelo / kˈɑːʐdɯj tˈɯʐdenʲ u j˘inʂoɦo suçidɑ sud veʈ͡ʂʲˈɪrkɤ̝ //
 # standard_text = Хло́пці і дівча́та хо́дят на вечíрки, де барз весéло, ка́ждий ти́ждень у іншо́го сусíда сут вечíрки.
-# german_text = Die Burschen umd Mädchen gehen zu Spielabenden, wo es sehr lustig zugeht: jede Woche finden die Spielabende bei einem anderen Nachbar statt.
+# variation_text = Хло́пці і дівча́та хо́дят на вечíрки, де барз весéло, ка́ждий ти́ждень у іншо́{г=>г:::variation_type=Phon/G}о сусíда сут вечíрки.
+# german_text = Die Burschen und Mädchen gehen zu Spielabenden, wo es sehr lustig zugeht: jede Woche finden die Spielabende bei einem anderen Nachbar statt.
+# english_text = The boys and girls go to game nights, which are very fun: each week the game nights take place at a different neighbor's house.
 1	Хло́пці	хлопець	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	wf="Хлопці"|tf="xlˈopt͡sʲi"|PosRapidity=1|LemmaErrorSpots=_______|TaggedLemma=хлопець
 2	і	і	CCONJ	_	_	3	cc	_	wf="і"|tf="ɪ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
 3	дівча́та	дівча	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	wf="дівчата"|tf="dʲiwʈ͡ʂʲˈɑtɑ"|PosRapidity=1|LemmaErrorSpots=____XXX|TaggedLemma=дівчина
@@ -291,7 +307,9 @@
 # sent_id = LA1407.2.2
 # IPA_transcription = dʲɪwʈ͡ʂʲˈɑtɑ prjˈɑdud◡len◡ɑ xlˈopt͡sʲi jix fʂˈe zɑrɪ̈vˈɑjut / prˈɪ◡tɨm çɑ (ç) çmˈijut fʂˈeḻʲakɤ̝ fˈigḻʲi rˈobjat / dɑkˈodɯ ɑʂ ɪ zɑtɑnʈ͡sʲˈujut //
 # standard_text = Дівча́та пря́дут лен а хло́пці їх вше зарива́ют, [при́ тим ся (сь) сьмíют], вшеля́ки фíґлі ро́бят, дако́ди аж і затанцю́ют.
-# german_text = Die Mädchen spinnen Flachs und die Burschen reißen ihn immer ab. dabei lachen sie und machen verschiedene Scherze, manchmal tanzen sie sogar.
+# variation_text = Дівча́та пря́дут лен а хло́пці їх вше зарива́ют, [при́ тим ся (сь) сьмíют], вшеля́ки фíґлі ро́бят, дако́ди аж і затанцю́ют.
+# german_text = Die Mädchen spinnen Flachs und die Burschen reißen ihn immer ab, dabei lachen sie und machen verschiedene Scherze, manchmal tanzen sie sogar.
+# english_text = The girls spin flax and the boys keep tearing it off, laughing and making various jokes, sometimes they even dance.
 1	Дівча́та	дівча	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	wf="Дівчата"|tf="dʲɪwʈ͡ʂʲˈɑtɑ"|PosRapidity=0|LemmaErrorSpots=____XXX|TaggedLemma=дівчина
 2	пря́дут	прядуті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="прядут"|tf="prjˈɑdud"|PosRapidity=2|LemmaErrorSpots=______X|TaggedLemma=прядути
 3	лен	лен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	wf="лен"|tf="len"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=лен
@@ -321,8 +339,10 @@
 
 # sent_id = LA1407.2.3
 # IPA_transcription = nɑ◡kˈɑʐdɪ̈x veʈ͡ʂʲˈɪrkɑx / kʲˌedʲ◡nʲˈit vˈostɑ xtˈowdɨ vesˈelo çpivˈɑjut //
-# standard_text = На ка́ждих вечíрках, кед ні́т по́ста, хдо́вди весéло сьпíвают.
+# standard_text = На ка́ждих вечíрках, кед ні́т по́ста, хто́вди весéло сьпíвают.
+# variation_text = На ка́ждих вечíрках, кед ні́т по́ста, хто́вди весéло сьпíвают.
 # german_text = An allen Spielabenden, wenn es keine Fastenzeit gibt, wird lustig gesungen.
+# english_text = On all game nights, when it is not a fasting period, there is cheerful singing.
 1	На	на	ADP	_	_	3	case	_	wf="На"|tf="nɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
 2	ка́ждих	каждий	DET	_	Case=Loc|Number=Plur|PronType=Tot	3	det	_	wf="каждих"|tf="kˈɑʐdɪ̈x"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=каждий
 3	вечíрках	вечірка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	wf="вечірках"|tf="veʈ͡ʂʲˈɪrkɑx"|PosRapidity=1|LemmaErrorSpots=_____XX|TaggedLemma=вечірок|SpaceAfter=No
@@ -331,7 +351,7 @@
 6	ні́т	ніт	VERB	_	Polarity=Neg	11	advcl	_	wf="ніт"|tf="nʲˈit"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=ніт
 7	по́ста	пост	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	wf="поста"|tf="vˈostɑ"|PosRapidity=0|LemmaErrorSpots=____X|TaggedLemma=поста|Topic=True|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
-9	хдо́вди	хдовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	11	advmod	_	wf="хдовди"|tf="xtˈowdɨ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хдовди
+9	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	11	advmod	_	wf="хтовди"|tf="xtˈowdɨ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хтовди
 10	весéло	весело	ADV	_	Degree=Pos	11	advmod	_	wf="весело"|tf="vesˈelo"|PosRapidity=0|LemmaErrorSpots=______|TaggedLemma=весело
 11	сьпíвают	сьпіваті	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="сьпівают"|tf="çpivˈɑjut"|PosRapidity=2|LemmaErrorSpots=_______X|TaggedLemma=сьпівати|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
@@ -339,7 +359,9 @@
 # sent_id = LA1407.2.4
 # IPA_transcription = xlˈopt͡sʲɑm ketʲ◡çɑ zw˘unˈulo fˈigḻʲi rˈobïtɪ / xtˈowdɨ nɑ◡kˈɑrtɪ̈ çɑ◡bˈɑwjat / ɑ◡prˈɪ◡tɨm ɦunʲt͡sustvɑ ɪ bɪtˈɑnstvɑ rˈobjat //
 # standard_text = Хло́пцям кед ся зуну́ло фíґлі робі́ті, хто́вди на ка́рти ся ба́вят а прí тим гуньцу́ства і біта́нства ро́бят.
+# variation_text = Хло́пцям кед ся зуну́ло фíґлі робі́ті, хто́вди на ка́рти ся ба́вят а прí тим {г=>г:::variation_type=Phon/G}уньцу́ства і біта́нства ро́бят.
 # german_text = Wenn die Burschen des Scherzens müde geworden sind, dann spielen sie Karten, und es gibt dabei verschiedene Neckereien und Schelmereien.
+# english_text = When the boys get tired of joking around, they play cards, and there are various teasing and pranks involved.
 1	Хло́пцям	хлопець	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	wf="Хлопцям"|tf="xlˈopt͡sʲɑm"|PosRapidity=0|LemmaErrorSpots=_______|TaggedLemma=хлопець
 2	кед	кед	SCONJ	_	PronType=Rel	4	mark	_	wf="кед"|tf="ketʲ"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=кед
 3	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
@@ -364,7 +386,9 @@
 # sent_id = LA1407.2.5
 # IPA_transcription = veʈ͡ʂʲˈɪrkɤ̝ nʲigdɑ nʲesut v ḻʲˈitʲi lem v◡zˈimi / bo v◡ḻʲˈitʲi çinʲɑnɨ robˈotɨ stˈojɑt ɑ dɑkˈodɨ ῾aʐ◡do◡nˈoʈ͡ʂʲï rˈobjatʲ ḻʲˈude nɑ◡pˈoḻʲu //
 # standard_text = Вечíрки ні́ґда нéсут в лíті, лем в зíмі, бо в лíті сіня́ни робо́ти сто́ят, а дако́ди аж до но́чи ро́бят лю́де на по́лю.
+# variation_text = Вечíрки ні́ґда нéсут в лíті, лем в зíмі, бо в лíті сіня́ни робо́ти сто́ят, а дако́ди аж до но́чи ро́бят лю́де на по́лю.
 # german_text = Die Spielabende finden nie im Sommer, sondern nur im Winter statt, denn im Sommer gibt es Heuarbeiten, und manchmal arbeiten die Leute bis spät in die Nacht hinein.
+# english_text = The game nights never take place in the summer, but only in the winter, because in the summer there is haymaking, and sometimes people work until late into the night.
 1	Вечíрки	вечірка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	wf="Вечірки"|tf="veʈ͡ʂʲˈɪrkɤ̝"|PosRapidity=0|LemmaErrorSpots=_______|TaggedLemma=вечірка
 2	ні́ґда	ніґда	ADV	_	PronType=Neg	3	advmod	_	wf="ніґда"|tf="nʲigdɑ"|PosRapidity=7|LemmaErrorSpots=_____|TaggedLemma=ніґда
 3	нéсут	биті	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	wf="несут"|tf="nʲesut"|PosRapidity=7|LemmaErrorSpots=XXXXX|TaggedLemma=нести
@@ -396,7 +420,9 @@
 # sent_id = LA1407.2.6
 # IPA_transcription = veʈ͡ʂʲˈɪrkɤ̝ bɑrz◡vesˈelɯ ɪ ʂumnɯ / tˈɑgʐë̝ dɑkˈʊ̞̈dɯ ῾ɪ pɑn◡uʈ͡ʂʲˈïteḻʲ ῾ˈɪdut posmotˈrïtɪ / ɑ poɦwˈɑrjɑt s◡pɑrɯpkˈɑmɪ ῾ɪ◡z◡dʲiwkˈɑmɪ //
 # standard_text = Вечíрки барз весéли і шу́мни, та́кже дако́ди і пан учи́тель íдут посмотрíти а погва́рят з парубка́мі і з дівка́мі.
+# variation_text = Вечíрки барз весéли і шу́мни, та́кже дако́ди і пан учи́тель íдут посмотрí{ти=\>ті:::variation_type=Morph/Infinitive} а по{г=>г:::variation_type=Phon/G}ва́рят з парубка́мі і з дівка́мі.
 # german_text = Die Spielabende sind sehr lustig und munter, so daß manchmal auch der Herr Lehrer hingeht, um es anzusehen und mit den Burschen und Mädchen zu plaudern.
+# english_text = The game nights are very fun and lively, so that sometimes the teacher goes to watch and chat with the boys and girls.
 1	Вечíрки	вечірка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	wf="Вечірки"|tf="veʈ͡ʂʲˈɪrkɤ̝"|PosRapidity=0|LemmaErrorSpots=_______|TaggedLemma=вечірка
 2	барз	барз	ADV	_	Degree=Pos	3	advmod	_	wf="барз"|tf="bɑrz"|PosRapidity=7|LemmaErrorSpots=____|TaggedLemma=барз
 3	весéли	веселий	ADJ	_	Case=Nom|Number=Plur	0	root	_	wf="весели"|tf="vesˈelɯ"|PosRapidity=7|LemmaErrorSpots=_______|TaggedLemma=веселий
@@ -422,7 +448,9 @@
 # sent_id = LA1407.2.7
 # IPA_transcription = lˌem ʐe f◡tˈɑkɤ̝j ʈ͡ʂʲɑs fʂˈɨtkɤ̝ sud◡vˈɑʐnɨ̈ / ɑ◡nʲˈe◡çmut tˈoto rˈobïtɪ / ʂto drˈuɦɨ̈j rɑs / bˌo çɑ kˈuçʈ͡sʲok ɦɑnʲbjat //
 # standard_text = Лем же в та́кий час вши́тки сут ва́жни а не сьмут то́то робі́ті, што дру́гий раз, бо ся ку́сьцьок га́ньбят.
+# variation_text = Лем же в та́кий час вши́тки сут ва́жни а не сьмут {то́то=>то́то:::variation_type=Morph/Pronoun_Long} робі́ті, што дру́{г=>г:::variation_type=Phon/G}ий раз, бо ся ку́сьцьок {г=>г:::variation_type=Phon/G}а́ньбят.
 # german_text = Nur in solchen Momenten sind alle sehr ernst und dürfen es nicht so treiben, wie sonst, weil sie sich ein wenig genieren.
+# english_text = Only in such moments are everyone very serious and not allowed to do things the way they usually do, because they are a little embarrassed. 
 1	Лем	лем	PART	_	_	5	advmod	_	wf="Лем"|tf="lˌem"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=лем
 2	же	же	PART	_	_	8	discourse	_	wf="же"|tf="ʐe"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=же
 3	в	в	ADP	_	_	5	case	_	wf="в"|tf="f"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=в
@@ -450,7 +478,9 @@
 # sent_id = LA1407.2.8
 # IPA_transcription = veʈ͡ʂʲˈɪrkɤ̝ lem xtˈowdɨ̈ sud◡veʈ͡ʂʲˈɪrkˈɑmɪ / kʲet◡xlˈopt͡sʲi j  dʲiwʈ͡ʂʲˈɑtɑ sut◡sˈamɪ //
 # standard_text = Вечíрки лем хто́вди сут вечíркамі, кед хло́пці й дівча́та сут са́мі.
+# variation_text = Вечíрки лем хто́вди сут вечíркамі, кед хло́пці й дівча́та сут са́мі.
 # german_text = Die Spielabende werden erst dann zu Spielabenden, wenn Burschen und Mädchen allein sind.
+# english_text = Game nights only become game nights when boys and girls are alone.
 1	Вечíрки	вечірка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	wf="Вечірки"|tf="veʈ͡ʂʲˈɪrkɤ̝"|PosRapidity=0|LemmaErrorSpots=_______|TaggedLemma=вечірка
 2	лем	лем	PART	_	_	3	advmod	_	wf="лем"|tf="lem"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=лем
 3	хто́вди	хтовди	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	advmod	_	wf="хтовди"|tf="xtˈowdɨ̈ "|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=хтовди
@@ -468,7 +498,9 @@
 # sent_id = LA1407.2.9
 # IPA_transcription = ɑ◡nˈɑ◡nɪ̈x çɑ prɪ̈zɪrˈɑjut / nʲˈɑno mˈɑmɑ dʲˈido bˈɑbɑ / nevˈistɨ̈ ῾ɪ drˈuɦɨ̈ z rodˈïnɪ̈ //
 # standard_text = А на́ них ся призіра́ют ня́ньо, ма́ма, дíдо, ба́ба, невíсти і дру́ги з родíни.
+# variation_text = А на́ них ся призіра́ют ня́ньо, ма́ма, дíдо, ба́ба, невíсти і дру́{г=>г:::variation_type=Phon/G}и з родíни.
 # german_text = Und ihnen schauen zu: der Vater, die Mutter, der Großvater, die Großmutter, die Schwiegertöchter und andere Familienmitglieder.
+# english_text = And watching them are: the father, the mother, the grandfather, the grandmother, the daughters-in-law and other family members.
 1	А	а	CCONJ	_	_	5	cc	_	wf="А"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
 2	на́	на	ADP	_	_	3	case	_	wf="на"|tf="nˈɑ"|PosRapidity=1|LemmaErrorSpots=__|TaggedLemma=на
 3	них	він	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	wf="них"|tf="nɪ̈x"|PosRapidity=0|LemmaErrorSpots=_XXX|TaggedLemma=вони
@@ -492,7 +524,9 @@
 # sent_id = LA1407.2.10
 # IPA_transcription = veʈ͡ʂʲˈɪrkɤ̝ dɑkˈɪ̈dʊ̞̈ ɑʐ◡do◡pˌulnˈoʈ͡ʂʲˈɪ trɪmˈɑjut kʲˌet◡në̝◡dˈɑḻʲʂë̝ //
 # standard_text = Вечíрки дако́ди аж до пулно́чи тріма́ют, кед не да́льше.
+# variation_text = Вечíрки дако́ди аж до пулно́чи тріма́ют, кед не да́льше.
 # german_text = Die Spielabende werden manchmal bis zur Mitternacht hingezogen, wenn nicht länger.
+# english_text = The game nights sometimes drag on until midnight, if not longer.
 1	Вечíрки	вечірка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	wf="Вечірки"|tf="veʈ͡ʂʲˈɪrkɤ̝"|PosRapidity=0|LemmaErrorSpots=_______|TaggedLemma=вечірка
 2	дако́ди	дакоди	ADV	_	Degree=Pos	6	advmod	_	wf="дакоди"|tf="dɑkˈɪ̈dʊ̞̈"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=дакоди
 3	аж	аж	PART	_	_	5	advmod	_	wf="аж"|tf="ɑʐ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=аж
@@ -508,7 +542,9 @@
 # sent_id = LA1407.2.11
 # IPA_transcription = tˈɑm◡çɑ poḻʲˈubjat xlˈopt͡sʲi z◡dʲɪwʈ͡ʂʲɑtˈɑmɪ / ɑ◡kʲˈe◡çɑ xtʲˈɑt ʐenˈïtɪ / xtˈowdɨ nɑjvˈet͡sej rɑs nɑ◡veʈ͡ʂʲˈɪrkɑx sˈobɪ wɤ̝bˈerut / vɤ̝smˈotʲɑt / kˈotrɑ jim do◡ʂmˈɑku stˈojit //
 # standard_text = Там ся полю́бят хло́пці з дівчата́мі, а кед ся хтят женíті, хто́вди найвéцей, раз на вечíрках со́бі вибéрут, висмо́трят, ко́тра їм до шма́ку сто́їт.
+# variation_text = Там ся полю́бят хло́пці з дівчата́мі, а кед ся хтят женíті, хто́вди найвéцей, раз на вечíрках со́бі вибéрут, висмо́трят, ко́тра їм до шма́ку сто́їт.
 # german_text = Dort finden sich Burschen und Mädchen und wenn sie heiraten wollen, so wählen sich die Burschen größtenteils an Spielabenden die Mädchen aus, sie sehen sie sich genau an, welche von ihnen nach ihrem Geschmack ist.
+# english_text = There you'll find boys and girls, and if they want to get married, the boys mostly choose the girls on game nights, looking closely at which one is to their liking.
 1	Там	там	ADV	_	PronType=Dem	3	advmod	_	wf="Там"|tf="tˈɑm"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=там
 2	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
 3	полю́бят	полюбиті	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	wf="полюбят"|tf="poḻʲˈubjat"|PosRapidity=1|LemmaErrorSpots=_______X|TaggedLemma=полюбити|Topic=True
@@ -543,7 +579,9 @@
 # sent_id = LA1407.2.12
 # IPA_transcription = ῾ɑbo ɦˈɑrdɑ mˈusɪd◡bɤ̝tɪ / ῾ˈɑbo◡bˌɑrz◡vesˈelɑ / ῾ˈɑbo◡bˌɑrz boɦɑtɑ kʲˌedʲ◡je◡brɯtkɑ //
 # standard_text = Або га́рда му́сіт би́ті, або барз весéла, або барз бога́та, кед є бри́дка.
+# variation_text = Або {г=>г:::variation_type=Phon/G}а́рда му́сіт би́ті, або барз весéла, або барз бо{г=>г:::variation_type=Phon/G}а́та, кед є бри́дка.
 # german_text = Entweder muß sie anmutig sein oder sehr lustig oder sehr reich, wenn sie häßlich ist.
+# english_text = She must either be graceful, very funny, or very rich (if she is ugly).
 1	Або	або	CCONJ	_	_	3	cc	_	wf="Або"|tf="῾ɑbo"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=або
 2	га́рда	гардий	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	wf="гарда"|tf="ɦˈɑrdɑ"|PosRapidity=7|LemmaErrorSpots=______|TaggedLemma=гардий
 3	му́сіт	мусіті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="мусіт"|tf="mˈusɪd"|PosRapidity=7|LemmaErrorSpots=_____X|TaggedLemma=мусіти
@@ -566,7 +604,9 @@
 # sent_id = LA1407.3.1
 # IPA_transcription = ʈ͡ʂʲortˈovɑ skˈɑlɑ //
 # standard_text = Чорто́ва ска́ла.
+# variation_text = Чорто́ва ска́ла.
 # german_text = Der Teufelsfels.
+# english_text = The Devil's Rock.
 1	Чорто́ва	чортовий	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	wf="Чортова"|tf="ʈ͡ʂʲortˈovɑ"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=чортовий
 2	ска́ла	скала	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="скала"|tf="skˈɑlɑ"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=скал|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	wf="."|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=.
@@ -574,7 +614,9 @@
 # sent_id = LA1407.3.2
 # IPA_transcription = rɑz v◡nˈoʈ͡ʂʲɨ̈ / ʈ͡ʂʲort ˈɪʂow rozbˈïtɪ stˌɑroḻʲubovˈent͡skɪj zˈɑmʊ̈k / kˈotrɪ̈j bˈɤ̝w prokḻʲɑtɪ̈j odʲ◡jednˈoɦo kʲirɑḻʲfˈijɑ //
 # standard_text = Раз в но́чи чорт íшов розби́ті старолюбовéнтскій за́мок, ко́трий би́в прокля́тий от єдно́го кіральфія.
+# variation_text = Раз в но́чи чорт íшов розби́{ті=\>ті:::variation_type=Morph/Infinitive} старолюбовé{нтскі=>нскі:::variation_type=Phon/NTSK}й за́мок, ко́трий би́в прокля́тий от {єдн=>єдн:::variation_type=Phon/Edn}о́{г=>г:::variation_type=Phon/G}о кіральфія.
 # german_text = Einmal in der Nacht ging der Teufel, um das Schloß Starolubovnja, das von einem Königssohn verflucht worden ist, zu zerstören.
+# english_text = One night, the devil went to destroy Starolubovnja Castle, which had been cursed by a king's son.
 1	Раз	раз	ADV	_	_	5	advmod	_	wf="Раз"|tf="rɑz"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=раз
 2	в	в	ADP	_	_	3	case	_	wf="в"|tf="v"|PosRapidity=1|LemmaErrorSpots=_|TaggedLemma=в
 3	но́чи	ноч	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	wf="ночи"|tf="nˈoʈ͡ʂʲɨ̈ "|l-SNP=True|l-SNP-Type=ASJP|PosRapidity=2|LemmaErrorSpots=___X|TaggedLemma=ноча
@@ -595,7 +637,9 @@
 # sent_id = LA1407.3.3
 # IPA_transcription = ʈ͡ʂʲort mɑw prïkɑzˈɑno do dvɑnˈɑt͡sʲɑtoj ɦodˈïnɨ̈ v◡nˈoʈ͡ʂʲɨ̈  rozbˈïtɪ zˈɑmʊ̈k //
 # standard_text = Чорт мав пріказа́но до дванаця́той годíни в но́чи розби́ті за́мок.
+# variation_text = Чорт мав пріказа́но до дванаця́той {г=>г:::variation_type=Phon/G}одíни в но́чи розби́{ті=\>ті:::variation_type=Morph/Infinitive} за́мок.
 # german_text = Es wurde dem Teufel befohlen, bis zwölf Uhr nachts das Schloß zu zerstören.
+# english_text = The devil had an order to destroy the castle before the midnight.
 1	Чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	wf="Чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
 2	мав	маті	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	aux:pass	_	wf="мав"|tf="mɑw"|PosRapidity=0|LemmaErrorSpots=___X|TaggedLemma=мати
 3	пріказа́но	пріказаті	VERB	_	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	0	root	_	wf="пріказано"|tf="prïkɑzˈɑno"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=пріказати
@@ -611,7 +655,9 @@
 # sent_id = LA1407.3.4
 # IPA_transcription = ɑ◡kʲˈet◡çɑ / (ɨ̈) zɑpˈozdiw bɤ̝ / xtˈowdɨ o◡dvɑnˈɑt͡sʲɑtoj zɑçpˈivɑt kˈoɦut ɪ vɪ̈n / nɑ◡drˈɯd͡zʲi / çɑ / premˈinɪt nɑ koḻʲˈimɑjs //
 # standard_text = А кéд ся (и) запо́здів би, хто́вди о дванаця́той засьпíват ко́гут і вин на дри́дзі ся премíніт на колíмайс.
+# variation_text = А кéд ся (и) запо́здів би, хто́вди о дванаця́той за{сьпí=>спí:::variation_type=Phon/SP_Front}ват ко́{г=>г:::variation_type=Phon/G}ут і вин на дри́дзі ся премíніт на колíмайс.
 # german_text = Wenn er sich aber verspäten sollte, so würde um zwölf Uhr der Hahn krähen, und er würde sich auf dem Wege in Wageschmiere (?) verwandeln.
+# english_text = But if he were to be late, the rooster would crow at twelve o'clock, and he would turn into scale grease (?) on the way.
 1	А	а	CCONJ	_	_	13	cc	_	wf="А"|tf="ɑ"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=а
 2	кéд	кед	SCONJ	_	PronType=Rel	7	mark	_	wf="кед"|tf="◡kʲˈet"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=кед
 3	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
@@ -639,7 +685,9 @@
 # sent_id = LA1407.3.5
 # IPA_transcription = tˈɑk◡çɑ◡i stˈɑlo //
 # standard_text = Та́к ся і ста́ло.
+# variation_text = Та́к ся і ста́ло.
 # german_text = So geschah es auch.
+# english_text = So thus it happened.
 1	Та́к	так	ADV	_	PronType=Dem	4	advmod	_	wf="Так"|tf="tˈɑk"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=так
 2	ся	ся	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	4	expl:pv	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
 3	і	і	PART	_	_	4	discourse	_	wf="і"|tf="i"|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=і
@@ -649,7 +697,9 @@
 # sent_id = LA1407.3.6
 # IPA_transcription = ʈ͡ʂʲort zɑpˈozdɪw / ɑ◡nɑ◡drˈɯd͡zʲi kˌolo◡zˈɑmkɑ / jak kˈoɦut zɑçpˈivɑw / dvɑnɑt͡sʲˈɑtu ɦodˈïnu / rosˈpustɪ̈w çɑ ʈ͡ʂʲɪ̈sto nɑ◡koḻʲˈimɑjs / ɑ◡skˈɑlɑ ostˈɑlɑ tɑm / stojˈɑtɪ ɪ tˈerɑs //
 # standard_text = Чорт запо́здів, а на дри́дзі коло за́мка, як ко́гут засьпíвав дванаця́ту годíну, розпустíвся чи́сто на колíмайс, а ска́ла оста́ла там стоя́ті і тéраз.
+# variation_text = Чорт запо́здів, а на дри́дзі коло за́мка, як ко́{г=>г:::variation_type=Phon/G}ут за{сьпí=>спí:::variation_type=Phon/SP_Front}вав дванаця́ту {г=>г:::variation_type=Phon/G}одíну, розпустíвся чи́сто на колíмайс, а ска́ла оста́ла там стоя́{ті=\>ті:::variation_type=Morph/Infinitive} і тéраз.
 # german_text = Der Teufel verspätete sich und als um zwölf Uhr der Hahn krähze, zerging er auf dem Wege neben dem Schloß ganz in Wagenschmiere und der Fels blieb dort bist heute bestehen.
+# english_text = The devil was late, and when the rooster crowed at twelve o'clock, he melted completely into wagon grease on the road next to the castle, and the rock has remained there to this day.
 1	Чорт	чорт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	wf="Чорт"|tf="ʈ͡ʂʲort"|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=чорт
 2	запо́здів	запоздіті	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="запоздів"|tf="zɑpˈozdɪw"|PosRapidity=0|LemmaErrorSpots=________X|TaggedLemma=запоздіти|SpaceAfter=No
 3	,	,	PUNCT	_	_	16	punct	_	wf=","|PosRapidity=0|LemmaErrorSpots=_|TaggedLemma=,
@@ -682,7 +732,9 @@
 # sent_id = LA1407.3.7
 # IPA_transcription = ot◡tˈoɦo ʈ͡ʂʲɑsu / nɑzˈɪ̈vat͡sʲɑ ʈ͡ʂʲortˈovɑ skˈɑlɑ //
 # standard_text = От то́го ча́су нази́ватся Чорто́ва ска́ла.
+# variation_text = От то́{г=>г:::variation_type=Phon/G}о ча́су нази́ватся Чорто́ва ска́ла.
 # german_text = Seit dieser Zeit heißt er Teufelsfels.
+# english_text = Since then it is called "Devil's Rock".
 1	От	от	ADP	_	_	3	case	_	wf="От"|tf="ot"|PosRapidity=7|LemmaErrorSpots=__|TaggedLemma=от
 2	то́го	той	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	wf="того"|tf="tˈoɦo"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=той
 3	ча́су	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	wf="часу"|tf="ʈ͡ʂʲɑsu"|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=час
@@ -694,7 +746,9 @@
 # sent_id = LA1407.3.8
 # IPA_transcription = ʈ͡ʂʲortˈovɑ skˈɑlɑ stˈojit kˌolo◡poprˈɑdɑ / nɑ dolˈïnɪ bḻʲˈɪsko wjˈɑkɑ / ɦɑjtˈɪ̈wok i zˈɑmkɑ stˌɑroḻʲubˈownʲi (o◡kˈotroj) / o◡kˈotroj tˈotɑ nɑrˈodnɑ / prïpovˈitkɑ roʂɪ̈rˈenɑ / mˌend͡ʐï / nɑrˈodom / nɑ◡okoḻʲit͡si //
 # standard_text = Чорто́ва ска́ла сто́їт ко́ло Попра́да на доли́ні блíзко Уя́ка, Гайти́вок і за́мка Старолюбо́вні (о ко́трой), о ко́трой то́та наро́дна приповíдка розширéна мéнджі наро́дом на околíці.
+# variation_text = Чорто́ва ска́ла сто́їт ко́ло Попра́да на доли́ні блíзко Уя́ка, {Г=>Г:::variation_type=Phon/G}айти́вок і за́мка Старолюбо́вні (о ко́трой), о ко́трой то́та наро́дна приповíдка розширéна мéнджі наро́дом на околíці.
 # german_text = Der Teufelsfels befindet sich neben dem Poprad im Tal, in der Nähe von Ujak, Hajtyvky und des Schlosses Starolubovńa, von dem diese Volkserzählung unter dem Volke in dieser Gegend verbreitet ist.
+# english_text = The Devil's Rock is located next to Poprad in the valley, near Ujak, Hajtyvky and Starolubovńa Castle, from where this folktale is spread among the people in this area.
 1	Чорто́ва	чортовий	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	wf="Чортова"|tf="ʈ͡ʂʲortˈovɑ"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=________|TaggedLemma=чортовий
 2	ска́ла	скал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	wf="скала"|tf="skˈɑlɑ"|Entity=E-LOC|PosRapidity=0|LemmaErrorSpots=____|TaggedLemma=скал
 3	сто́їт	стояті	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="стоїт"|tf="stˈojit"|PosRapidity=1|LemmaErrorSpots=_____X|TaggedLemma=стояти
@@ -728,7 +782,8 @@
 
 # sent_id = LA1407.3.9
 # IPA_transcription = zˈɑmok stˌɑroḻʲubovˈent͡skɪj stˈojit kˌolo◡poprˈɑdɑ blʲˈɪsko / mistˈoʈ͡ʂʲkɑ stˌɑroḻʲubˈownʲi / ɪ kɑmjˈuŋkɤ̝ / ɑ je mɑjˈetkom jednˈoɦo̝ poḻʲskˈoɦo̝ grˈofɑ //
-# standard_text = За́мок старолюбовéнтскій сто́їт ко́ло Попра́да блíзко місто́чка Старолюбо́вні і Камю́нки, а є має́тком єдно́го польско́го ґро́фа.
+# standard_text = За́мок старолюбовéнтскій сто́їт ко́ло Попра́да блíзко місто́чка Старолюбо́вні і Камю́нки, а є має́тком єдно́го польско́го {ґ=>г:::variation_type=Phon/G}ро́фа.
+# variation_text = За́мок старолюбовé{нтскі=>нскі:::variation_type=Phon/NTSK}й сто́їт ко́ло Попра́да блíзко місто́чка Старолюбо́вні і Камю́нки, а є має́тком {єдн=>єдн:::variation_type=Phon/Edn}о́{г=>г:::variation_type=Phon/G}о польско́{г=>г:::variation_type=Phon/G}о ґро́фа.
 # german_text = Das Schloß Starolubovnja steht neben dem Poprad in der Nähe des Städtchens Starolubovńa und der Kamjunka und ist der Besitz eines polnischen Grafen.
 1	За́мок	замок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="Замок"|tf="zˈɑmok"|Entity=B-LOC|PosRapidity=0|LemmaErrorSpots=_____|TaggedLemma=замок
 2	старолюбовéнтскій	старолюбовентскій	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	wf="старолюбовентскій"|tf="stˌɑroḻʲubovˈent͡skɪj"|Entity=E-LOC|PosRapidity=1|LemmaErrorSpots=_______________XX|TaggedLemma=старолюбовентский
@@ -752,7 +807,9 @@
 # sent_id = LA1407.3.10
 # IPA_transcription = kʲˈet◡çɑ ...
 # standard_text = Кéд ся...
+# variation_text = Кéд ся...
 # german_text = Wenn sich...
+# english_text = When self...
 1	Кéд	кед	SCONJ	_	PronType=Rel	2	nsubj	_	wf="Кед"|tf="kʲˈet"|PosRapidity=7|LemmaErrorSpots=___|TaggedLemma=кед
 2	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	0	root	_	wf="ся"|tf="çɑ"|PosRapidity=0|LemmaErrorSpots=__|TaggedLemma=ся
 3	...	...	PUNCT	_	_	2	punct	_	wf="..."|PosRapidity=0|LemmaErrorSpots=___|TaggedLemma=...
