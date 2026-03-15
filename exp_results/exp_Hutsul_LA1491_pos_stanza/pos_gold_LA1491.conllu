@@ -28,7 +28,7 @@
 7	бу́в	_	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	wf="був"|tf="bˈuw"
 8	ба́хуром	_	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	_	_	wf="бахуром"|tf="bˈɑxuro̝m"
 9	мали́м	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	_	_	wf="малим"|tf="ɑlˈɪ̈m"
-10	ше	_	SCONJ	_	_	9	_	_	wf="ше"|tf="ʂʲë̝"
+10	ше	_	ADV	_	_	9	_	_	wf="ше"|tf="ʂʲë̝"
 11	від	_	ADP	_	_	10	_	_	wf="від"|tf="vɪd"
 12	дéвять	_	NUM	_	Case=Acc|NumType=Card	11	_	_	wf="девять"|tf="dˈewic"
 13	ро́ків	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	_	_	wf="років"|tf="rˈokiw"
@@ -89,7 +89,7 @@
 1	То	_	CCONJ	_	_	0	_	_	wf="То"|tf="to̝"
 2	я́	_	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	1	_	_	wf="я"|tf="jˈɑ"
 3	тодí	_	ADV	_	PronType=Dem	2	_	_	wf="тоді"|tf="to̝ɟˌi"
-4	ко́нче	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	wf="конче"|tf="kˈonʈ͡ʂʲë̝"
+4	ко́нче	_	ADV	_	_	3	_	_	wf="конче"|tf="kˈonʈ͡ʂʲë̝"
 5	до	_	ADP	_	_	4	_	_	wf="до"|tf="do"
 6	ма́ми	_	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	_	_	wf="мами"|tf="mˈɑmɪ̈"
 7	:	_	PUNCT	_	_	6	_	_	wf=":"
@@ -107,7 +107,7 @@
 # variation_text = Тогди́ ма́ма взє́ла тай запрє́гла коби́лу до сани́й тай покла́ла дві до́шці на са́ни, вє́зку соло́ми тай (пок...) посади́ла менé на са́ни та пігна́ли ми в доро́гу.
 # german_text = Darauf nahm die Mama die Stute und spannte sie an den Schlitten, legte zwei Bretter auf den Schlitten, eine Garbe Stroh, und setzte mich darauf, und wir sausten los auf dem Weg.
 # english_text = Then my mother took the mare and harnessed her to the sled, placed two boards on the sled, a sheaf of straw, and sat me on it, and we sped off down the road.
-1	Тогди́	_	ADV	_	PronType=Dem	0	_	_	wf="Тогди́"|tf="toɦdˈɪ̈"
+1	Тогди́	_	ADV	_	PronType=Dem	0	_	_	wf="Тогди"|tf="toɦdˈɪ̈"
 2	ма́ма	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	wf="мама"|tf="mˈɑmɒ̝"
 3	взє́ла	_	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	_	_	wf="взєла"|tf="wzʲˈelɑ"
 4	тай	_	CCONJ	_	_	3	_	_	wf="тай"|tf="tɑj"
@@ -165,9 +165,9 @@
 # german_text = Es waren dort viele Männer, Frauen, es war eine Ziege und ein dicker Bär da, den ein Zigeuner an der Nase führte.
 # english_text = There were many men and women there, a goat and a fat bear being led by the nose by a Roma.
 1	А	_	CCONJ	_	_	0	_	_	wf="А"|tf="ɑ"
-2	то	_	CCONJ	_	_	1	_	_	wf="то"|tf="to"
+2	то	_	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	wf="то"|tf="to"
 3	бага́то	_	ADV	_	Degree=Pos	2	_	_	wf="багато"|tf="bɑɦˈɑto"
-4	бу́ло	_	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	_	_	wf="було"|tf="bˈulo"
+4	бу́ло	_	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	_	_	wf="було"|tf="bˈulo"
 5	там	_	ADV	_	PronType=Dem	4	_	_	wf="там"|tf="tɑm"
 6	дідíв	_	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	_	_	wf="дідів"|tf="ɟiɟˈiw"
 7	,	_	PUNCT	_	_	6	_	_	wf=","
@@ -185,7 +185,7 @@
 19	їго́	_	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	_	_	wf="їго"|tf="jɦˈo"
 20	води́в	_	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	19	_	_	wf="водив"|tf="vo̝dˈɯw"
 21	(	_	PUNCT	_	_	20	_	_	wf="("
-22	с	_	X	_	Fragment=Yes	21	_	_	wf="s"|tf="to̝"
+22	с	_	X	_	Fragment=Yes	21	_	_	wf="с"|tf="to̝"
 23	)	_	PUNCT	_	_	22	_	_	wf=")"
 24	ци́ган	_	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Nat|Number=Sing	23	_	_	wf="циган"|tf="t͡sˈɪ̈ɦɑn"
 25	за	_	ADP	_	_	24	_	_	wf="за"|tf="zɑ"
@@ -227,7 +227,7 @@
 27	взє́ти	_	VERB	_	Aspect=Perf|VerbForm=Inf	26	_	_	wf="взєти"|tf="wzʲˈetɪ̞̈"
 28	(	_	PUNCT	_	_	27	_	_	wf="("
 29	н	_	X	_	Fragment=Yes	28	_	_	wf="н"|tf="n"
-30	...	_	PUNCT	_	_	29	_	_	wf="n"|tf="//"
+30	...	_	PUNCT	_	_	29	_	_	wf="..."|tf="//"
 31	)	_	PUNCT	_	_	30	_	_	wf=")"
 32	на	_	ADP	_	_	31	_	_	wf="на"|tf="nɑ"
 33	ро́ги	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	32	_	_	wf="роги"|tf="rˈoɦɪ̞̈"
@@ -284,7 +284,7 @@
 # variation_text = То вжé як бу́ли бли́зко дíда, дíд вíшов вíдти в черво́них спо́днях.
 # german_text = Als wir nicht weit vom Großvater entfernt waren, kam der Großvater von dort in den roten Hosen heraus.
 # english_text = When we were not far from my grandfather, my grandfather came out from there wearing red trousers.
-1	То	_	CCONJ	_	_	0	_	_	wf="То"|tf="to̝"
+1	То	_	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	wf="То"|tf="to̝"
 2	вжé	_	ADV	_	_	1	_	_	wf="вже"|tf="wʐˈe"
 3	як	_	ADV	_	PronType=Rel	2	_	_	wf="як"|tf="jäk"
 4	бу́ли	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	_	_	wf="були"|tf="bˈul"
@@ -375,7 +375,7 @@
 21	,	_	PUNCT	_	_	20	_	_	wf=","
 22	бо	_	SCONJ	_	_	21	_	_	wf="бо"|tf="bo̝"
 23	зайшли́	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	22	_	_	wf="зайшли"|tf="zɑjʂlˈɪ̈"
-24	за́парі	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	_	_	wf="запарі"|tf="zˈɑpɑri"
+24	за́парі	_	NOUN	_	Animacy=Inan|Case=Nom|Number=Ptan	23	_	_	wf="запарі"|tf="zˈɑpɑri"
 25	в	_	ADP	_	_	24	_	_	wf="в"|tf="w"
 26	но́ги	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	25	_	_	wf="ноги"|tf="nˈoɦɪ̈"
 27	.	_	PUNCT	_	_	26	_	_	wf="."|tf="//"
@@ -680,7 +680,7 @@
 # variation_text = То давно́ бу́ли вели́кі ліси́ тут тай ї́ли вíвці вовки́, так да́ли, та тогди́ прийшли́ бага́то люди́й та поби́ли тих всіх вовкíв.
 # german_text = Früher gab es hier große Wälder, die Wölfe fraßen die Schafe weg und so weiter, da versammelten sich viele Menschen und töteten diese Wölfe.
 # english_text = There used to be large forests here, the wolves ate the sheep and so on, so many people gathered and killed these wolves.
-1	То	_	PART	_	_	0	_	_	wf="То"|tf="to"
+1	То	_	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	wf="То"|tf="to"
 2	давно́	_	ADV	_	Degree=Pos	1	_	_	wf="давно"|tf="dɑwnˈo"
 3	бу́ли	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	2	_	_	wf="були"|tf="bˈulɪ̈"
 4	вели́кі	_	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	_	_	wf="великі"|tf="velˈɪ̞̈kʲˈi"
@@ -737,7 +737,7 @@
 # english_text = This village is very beautiful; it lies nestled among the hills, like in a bowl; it looks very beautiful.
 1	То	_	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	_	_	wf="То"|tf="tow"
 2	фа́йне	_	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	_	_	wf="файне"|tf="fˈɑjnë̝"
-3	ду́же	_	ADV	_	Degree=Pos	2	_	_	wf="дуже"|tf="dˈuʐë̝"
+3	ду́же	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	_	_	wf="дуже"|tf="dˈuʐë̝"
 4	село́	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	_	_	wf="село"|tf="së̝lˈo"
 5	,	_	PUNCT	_	_	4	_	_	wf=","
 6	бо	_	SCONJ	_	_	5	_	_	wf="бо"|tf="bo̝"
@@ -768,7 +768,7 @@
 # english_text = A stream flows through the middle of the village, a church stands pretty in the middle of the village, and everyone comes to church here.
 1	Там	_	ADV	_	PronType=Dem	0	_	_	wf="Там"|tf="tɑm"
 2	потíк	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	_	_	wf="потік"|tf="pˈotixʲ"
-3	є	_	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="є"|tf="je"
+3	є	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="є"|tf="je"
 4	(	_	PUNCT	_	_	3	_	_	wf="("
 5	нав	_	X	_	Fragment=Yes	4	_	_	wf="нав"|tf="nɑw"
 6	...	_	PUNCT	_	_	5	_	_	wf="..."|tf="//"
@@ -854,7 +854,7 @@
 8	,	_	PUNCT	_	_	7	_	_	wf=","
 9	то	_	PART	_	PartType=Conseq	8	_	_	wf="то"|tf="to"
 10	(	_	PUNCT	_	_	9	_	_	wf="("
-11	у	_	ADP	_	Case=Acc	10	_	_	wf="у"|tf="w"
+11	у	_	ADP	_	_	10	_	_	wf="у"|tf="w"
 12	...	_	PUNCT	_	_	11	_	_	wf="..."|tf="//"
 13	)	_	PUNCT	_	_	12	_	_	wf=")"
 14	з	_	ADP	_	_	13	_	_	wf="з"|tf="z"
@@ -886,7 +886,7 @@
 5	і	_	CCONJ	_	_	4	_	_	wf="і"|tf="i"
 6	так	_	ADV	_	PronType=Dem	5	_	_	wf="то"|tf="tˈɑk"
 7	(	_	PUNCT	_	_	6	_	_	wf="("
-8	хош	_	X	_	Fragment=Yes	7	_	_	wf="у"|tf="xoʂ"
+8	хош	_	X	_	Fragment=Yes	7	_	_	wf="хош"|tf="xoʂ"
 9	...	_	PUNCT	_	_	8	_	_	wf="..."|tf="//"
 10	)	_	PUNCT	_	_	9	_	_	wf=")"
 11	хотíв	_	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	wf="хотів"|tf="xocˈiw"
@@ -927,7 +927,7 @@
 3	вам	_	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs	2	_	_	wf="вам"|tf="vɑm"
 4	заколіду́ю	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	3	_	_	wf="заколідую"|tf="zɑkoḻʲidˈuju"
 5	,	_	PUNCT	_	_	4	_	_	wf=","
-6	як	_	SCONJ	_	_	5	_	_	wf="Тяк"|tf="jɑk"
+6	як	_	SCONJ	_	_	5	_	_	wf="як"|tf="jɑk"
 7	схо́чете	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	6	_	_	wf="схочете"|tf="sxoʈ͡ʂʲë̝të̝"
 8	ви	_	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	7	_	_	wf="ви"|tf="vɪ̞̈"
 9	послу́хати	_	VERB	_	Aspect=Perf|VerbForm=Inf	8	_	_	wf="послухати"|tf="poslˈuxɑtɪ̞̈"

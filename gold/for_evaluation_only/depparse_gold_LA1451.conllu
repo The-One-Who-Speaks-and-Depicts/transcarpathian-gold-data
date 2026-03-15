@@ -200,7 +200,7 @@
 # german_text = Auf einmal aber hörte dieser Mann etwas stark pfeifen.
 # english_text = Suddenly, this man heard a loud whistling sound.
 1	Раз	раз	ADV	_	_	3	advmod	_	wf="Раз"|tf="rɑz"
-2	лем	лем	CCONJ	_	_	3	cc	_	wf="лем"|tf="lem"
+2	лем	лем	CCONJ	_	_	3	discourse	_	wf="лем"|tf="lem"
 3	учу́в	учути	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="учув"|tf="uʈ͡ʂʲuw"
 4	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	wf="тот"|tf="tot"
 5	чоловíк	чоловік	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="чоловік"|tf="ʈ͡ʂʲolovˈig"
@@ -246,7 +246,7 @@
 # variation_text = А то впа́в єдéн из хма́рох ша́ркань до лíса і поча́в фíтькати.
 # german_text = Es fiel eben ein Drache aus den Wolken in den Wald herunter und begann so zu pfeifen.
 # english_text = A dragon just fell from the clouds into the forest and began to whistle.
-1	А	а	CCONJ	_	_	3	cc	_	wf="а"|tf="ɑ"
+1	А	а	CCONJ	_	_	3	discourse	_	wf="а"|tf="ɑ"
 2	то	то	PART	_	_	3	expl	_	wf="то"|tf="tˌo"
 3	впа́в	впасти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="впав"|tf="wpˈɑw"
 4	єдéн	єден	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	6	det	_	wf="єден"|tf="jedˈen"

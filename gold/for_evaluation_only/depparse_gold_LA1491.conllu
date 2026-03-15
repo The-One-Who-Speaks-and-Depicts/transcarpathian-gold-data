@@ -1,0 +1,935 @@
+# doc_title = LA1491
+# newdoc id = LA1491
+# newpar id = LA1491.1
+# sent_id = LA1491.1.1
+# IPA_transcription = bˈulo◡nɑ sʲvˈjetɑ rɪ̈zdvjenʲˈi //
+# standard_text = Бу́ло на свє́та різдвєнí.
+# variation_text = Бу́ло на свє́та різдвєнí.
+# german_text = Es war zur Weihnachtszeit.
+# english_text = It was around Christmas time.
+1	Бу́ло	бути	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="Було"|tf="bˈulo"
+2	на	на	ADP	_	_	3	case	_	wf="на"|tf="nɑ"
+3	свє́та	свєт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obl	_	wf="свєта"|tf="sʲvˈjetɑ"
+4	різдвєнí	різдвєний	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	wf="різдвєні"|tf="rɪ̈zdvjenʲˈi"
+5	.	.	PUNCT	_	_	1	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.2
+# IPA_transcription = jˈɑ◡so̝bi prɪ̈ɦˈɑduju jˌɑk◡jˈɑ◡bˈuw◡bˈɑxuro̝m mɑlˈɪ̈m ʂʲë̝ vɪd◡dˈewic rˈokiw // tɑj◡xodˈɪ̈w koḻʲiduvˈɑtɪ̈ z◡grɪgˈorijem grˈɑfʈ͡ʂʲïnɪ̈m tɑj◡z nɪ̈kolˈɑjemːɑrˈiʈ͡ʂʲːïnɪ̈m //
+# standard_text = Я́ собі прига́дую, як я бу́в ба́хуром мали́м ше від дéвять ро́ків та ходи́в колідува́ти з Ґріґо́рієм Ґра́фчиним тай з Никола́єм Марíччиним.
+# variation_text = Я́ собі прига́дую, як я бу́в ба́хуром мали́м ше від дéвять ро́ків та ходи́в колідува́ти з Ґріґо́рієм Ґра́фчиним тай з Никола́єм Марíччиним.
+# german_text = Ich kann mich entsinnen, als ich noch ein kleiner Bube von neun Jahren war, ging ich zusammen mit Gregor Grafčyn und Nikolaus Maričyn Weihnachtslieder singen.
+# english_text = I remember when I was a little boy of nine years old, I went singing Christmas carols together with Gregor Grafčyn and Nikolaus Maričyn.
+1	Я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wf="Я"|tf="jˈɑ"
+2	собі	себе	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	3	iobj	_	wf="собі"|tf="so̝bi"
+3	прига́дую	прига́дувати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	wf="прига́дую"|tf="prɪ̈ɦˈɑduju"
+4	,	,	PUNCT	_	_	8	punct	_	wf=","
+5	як	як	SCONJ	_	_	8	mark	_	wf="як"|tf="jˌɑk"
+6	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	wf="я"|tf="jˈɑ"
+7	бу́в	бути	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	cop	_	wf="був"|tf="bˈuw"
+8	ба́хуром	бахур	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	advcl	_	wf="бахуром"|tf="bˈɑxuro̝m"
+9	мали́м	малий	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	amod	_	wf="малим"|tf="ɑlˈɪ̈m"
+10	ше	ше	ADV	_	_	12	advmod	_	wf="ше"|tf="ʂʲë̝"
+11	від	від	ADP	_	_	12	case	_	wf="від"|tf="vɪd"
+12	дéвять	девять	NUM	_	Case=Acc|NumType=Card	8	nmod	_	wf="девять"|tf="dˈewic"
+13	ро́ків	рік	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	wf="років"|tf="rˈokiw"
+14	тай	тай	CCONJ	_	_	15	cc	_	wf="тай"|tf="tɑj"
+15	ходи́в	ходити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	wf="ходив"|tf="xodˈɪ̈w"
+16	колідува́ти	колідувати	VERB	_	Aspect=Imp|VerbForm=Inf	15	xcomp	_	wf="колідувати"|tf="koḻʲiduvˈɑtɪ̈"
+17	з	з	ADP	_	_	18	case	_	wf="з"|tf="z"
+18	Ґріґо́рієм	Ґріґорій	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	16	obj	_	wf="Ґріґорієм"|tf="grɪgˈorijem"
+19	Ґра́фчиним	Ґрафчин	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	18	flat:name	_	wf="Ґрафчиним"|tf="grˈɑfʈ͡ʂʲïnɪ̈m"
+20	тай	тай	CCONJ	_	_	22	cc	_	wf="тай"|tf="tɑj"
+21	з	з	ADP	_	_	22	case	_	wf="з"|tf="z"
+22	Никола́єм	Николай	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	18	conj	_	wf="Николаєм"|tf="nɪ̈kolˈɑjem"
+23	Марíччиним	Маріччин	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	22	flat:name	_	wf="Маріччиним"|tf="mɑrˈiʈ͡ʂʲːïnɪ̈m"
+24	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.3
+# IPA_transcription = to̝◡jˈɑ zɑbˈɑɦ jɪ̞̈tˈɪ̞̈ koḻʲiduvˈɑtɪ̈ ɟˈidovɪ̞̈ // ɪ̈vˈɑnovɪ̞̈ ostɑfijʈ͡ʂʲukˈovɪ̈ // ʂo jɦˈo ḻʲˈudɪ̞̈ nɑzɪ̈vˈɑlɪ̈ // kˈonzuḻʲom t͡së̝rkˈownɪ̈m ʔˈɑbo konsïḻʲjˈerom (jɑk vɪ //) vɪtkolˈɪ̞̈ prɪ̈jʂlˈɪ̞̈ rumˈunɪ̈ tɑk nɑzɪ̈vˈɑjut //
+# standard_text = То я́ заба́г ити́ колідува́ти дíдови Ива́нови Остафійчуко́ви, шо їго́ лю́ди назива́ли ко́нзульом церко́вним а́бо консильє́ром, як ві... видколи́ прийшли́ руму́ни так назива́ют.
+# variation_text = То я́ заба́г ити́ колідува́ти дíдови Ива́нови Остафійчуко́ви, шо їго́ лю́ди назива́ли ко́нзульом церко́вним а́бо консильє́ром, (як ві...) видколи́ прийшли́ руму́ни так назива́ют.
+# german_text = Ich hatte Lust bekommen, meinem Großvater Ivan Ostafijčuk, den die Leute „Kirchenkonsul“ (oder „Konsilier“, wie die Leute dort, seit die Rumänen gekommen sind, sagen) nennen, Weihnachtslieder vorzusingen.
+# english_text = I felt like singing Christmas carols to my grandfather Ivan Ostafijčuk, whom people call "church consul" (or "consul", as people there have been saying since the Romanians came).
+1	То	то	CCONJ	_	_	3	discourse	_	wf="То"|tf="to̝"
+2	я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wf="я"|tf="jˈɑ"
+3	заба́г	забагти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="забаг"|tf="zɑbˈɑɦ"
+4	ити́	ити	VERB	_	Aspect=Imp|VerbForm=Inf	3	xcomp	_	wf="ити"|tf="jɪ̞̈tˈɪ̞̈"
+5	колідува́ти	колідувати	VERB	_	Aspect=Imp|VerbForm=Inf	4	xcomp	_	wf="колідувати"|tf="koḻʲiduvˈɑtɪ̈"
+6	дíдови	дід	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	wf="дідови"|tf="ɟˈidovɪ̞̈"
+7	Ива́нови	Иван	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	6	flat:name	_	wf="Иванови"|tf="ɪ̈vˈɑnovɪ̞̈"
+8	Остафійчуко́ви	Остафійчук	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	7	flat:name	_	wf="Остафійчукови"|tf="ostɑfijʈ͡ʂʲukˈovɪ̈"
+9	,	,	PUNCT	_	_	13	punct	_	wf=","|tf="//"
+10	шо	шо	SCONJ	_	_	13	mark	_	wf="шо"|tf="ʂo"
+11	їго́	він	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	wf="їго"|tf="jɦˈo"
+12	лю́ди	людина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	wf="люди"|tf="ḻʲˈudɪ̞̈"
+13	назива́ли	називати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	acl:relcl	_	wf="називали"|tf="nɑzɪ̈vˈɑlɪ̈"
+14	ко́нзульом	конзуль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	iobj	_	wf="конзульом"|tf="kˈonzuḻʲom"
+15	церко́вним	церковний	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	14	amod	_	wf="церковним"|tf="t͡së̝rkˈownɪ̈m"
+16	а́бо	або	CCONJ	_	_	17	cc	_	wf="або"|tf="ʔˈɑbo"
+17	консильє́ром	консильєр	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	14	conj	_	wf="консильєром"|tf="konsïḻʲjˈerom"
+18	,	,	PUNCT	_	_	25	punct	_	wf=","
+19	(	(	PUNCT	_	_	21	punct	_	wf="("
+20	як	як	SCONJ	_	_	21	mark	_	wf="як"|tf="jˈɑk"
+21	ві	ві	X	_	Fragment=Yes	25	parataxis:discourse	_	wf="ві"|tf="vɪ"
+22	...	...	PUNCT	_	_	21	punct	_	wf="..."|tf="//"
+23	)	)	PUNCT	_	_	21	punct	_	wf=")"
+24	видколи́	видколи	ADV	_	_	25	mark	_	wf="видколи"|tf="vɪtkolˈɪ̞̈"
+25	прийшли́	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	28	advcl	_	wf="прийшли"|tf="prɪ̈jʂlˈɪ̞̈"
+26	руму́ни	румун	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Nat|Number=Plur	25	nsubj	_	wf="румуни"|tf="rumˈunɪ̈"
+27	так	так	ADV	_	PronType=Dem	28	advmod	_	wf="так"|tf="tɑk"
+28	назива́ют	називати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	wf="називают"|tf="nɑzɪ̈vˈɑjut"
+29	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.4
+# IPA_transcription = tjɑ◡tɟˌi◡kˈonʈ͡ʂʲë̝ do◡mˈɑmɪ̈ ɦˈɑ jɑ jdu ko̝ḻʲiduvˈɑtɪ̈ ɟˈidovɪ̞̈ //
+# standard_text = То я́ тодí ко́нче до ма́ми: га́, я йду колідува́ти дíдови.
+# variation_text = То я́ тодí ко́нче до ма́ми: га́, я йду колідува́ти дíдови.
+# german_text = So sage ich dann zu der Mama: Ha, ich gehe zum Großvater, ihm Weihnachtslieder vorzusingen.
+# english_text = So I say to my mother: Ha, I'm going to my grandfather to sing him Christmas carols.
+1	То	то	CCONJ	_	_	4	discourse	_	wf="То"|tf="to̝"
+2	я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	wf="я"|tf="jˈɑ"
+3	тодí	тоді	ADV	_	PronType=Dem	4	advmod	_	wf="тоді"|tf="to̝ɟˌi"
+4	ко́нче	конче	ADV	_	_	0	root	_	wf="конче"|tf="kˈonʈ͡ʂʲë̝"
+5	до	до	ADP	_	_	6	case	_	wf="до"|tf="do"
+6	ма́ми	мама	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	wf="мами"|tf="mˈɑmɪ̈"
+7	:	:	PUNCT	_	_	11	punct	_	wf=":"
+8	га́	га	INTJ	_	_	11	discourse	_	wf="га"|tf="ɦˈɑ"
+9	,	,	PUNCT	_	_	8	punct	_	wf=","
+10	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	wf="я"|tf="jɑ"
+11	йду	ити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	wf="йду"|tf="jdu"
+12	колідува́ти	колідувати	VERB	_	Aspect=Imp|VerbForm=Inf	11	xcomp	_	wf="колідувати"|tf="ko̝ḻʲiduvˈɑtɪ̈"
+13	дíдови	дід	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	12	iobj	_	wf="дідови"|tf="ɟˈidovɪ̞̈"
+14	.	.	PUNCT	_	_	11	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.5
+# IPA_transcription = toɦdˈɪ̈ mˈɑmɒ̝ wzʲˈelɑ tɑj zɑprjɪ̞̈ɦlˈɑ ko̝bˈɪ̞̈lu do̝◡sɑnˈɪ̞̈j // tɑːj po̝klˈɑla dvi dˈoʂʲt͡sʲi nɑ◡sɑnˈɪ̞̈ // vjˈesku so̝lˈomɪ̈ tɑːj pok // posɑdˈɪ̞̈lɑ më̝nˌe◡nɑ◡sɑnˈɪ̞̈ // tɑ piɦnˈɑlɪ̈ mɪ̈ v◡do̝rˈoɦu //
+# standard_text = Тогди́ ма́ма взє́ла тай запрє́гла коби́лу до сани́й тай покла́ла дві до́шці на са́ни, вє́зку соло́ми тай (пок...) посади́ла менé на са́ни та пігна́ли ми в доро́гу.
+# variation_text = Тогди́ ма́ма взє́ла тай запрє́гла коби́лу до сани́й тай покла́ла дві до́шці на са́ни, вє́зку соло́ми тай (пок...) посади́ла менé на са́ни та пігна́ли ми в доро́гу.
+# german_text = Darauf nahm die Mama die Stute und spannte sie an den Schlitten, legte zwei Bretter auf den Schlitten, eine Garbe Stroh, und setzte mich darauf, und wir sausten los auf dem Weg.
+# english_text = Then my mother took the mare and harnessed her to the sled, placed two boards on the sled, a sheaf of straw, and sat me on it, and we sped off down the road.
+1	Тогди́	тогди	ADV	_	PronType=Dem	3	advmod	_	wf="Тогди"|tf="toɦdˈɪ̈"
+2	ма́ма	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	wf="мама"|tf="mˈɑmɒ̝"
+3	взє́ла	взєти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="взєла"|tf="wzʲˈelɑ"
+4	тай	тай	CCONJ	_	_	5	cc	_	wf="тай"|tf="tɑj"
+5	запрє́гла	запрєгти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	wf="запрєгла"|tf="zɑprjɪ̞̈ɦlˈɑ"
+6	коби́лу	кобила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	wf="кобилу"|tf="ko̝bˈɪ̞̈lu"
+7	до	до	ADP	_	Case=Gen	8	advmod	_	wf="до"|tf="do"
+8	сани́й	сани	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	wf="саний"|tf="sɑnˈɪ̞̈j"
+9	тай	тай	CCONJ	_	_	10	cc	_	wf="тай"|tf="tɑːj"
+10	покла́ла	покласти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	wf="поклала"|tf="po̝klˈɑla"
+11	дві	два	NUM	_	Case=Acc|Gender=Fem|NumType=Card	12	nummod	_	wf="дві"|tf="dvi"
+12	до́шці	дошка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	wf="дошці"|tf="dˈoʂʲt͡sʲi"
+13	на	на	ADP	_	_	14	case	_	wf="на"|tf="nɑ"
+14	са́ни	сани	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obl	_	wf="сани"|tf="sɑnˈɪ̞̈"
+15	,	,	PUNCT	_	_	16	punct	_	wf=","
+16	вє́зку	вєзка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	conj	_	wf="вєзку"|tf="vjˈesku"
+17	соло́ми	солома	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	wf="соломи"|tf="so̝lˈomɪ̈"
+18	тай	тай	CCONJ	_	_	23	cc	_	wf="тай"|tf="tɑːj"
+19	(	(	PUNCT	_	_	20	punct	_	wf="("
+20	пок	пок	X	_	Fragment=Yes	23	appos	_	wf="пок"|tf="pok"
+21	...	...	PUNCT	_	_	20	punct	_	wf="..."|tf="//"
+22	)	)	PUNCT	_	_	20	punct	_	wf=")"
+23	посади́ла	посадити	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	wf="посадила"|tf="posɑdˈɪ̞̈lɑ"
+24	менé	я	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	23	obj	_	wf="мене"|tf="më̝nˌe"
+25	на	на	ADP	_	_	26	case	_	wf="на"|tf="nɑ"
+26	са́ни	сани	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	23	obl	_	wf="сани"|tf="sɑnˈɪ̞̈"
+27	та	та	CCONJ	_	_	28	cc	_	wf="та"|tf="tɑ"
+28	пігна́ли	пігнати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	conj	_	wf="пігнали"|tf="piɦnˈɑlɪ̈"
+29	ми	ми	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	28	nsubj	_	wf="ми"|tf="mɪ̈"
+30	в	в	ADP	_	_	31	case	_	wf="в"|tf="v"
+31	доро́гу	дорога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obl	_	wf="дорогу"|tf="do̝rˈoɦu"
+32	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.6
+# IPA_transcription = jˌɑk◡wʐe◡bˈulɪ̈ blˈɪ̞̈sko kˌolo◡t͡sˈerkvɪ̞̈ // jɒ̝ wzdrˈiw tɑm koḻʲˈɑgu //
+# standard_text = Я́к уже бу́ли блíзко ко́ло цéркви я уздрíв там коля́гу.
+# variation_text = Я́к уже бу́ли бли́зко ко́ло цéркви я уздрíв там коля́гу.
+# german_text = Als wir nicht mehr weit von der Kirche entfernt waren, bemerkte ich dort die Sternsinger.
+# english_text = When we were not far from the church, I noticed the carol singers there.
+1	Я́к	як	SCONJ	_	_	3	mark	_	wf="Як"|tf="jˌɑk"
+2	уже	уже	ADV	_	_	3	advmod	_	wf="уже"|tf="wʐe"
+3	бу́ли	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	advcl	_	wf="були"|tf="bˈulɪ̈"
+4	бли́зко	близко	ADV	_	Degree=Pos	3	advmod	_	wf="близко"|tf="blˈɪ̞̈sko"
+5	ко́ло	коло	ADP	_	_	6	case	_	wf="коло"|tf="kˌolo"
+6	цéркви	церква	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	wf="церкви"|tf="t͡sˈerkvɪ̞̈"
+7	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	wf="я"|tf="jɒ̝"
+8	уздрíв	уздріти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="уздрів"|tf="wzdrˈiw"
+9	там	там	ADV	_	PronType=Dem	8	advmod	_	wf="там"|tf="tɑm"
+10	коля́гу	коляга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obj	_	wf="колягу"|tf="koḻʲˈɑgu"
+11	.	.	PUNCT	_	_	8	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.7
+# IPA_transcription = ɑ◡to◡bɑɦˈɑto bˈulo tɑm ɟiɟˈiw bɑbˈiw // kozˈɑ bˈulɑ vɪ̞dmˈiɟ◡buw tɑkʲˈɪ̞̈j ɦrˈubɪ̈j ʂo̝ jɦˈo vo̝dˈɯw s t͡sˈɪ̈ɦɑn zɑ◡nʲˈis //
+# standard_text = А то бага́то бу́ло там дідíв, бабíв, коза́ бу́ла, ведмíдь був таки́й гру́бий, шо їго́ води́в (с) ци́ган за нíс.
+# variation_text = А то бага́то бу́ло там дідíв, бабíв, коза́ бу́ла, ведмíдь був таки́й гру́бий, шо їго́ води́в (с) ци́ган за нíс.
+# german_text = Es waren dort viele Männer, Frauen, es war eine Ziege und ein dicker Bär da, den ein Zigeuner an der Nase führte.
+# english_text = There were many men and women there, a goat and a fat bear being led by the nose by a Roma.
+1	А	а	CCONJ	_	_	3	discourse	_	wf="А"|tf="ɑ"
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	wf="то"|tf="to"
+3	бага́то	багато	ADV	_	Degree=Pos	0	root	_	wf="багато"|tf="bɑɦˈɑto"
+4	бу́ло	бути	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	cop	_	wf="було"|tf="bˈulo"
+5	там	там	ADV	_	PronType=Dem	4	advmod	_	wf="там"|tf="tɑm"
+6	дідíв	дід	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	wf="дідів"|tf="ɟiɟˈiw"
+7	,	,	PUNCT	_	_	8	punct	_	wf=","
+8	бабíв	баба	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	6	conj	_	wf="бабів"|tf="bɑbˈiw"
+9	,	,	PUNCT	_	_	11	punct	_	wf=","|tf="//"
+10	коза́	коза	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	wf="коза"|tf="kozˈɑ"
+11	бу́ла	бути	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	wf="була"|tf="bˈulɑ"
+12	,	,	PUNCT	_	_	14	punct	_	wf=","
+13	ведмíдь	ведмідь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	wf="ведмідь"|tf="vɪ̞dmˈiɟ"
+14	був	бути	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	wf="був"|tf="buw"
+15	таки́й	такий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	advmod:det	_	wf="такий"|tf="tɑkʲˈɪ̞̈j"
+16	гру́бий	грубий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	obj	_	wf="грубий"|tf="ɦrˈubɪ̈j"
+17	,	,	PUNCT	_	_	20	punct	_	wf=","
+18	шо	шо	SCONJ	_	_	20	mark	_	wf="шо"|tf="ʂo̝"
+19	їго́	він	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	wf="їго"|tf="jɦˈo"
+20	води́в	водити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	15	advcl	_	wf="водив"|tf="vo̝dˈɯw"
+21	(	(	PUNCT	_	_	22	punct	_	wf="("
+22	с	с	X	_	Fragment=Yes	24	appos	_	wf="с"|tf="to̝"
+23	)	)	PUNCT	_	_	22	punct	_	wf=")"
+24	ци́ган	циган	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Nat|Number=Sing	20	nsubj	_	wf="циган"|tf="t͡sˈɪ̈ɦɑn"
+25	за	за	ADP	_	_	26	case	_	wf="за"|tf="zɑ"
+26	нíс	ніс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	wf="ніс"|tf="nʲˈis"
+27	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.8
+# IPA_transcription = ʔɑ ko̝zˈɑ jɑk◡wzdrˈilɑ më̝nˈe nɑ sɑn // nɑ sˈɑnʲɑx // to bˈorzo̝ zɑʈ͡ʂʲˈelɑ cikˈɑtɪ̞̈ // zɑ◡sɑnʲmˈɪ̞̈ // prɪ̈ʈ͡ʂʲipˈɪ̞̈lɑsɪ̈ sɑnˈɪ̞̈j tɑ xocˈilɑ më̝nˈe wzʲˈetɪ̞̈ n // nɑ◡rˈoɦɪ̞̈ //
+# standard_text = А коза́, як вздрíла менé (на сан...) на са́нях, то бо́рзо зачє́ла тіка́ти за саньми́, причепи́ласи сани́й та хотíла менé взє́ти (н...) на ро́ги.
+# variation_text = А коза́, як вздрíла менé (на сан...) на са́нях, то бо́рзо зачє́ла тіка́ти за саньми́, причепи́ласи сани́й та хотíла менé взє́ти (н...) на ро́ги.
+# german_text = Und als die Ziege mich bemerkte, sprang sie los hinter den Schlitten, machte sich an den Schlitten und wollte mich auf die Hörber nehmen.
+# english_text = And when the goat noticed me, it jumped behind the sled, grabbed the sled and wanted to take me up to the Hörber.
+1	А	а	CCONJ	_	_	17	discourse	_	wf="А"|tf="ʔɑ"
+2	коза́	коза	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	wf="коза"|tf="ko̝zˈɑ"
+3	,	,	PUNCT	_	_	5	punct	_	wf=","
+4	як	як	SCONJ	_	_	5	mark	_	wf="як"|tf="jɑk"
+5	вздрíла	вздріти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	advcl	_	wf="вздріла"|tf="wzdrˈilɑ"
+6	менé	я	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	wf="мене"|tf="më̝nˈe"
+7	(	(	PUNCT	_	_	9	punct	_	wf="("
+8	на	на	ADP	_	_	9	case	_	wf="на"|tf="nɑ"
+9	сан	сан	X	_	Fragment=Yes	5	parataxis	_	wf="сан"|tf="sɑn"
+10	...	...	PUNCT	_	_	9	punct	_	wf="..."|tf="//"
+11	)	)	PUNCT	_	_	9	punct	_	wf=")"
+12	на	на	ADP	_	_	13	case	_	wf="на"|tf="nɑ"
+13	са́нях	сани	NOUN	_	Animacy=Inan|Case=Loc|Number=Ptan	5	obl	_	wf="санях"|tf="sˈɑnʲɑx"
+14	,	,	PUNCT	_	_	5	punct	_	wf=","|tf="//"
+15	то	то	PART	_	PartType=Conseq	17	discourse	_	wf="то"|tf="to"
+16	бо́рзо	борзо	ADV	_	Degree=Pos	17	advmod	_	wf="борзо"|tf="bˈorzo̝"
+17	зачє́ла	зачєсти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="зачєла"|tf="zɑʈ͡ʂʲˈelɑ"
+18	тіка́ти	тікати	VERB	_	Aspect=Imp|VerbForm=Inf	17	xcomp	_	wf="тікати"|tf="cikˈɑtɪ̞̈"
+19	за	за	ADP	_	_	20	case	_	wf="за"|tf="zɑ"
+20	саньми́	сани	NOUN	_	Animacy=Inan|Case=Ins|Number=Ptan	18	obj	_	wf="саньми"|tf="sɑnʲmˈɪ̞̈"
+21	,	,	PUNCT	_	_	22	punct	_	wf=","|tf="//"
+22	причепи́ласи	причепитиси	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Fin	17	conj	_	wf="причепиласи"|tf="prɪ̈ʈ͡ʂʲipˈɪ̞̈lɑsɪ̈"
+23	сани́й 	сани	NOUN	_	Animacy=Inan|Case=Gen|Number=Ptan	22	iobj	_	wf="саний"|tf="sɑnˈɪ̞̈j"
+24	та	та	CCONJ	_	_	25	cc	_	wf="та"|tf="tɑ"
+25	хотíла	хотіти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	conj	_	wf="хотіла"|tf="xocˈilɑ"
+26	менé	я	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	27	obj	_	wf="мене"|tf="më̝nˈe"
+27	взє́ти	взєти	VERB	_	Aspect=Perf|VerbForm=Inf	25	xcomp	_	wf="взєти"|tf="wzʲˈetɪ̞̈"
+28	(	(	PUNCT	_	_	29	punct	_	wf="("
+29	н	н	X	_	Fragment=Yes	32	appos	_	wf="н"|tf="n"
+30	...	...	PUNCT	_	_	29	punct	_	wf="..."|tf="//"
+31	)	)	PUNCT	_	_	29	punct	_	wf=")"
+32	на	на	ADP	_	_	33	case	_	wf="на"|tf="nɑ"
+33	ро́ги	ріг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	27	obl	_	wf="роги"|tf="rˈoɦɪ̞̈"
+34	.	.	PUNCT	_	_	17	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.9
+# IPA_transcription = ʔɑ mˈɑmɑ toɦdˈɪ̈ jäk t͡svˈɑxnulɑ ko̝bˈɪ̞̈lu // bɑtoɦˈom kobˈɪ̞̈lɑ sʲːˈipnulɑ // ɑ◡ko̝zˈɑ pë̝rvë̝rnˈulɑsɪ̈ w s // f◡snʲix täj◡jˈi // ʔo̝dˈen riɦ vidlomˈɪ̞̈wsɪ̈ //
+# standard_text = А ма́ма тогди́ як цва́хнула коби́лу батого́м, коби́ла сíпнула, а коза́ переверну́ласи (в с...) в сніг тай ї́ одéн ріг відломи́вси.
+# variation_text = А ма́ма тогди́ як цва́хнула коби́лу батого́м, коби́ла сíпнула, а коза́ переверну́ласи (в с...) в сніг тай ї́ одéн ріг відломи́вси.
+# german_text = Da schlug die Mama mit der Peitsche auf die Stute, die Stute sprang los, und die Ziege fiel in den Schnee un brach sich dabei ein Horn.
+# english_text = Then the mother hit the mare with the whip, the mare jumped off, and the goat fell into the snow and broke a horn in the process.
+1	А	а	CCONJ	_	_	5	discourse	_	wf="А"|tf="ʔɑ"
+2	ма́ма	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	wf="мама"|tf="mˈɑmɑ"
+3	тогди́	тогди	ADV	_	PronType=Dem	5	advmod	_	wf="тогди"|tf="toɦdˈɪ̈"
+4	як	як	SCONJ	_	_	5	advmod	_	wf="як"|tf="jäk"
+5	цва́хнула	цвахнути	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="цвахнула"|tf="t͡svˈɑxnulɑ"
+6	коби́лу	кобила	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	wf="кобилу"|tf="ko̝bˈɪ̞̈lu"
+7	батого́м	батог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	wf="батогом"|tf="bɑtoɦˈom"
+8	,	,	PUNCT	_	_	10	punct	_	wf=","
+9	коби́ла	кобила	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	wf="кобила"|tf="kobˈɪ̞̈lɑ"
+10	сíпнула	сіпнути	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	conj	_	wf="сіпнула"|tf="sʲːˈipnulɑ"
+11	,	,	PUNCT	_	_	13	punct	_	wf=","|tf="//"
+12	а	а	CCONJ	_	_	14	cc	_	wf="а"|tf="ɑ"
+13	коза́	коза	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	wf="коза"|tf="ko̝zˈɑ"
+14	переверну́ласи	перевернутиси	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Fin	10	conj	_	wf="перевернуласи"|tf="pë̝rvë̝rnˈulɑsɪ̈"
+15	(	(	PUNCT	_	_	17	punct	_	wf="("
+16	в	в	ADP	_	_	17	case	_	wf="в"|tf="w"
+17	с	с	X	_	Fragment=Yes	21	appos	_	wf="с"|tf="s"
+18	...	...	PUNCT	_	_	17	punct	_	wf="..."|tf="//"
+19	)	)	PUNCT	_	_	17	punct	_	wf=")"
+20	в	в	ADP	_	_	21	case	_	wf="в"|tf="f"
+21	сніг	сніг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obl	_	wf="сніг"|tf="snʲix"
+22	тай	тай	CCONJ	_	_	26	advmod	_	wf="тай"|tf="täj"
+23	ї́	ї	CCONJ	_	_	26	cc	_	wf="ї"|tf="jˈi"
+24	одéн	оден	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	25	nummod	_	wf="оден"|tf="ʔo̝dˈen"
+25	ріг	ріг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	wf="ріг"|tf="riɦ"
+26	відломи́вси	відломитиси	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Fin	14	conj	_	wf="відломивси|tf="vidlomˈɪ̞̈wsɪ̈"
+27	.	.	PUNCT	_	_	5	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.10
+# IPA_transcription = tɑ◡mˈɪ̈ pɪʂlˈɪ̞̈ dˈɑḻji //
+# standard_text = Та ми́ пішли́ да́лі.
+# german_text = Und wir gingen weiter.
+# english_text = And we drove further.
+1	Та	та	CCONJ	_	_	3	cc	_	wf="Та"|tf="tɑ"
+2	ми́	ми	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	wf="ми"|tf="mˈɪ̈"
+3	пішли́	піти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	wf="пішли"|tf="pɪʂlˈɪ̞̈"
+4	да́лі	далі	ADV	_	Degree=Pos	3	advmod	_	wf="далі"|tf="dˈɑḻji"
+5	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.11
+# IPA_transcription = to̝◡wʐˈe◡jäk bˈulɪ̞̈ blˈɪ̞̈sko ɟˈidɑ // ɟˈit v'iʂow v'itːɪ̈ w◡ʈ͡ʂʲë̝rvˈonɪ̈x spˈodnʲɑx //
+# standard_text = То вжé як бу́ли бли́зко дíда, дíд вíшов вíдти в черво́них спо́днях.
+# variation_text = То вжé як бу́ли бли́зко дíда, дíд вíшов вíдти в черво́них спо́днях.
+# german_text = Als wir nicht weit vom Großvater entfernt waren, kam der Großvater von dort in den roten Hosen heraus.
+# english_text = When we were not far from my grandfather, my grandfather came out from there wearing red trousers.
+1	То	то	CCONJ	_	_	9	discourse	_	wf="То"|tf="to̝"
+2	вжé	вже	ADV	_	_	4	advmod	_	wf="вже"|tf="wʐˈe"
+3	як	як	ADV	_	PronType=Rel	4	mark	_	wf="як"|tf="jäk"
+4	бу́ли	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	9	advcl	_	wf="були"|tf="bˈul"
+5	бли́зко	близко	ADV	_	_	4	advmod	_	wf="близко"|tf="blˈɪ̞̈sko"
+6	дíда	дід	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	wf="діда"|tf="ɟˈidɑ"
+7	,	,	PUNCT	_	_	4	punct	_	wf=","
+8	дíд	дід	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	wf="дід"|tf="ɟˈit"
+9	вíшов	вийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="вішов"|tf="v'iʂow"
+10	вíдти	відти	ADV	_	PronType=Dem	9	advmod	_	wf="відти"|tf="v'itːɪ̈"
+11	в	в	ADP	_	_	13	case	_	wf="в"|tf="w"
+12	черво́них	червоний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	wf="червоних"|tf="ʈ͡ʂʲë̝rvˈonɪ̈x"
+13	спо́днях	сподни	NOUN	_	Animacy=Inan|Case=Loc|Number=Ptan	9	obl	_	wf="споднях"|tf="spˈodnʲɑx"
+14	.	.	PUNCT	_	_	9	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.12
+# IPA_transcription = ʔɒ̝x jɑk wzdrˈiw më̝nˈe nɑ◡sɑnˈex // to̝◡wzʲˈew bˈorzo rostvorˈɪ̈w brˈɑmu //
+# standard_text = Ах як уздрíв менé на санéх, то взє́в бо́рзо розтвори́в бра́му.
+# variation_text = Ах як уздрíв менé на санéх, то взє́в бо́рзо розтвори́в бра́му.
+# german_text = Als er mich auf dem Schlitten bemerkt hatte, hatte er schnell das Tor geöffnet.
+# english_text = When he noticed me on the sled, he quickly opened the gate.
+1	Ах	ах	CCONJ	_	_	9	discourse	_	wf="Ах"|tf="ʔɒ̝x"
+2	як	як	ADV	_	PronType=Rel	3	mark	_	wf="як"|tf="jɑk"
+3	уздрíв	уздріти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	advcl	_	wf="уздрів"|tf="wzdrˈiw"
+4	менé	я	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	wf="мене"|tf="më̝nˈe"
+5	на	на	ADP	_	_	6	case	_	wf="на"|tf="nɑ"
+6	санéх	сан	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	wf="санех"|tf="sɑnˈex"
+7	,	,	PUNCT	_	_	3	punct	_	wf=","|tf="//"
+8	то	то	PART	_	PartType=Conseq	11	discourse	_	wf="то"|tf="to̝"
+9	взє́в	взяти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="взєв"|tf="wzʲˈew"
+10	бо́рзо	борзо	ADV	_	Degree=Pos	11	advmod	_	wf="борзо"|tf="bˈorzo"
+11	розтвори́в	розтворити	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	wf="розтворив"|tf="rostvorˈɪ̈w"
+12	бра́му	брама	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	wf="браму"|tf="brˈɑmu"
+13	.	.	PUNCT	_	_	11	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.13
+# IPA_transcription = mˈɨ zɑjʂlˈɪ̈ nɑpˌerë̝t◡xˈɑtu // ʔɑ◡ɟˈid wzʲˈew tˌɑ◡rostvorˈɪ̈w ɪ̈ rosprjˈex◡kobˈɪ̞̈lu dɒ̝w ji ko̝bˈɪ̞̈lu do // kolˈeʂnʲi //
+# standard_text = Ми́ зайшли́ наперед ха́ту, а дíд взє́в та розтвори́в и розпрє́г коби́лу, дав ї коби́лу до колéшні.
+# variation_text = Ми́ зайшли́ наперед ха́ту, а дíд взє́в та розтвори́в и розпрє́г коби́лу, дав ї коби́лу до колéшні.
+# german_text = Wir kamen vor das Haus, der Großvater öffnete den Pferdestall, spannte die Stute aus und brachte sie in den Stall.
+# english_text = We arrived in front of the house, the grandfather opened the horse stable, unhitched the mare and brought her into the stable.
+1	Ми́	ми	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	wf="Ми"|tf="mˈɨ"
+2	зайшли́	зайти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	wf="зайшли"|tf="zɑjʂlˈɪ̈"
+3	наперед	наперед	ADP	_	_	4	case	_	wf="наперед"|tf="nɑpˌerë̝t"
+4	ха́ту	хата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	wf="хату"|tf="xˈɑtu"
+5	,	,	PUNCT	_	_	8	punct	_	wf=","|tf="//"
+6	а	а	CCONJ	_	_	8	cc	_	wf="а"|tf="ʔɑ"
+7	дíд	дід	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	wf="дід"|tf="ɟˈid"
+8	взє́в	взяти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	wf="взєв"|tf="wzʲˈew "
+9	та	та	CCONJ	_	_	10	cc	_	wf="та"|tf="tˌɑ"
+10	розтвори́в	розтворити	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	wf="розтворив"|tf="rostvorˈɪ̈w"
+11	и	и	CCONJ	_	_	12	advmod	_	wf="и"|tf="ɪ̈ "
+12	розпрє́г	розпрєгти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	wf="розпрєг"|tf="rosprjˈex"
+13	коби́лу	кобила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	wf="кобилу"|tf="kobˈɪ̞̈lu"
+14	,	,	PUNCT	_	_	15	punct	_	wf=","
+15	дав	дати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	conj	_	wf="дав"|tf="dɒ̝w"
+16	ї	ї	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	iobj	_	wf="ї"|tf="ji"
+17	коби́лу	кобила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	appos	_	wf="кобилу"|tf="ko̝bˈɪ̞̈lu
+18	до	до	ADP	_	Case=Gen	19	case	_	wf="до"|tf="do"
+19	колéшні	колешня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	wf="колешні"|tf="kolˈeʂnʲi"
+20	.	.	PUNCT	_	_	2	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.14
+# IPA_transcription = ʔɑ◡jˈɑ zḻʲˈizːvˈitːɪ̈ sːsɑnˈɪ̈j buw tɑkʲˈɪ̞̈j zɑmˈerzlɪ̈j më̝nˈe tɑg◡dˈuʐë̝ // ɪ̞̈ // bo̝ḻʲˈilɪ̈ nˈoɦɪ̈ bo̝◡zɑjʂlˈɪ̈ zˈɑpɑri w nˈoɦɪ̈ //
+# standard_text = А я́ злíз звíдти з сани́й, був таки́й замéрзлий, менé так ду́же (и...) болíли но́ги, бо зайшли́ за́парі в но́ги.
+# variation_text = А я́ злíз звíдти з сани́й, був таки́й замéрзлий, менé так ду́же (и...) болíли но́ги, бо зайшли́ за́парі в но́ги.
+# german_text = Als ich vom Schlitten herunterkam, war ich so durchgefroren, meine Füße taten mir so weh, denn ich hatte Frost bekommen.
+# english_text = When I came down from the sled, I was so frozen, my feet hurt so much because I had gotten frostbite.
+1	А	а	CCONJ	_	_	3	discourse	_	wf="А"|tf="ʔɑ"
+2	я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wf="я"|tf="jˈɑ"
+3	злíз	злізти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="зліз"|tf="zḻʲˈiz"
+4	звíдти	звідти	ADV	_	PronType=Dem	3	advmod	_	wf="звідти"|tf="zvˈitːɪ̈"
+5	з	з	ADP	_	_	6	case	_	wf="з"|tf="s"
+6	сани́й	сани	NOUN	_	Animacy=Inan|Case=Gen|Number=Ptan	3	obl	_	wf="саний"|tf="sɑnˈɪ̈j"
+7	,	,	PUNCT	_	_	10	punct	_	wf=","
+8	був	бути	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	cop	_	wf="був"|tf="buw"
+9	таки́й	такий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	advmod:det	_	wf="такий"|tf="tɑkʲˈɪ̞̈j"
+10	замéрзлий	замерзлий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	wf="замерзлий"|tf="zɑmˈerzlɪ̈j"
+11	,	,	PUNCT	_	_	19	punct	_	wf=","
+12	менé	я	PRON	_	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	19	iobj	_	wf="мене"|tf="më̝nˈe"
+13	так	так	ADV	_	PronType=Dem	14	advmod	_	wf="так"|tf="tɑg"
+14	ду́же	дуже	ADV	_	Degree=Pos	19	advmod	_	wf="дуже"|tf="dˈuʐë̝"
+15	(	(	PUNCT	_	_	16	punct	_	wf="("
+16	и	и	X	_	Fragment=Yes	19	appos	_	wf="и"|tf="ɪ̞̈"
+17	...	...	PUNCT	_	_	16	punct	_	wf="..."|tf="//"
+18	)	)	PUNCT	_	_	16	punct	_	wf=")"
+19	болíли	боліти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	conj	_	wf="боліли"|tf="bo̝ḻʲˈilɪ̈"
+20	но́ги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	wf="ноги"|tf="nˈoɦɪ̈"
+21	,	,	PUNCT	_	_	23	punct	_	wf=","
+22	бо	бо	SCONJ	_	_	23	mark	_	wf="бо"|tf="bo̝"
+23	зайшли́	зайти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	19	advcl	_	wf="зайшли"|tf="zɑjʂlˈɪ̈"
+24	за́парі	запарі	NOUN	_	Animacy=Inan|Case=Nom|Number=Ptan	23	nsubj	_	wf="запарі"|tf="zˈɑpɑri"
+25	в	в	ADP	_	_	26	case	_	wf="в"|tf="w"
+26	но́ги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obl	_	wf="ноги"|tf="nˈoɦɪ̈"
+27	.	.	PUNCT	_	_	19	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.15
+# IPA_transcription = ʔɒ̝ jɑːk sːkˈok vˈitːɪ̈ jɑk zɑʈ͡ʂʲˈɨw jɑ trˈopɑtɪ̞̈ m // nˈoɦɑmɪ̈ bo̝◡tˈo // bˈulɪ̈ postol'ɪ̈ zɑmˈerzlɪ̈ tɑ jɑ tɑk trˈopɑw jɑk ʈ͡ʂʲobocmˈɪ̞̈ //
+# standard_text = А я як зско́к вíдти, як зачи́в я тро́пати (м) нога́ми, бо то бу́ли постоли́ замéрзли, та я так тро́пав як чоботьми́.
+# variation_text = А я як зско́к вíдти, як зачи́в я тро́пати (м) нога́ми, бо то бу́ли постоли́ замéрзли, та я так тро́пав як чоботьми́.
+# german_text = Als ich von dort heruntersprang, trampelte ich mit den Füßen, denn die Pantinen waren festgefroren,
+# english_text = When I jumped down from there, I stamped my feet because my slippers were frozen solid.
+1	А	а	CCONJ	_	_	4	discourse	_	wf="А"|tf="ʔɒ̝"
+2	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	wf="я"|tf="jɑ"
+3	як	як	ADV	_	PronType=Rel	4	advmod	_	wf="як"|tf="jɑk"
+4	зско́к	зскокнути	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="зскок"|tf="sːkˈok "
+5	вíдти	відти	ADV	_	PronType=Dem	4	advmod	_	wf="відти"|tf="vˈitːɪ̈"
+6	,	,	PUNCT	_	_	8	punct	_	wf=","
+7	як	як	ADV	_	PronType=Rel	8	advmod	_	wf="як"|tf="jɑk"
+8	зачи́в	зачити	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	wf="зачив"|tf="zɑʈ͡ʂʲˈɨw"
+9	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	wf="я"|tf="jɑ"
+10	тро́пати	тропати	VERB	_	Aspect=Imp|VerbForm=Inf	8	xcomp	_	wf="тропати"|tf="trˈopɑtɪ̞̈"
+11	(	(	PUNCT	_	_	12	punct	_	wf="("
+12	м	м	X	_	Fragment=Yes	14	appos	_	wf="м"|tf="m //"
+13	)	)	PUNCT	_	_	12	punct	_	wf=")"
+14	нога́ми	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	obl	_	wf="ногами"|tf="nˈoɦɑmɪ̈"
+15	,	,	PUNCT	_	_	20	punct	_	wf=","
+16	бо	бо	SCONJ	_	_	20	mark	_	wf="бо"|tf="bo̝"
+17	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	19	nsubj	_	wf="то"|tf="tˈo"
+18	бу́ли	бути	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	20	cop	_	wf="були"|tf="bˈulɪ̈"
+19	постоли́	постол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	wf="постоли"|tf="postol'ɪ̈"
+20	замéрзли	замерзти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	10	advcl	_	wf="замерзли"|tf="zɑmˈerzlɪ̈"
+21	,	,	PUNCT	_	_	25	punct	_	wf=","
+22	та	та	CCONJ	_	_	25	cc	_	wf="та"|tf="tɑ"
+23	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	wf="я"|tf="jɑ"
+24	так	так	ADV	_	PronType=Dem	25	advmod	_	wf="так"|tf="tɑk"
+25	тро́пав	тропати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	conj	_	wf="тропав"|tf="trˈopɑw"
+26	як	як	SCONJ	_	_	27	mark	_	wf="як"|tf="jɑk"
+27	чоботьми́	чобот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	obl	_	wf="чоботьми"|tf="ʈ͡ʂʲobocmˈɪ̞̈"
+28	.	.	PUNCT	_	_	20	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.16
+# IPA_transcription = prʂˈow jɑ do◡xˈɑtɪ̈ // ɒ̝◡bˈɑbɑ vˈitːɪ̈ zḻʲˈizlɑ s◡pˈeʈ͡ʂʲi // tɒ̝◡wzʲˈelɑ më̝nˈe rozːˈulɑ // tɑ tɑg◡bˈorzo rozːuvˈɑlɑ ʂo̝ më̝nʲˈi pirvˈɑlɑ volˈokɪ̞̈ //
+# standard_text = Прийшо́в я до ха́ти, а ба́ба вíдти злíзла з пéчі, та взє́ла менé роззу́ла, та так бо́рзо роззува́ла, шо менí пірва́ла воло́ки.
+# variation_text = Прийшо́в я до ха́ти, а ба́ба вíдти злíзла з пéчі, та взє́ла менé роззу́ла, та так бо́рзо роззува́ла, шо менí пірва́ла воло́ки.
+# german_text = Ich kam in das Haus, die Großmutter kletterte vom Ofen herunter, nahm mich und zog mir die Schuhe aus, und sie zog so schnell, daß sie mir die Schnurbänder zerriß.
+# english_text = I came home, the grandmother climbed down from the stove, took me and pulled off my shoes, and she pulled so fast that she tore the laces.
+1	Прийшо́в	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="Прийшов"|tf="prʂˈow"
+2	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	wf="я"|tf="jɑ"
+3	до	до	ADP	_	_	4	case	_	wf="до"|tf="do"
+4	ха́ти	хата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	obl	_	wf="хати"|tf="xˈɑtɪ̈"
+5	,	,	PUNCT	_	_	9	punct	_	wf=","|tf="//"
+6	а	а	CCONJ	_	_	9	cc	_	wf="а"|tf="ɒ̝"
+7	ба́ба	баба	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	wf="баба"|tf="bˈɑbɑ"
+8	вíдти	відти	ADV	_	PronType=Dem	9	advmod	_	wf="відти"|tf="vˈitːɪ̈"
+9	злíзла	злезти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	conj	_	wf="злізла"|tf="zḻʲˈizlɑ"
+10	з	з	ADP	_	_	11	case	_	wf="з"|tf="s"
+11	пéчі	піч	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	wf="печі"|tf="pˈeʈ͡ʂʲi"
+12	,	,	PUNCT	_	_	14	punct	_	wf=","|tf="//"
+13	та	та	CCONJ	_	_	14	cc	_	wf="та"|tf="tɒ̝"
+14	взє́ла	взєсти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	wf="взєла"|tf="wzʲˈelɑ"
+15	менé	я	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	wf="мене"|tf="më̝nˈe"
+16	роззу́ла	роззути	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	xcomp	_	wf="роззула"|tf="rozːˈulɑ"
+17	,	,	PUNCT	_	_	21	punct	_	wf=","|tf="//"
+18	та	та	CCONJ	_	_	21	cc	_	wf="та"|tf="tɑ"
+19	так	так	ADV	_	PronType=Dem	20	advmod	_	wf="так"|tf="tɑg"
+20	бо́рзо	борзо	ADV	_	Degree=Pos	21	advmod	_	wf="борзо"|tf="bˈorzo"
+21	роззува́ла	роззувати	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	conj	_	wf="роззувала"|tf="rozːuvˈɑlɑ"
+22	,	,	PUNCT	_	_	25	punct	_	wf=","
+23	шо	шо	SCONJ	_	_	25	mark	_	wf="шо"|tf="ʂo̝"
+24	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	25	iobj	_	wf="мені"|tf="më̝nʲˈi"
+25	пірва́ла	пірвати	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	21	advcl	_	wf="пірвала"|tf="pirvˈɑlɑ"
+26	воло́ки	волок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	25	obj	_	wf="волоки"|tf="volˈokɪ̞̈"
+27	.	.	PUNCT	_	_	1	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.17
+# IPA_transcription = ʔɑj◡mjˈi tˌɑg◡bˈɑnːo◡stˈɑlo // bo̝◡tˈo̝ vo̝lˈokʲɪ̞̈ në̝◡bˈulɪ̈ klˌoʈ͡ʂʲë̝nʲˈi ˌɑlë̝◡bˈulɪ̈◡ʂːerstɪ̈ // ʂo̝ mˈɒ̝mɒ̝ kupˈɪ̞̈lɑ vid◡o̝dnˈoɦo vˈoloxɑ z◡rɑdɪwt͡sʲɑ //
+# standard_text = Ай менí так ба́нно ста́ло, бо то воло́ки не бу́ли клоченí, але бу́ли з шéрсти, шо ма́ма купи́ла від одно́го во́лоха з Радівця́.
+# variation_text = Ай менí так ба́нно ста́ло, бо то воло́ки не бу́ли клоченí, але бу́ли з шéрсти, шо ма́ма купи́ла від одно́го во́лоха з Радівця́.
+# german_text = Ich war so traurig, denn es waren keine Flachs-, sondern Roßhaarschnurbänder, die mir Mama von einem Rumänen in Radautz gekauft hatte.
+# english_text = I was so sad because the ribbons my mother had bought for me from a Romanian in Radautz were not flax ribbons, but horsehair ribbons.
+1	Ай	ай	CCONJ	_	_	5	discourse	_	wf="Ай"|tf="ʔɑj"
+2	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	wf="мені"|tf="mjˈi"
+3	так	так	ADV	_	PronType=Dem	4	advmod	_	wf="так"|tf="tˌɑg"
+4	ба́нно	банно	ADV	_	_	5	advmod	_	wf="банно"|tf="bˈɑnːo"
+5	ста́ло	стати	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="стало"|tf="stˈɑlo"
+6	,	,	PUNCT	_	_	12	punct	_	wf=","|tf="//"
+7	бо	бо	SCONJ	_	_	12	mark	_	wf="бо"|tf="bo̝"
+8	то	то	SCONJ	_	_	7	fixed	_	wf="то"|tf="tˈo̝"
+9	воло́ки	волок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	wf="волоки"|tf="vo̝lˈokʲɪ̞̈"
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	wf="не"|tf="në̝"
+11	бу́ли	бути	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	12	cop	_	wf="були"|tf="bˈulɪ̈"
+12	клоченí	клочений	ADJ	_	Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	5	advcl	_	wf="клочені"|tf="klˌoʈ͡ʂʲë̝nʲˈi"
+13	,	,	PUNCT	_	_	17	punct	_	wf=","
+14	але	але	CCONJ	_	_	17	cc	_	wf="але"|tf="ˌɑlë̝"
+15	бу́ли	бути	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	17	cop	_	wf="були"|tf="bˈulɪ̈"
+16	з	з	ADP	_	_	17	case	_	wf="з"|tf="ʂ"
+17	шéрсти	шерст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	wf="шерсти"|tf="ʂerstɪ̈"
+18	,	,	PUNCT	_	_	21	punct	_	wf=","|tf="//"
+19	шо	шо	SCONJ	_	_	21	cc	_	wf="шо"|tf="ʂo̝"
+20	ма́ма	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	wf="мама"|tf="mˈɒ̝mɒ̝"
+21	купи́ла	купити	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	acl:relcl	_	wf="купила"|tf="kupˈɪ̞̈lɑ"
+22	від	від	ADP	_	_	24	case	_	wf="від"|tf="vid"
+23	одно́го	один	NUM	_	Case=Gen|Gender=Masc|NumType=Card	24	nummod	_	wf="одного"|tf="o̝dnˈoɦo"
+24	во́лоха	волох	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	wf="волоха"|tf="vˈoloxɑ"
+25	з	з	ADP	_	_	26	case	_	wf="з"|tf="z"
+26	Радівця́	Радівець	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	24	nmod	_	wf="Радівця"|tf="rɑdɪwt͡sʲɑ"
+27	.	.	PUNCT	_	_	5	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.18
+# IPA_transcription = to jɑ toɦdˈɪ̈ wzʲˈew // cäj zɑʈ͡ʂʲekˈɑw trˈoxʲɪ̞̈ ʔɑ◡ɟˈit◡piʂˈo̝w do̝◡xˈɑtɪ̈ tɑ◡wzʲˈew më̝nˈe nɑ◡koḻʲinɑ // zɑɦornˈuw më̝nʲˈi nˈoɦɪ̈ w // kuʐˈux // tɑj kɑzˈɒ̝w ʂobˈɪ̈ jɑ kˌoḻʲiduvˈɑw //
+# standard_text = То я тогди́ взє́в тай зачека́в тро́хи, а дíд пішо́в до ха́ти та взє́в менé на колíна, загорну́в менí но́ги в кужу́х тай каза́в шоби́ я колідува́в.
+# variation_text = То я тогди́ взє́в тай зачека́в тро́хи, а дíд пішо́в до ха́ти та взє́в менé на колíна, загорну́в менí но́ги в кужу́х тай каза́в шоби́ я колідува́в.
+# german_text = Ich wartete ein wenig, da kam der Großvater herein, nahm mich auf den Schoß, wickelte meine Füße in den Pelz und ließ sich Weihnachtslieder vorsingen.
+# english_text = I waited a little while, then my grandfather came in, took me on his lap, wrapped my feet in fur and had me sing Christmas carols to him.
+1	То	то	PART	_	_	4	discourse	_	wf="То"|tf="to̝"
+2	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	wf="я"|tf="to̝"
+3	тогди́	тогди	ADV	_	PronType=Dem	4	advmod	_	wf="тогди"|tf="toɦdˈɪ̈"
+4	взє́в	взяти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="взєв"|tf="wzʲˈew"
+5	тай	тай	CCONJ	_	_	6	cc	_	wf="тай"|tf="cäj"
+6	зачека́в	зачекати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	wf="зачекав"|tf="zɑʈ͡ʂʲekˈɑw"
+7	тро́хи	трохи	ADV	_	PronType=Dem	6	advmod	_	wf="трохи"|tf="trˈoxʲɪ̞̈"
+8	,	,	PUNCT	_	_	11	punct	_	wf=","
+9	а	а	CCONJ	_	_	11	cc	_	wf="а"|tf="ʔɑ◡ɟ"
+10	дíд	дід	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	wf="дід"|tf="ɟˈit"
+11	пішо́в	піти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	wf="пішов"|tf="piʂˈo̝w"
+12	до	до	ADP	_	_	13	case	_	wf="до"|tf="do̝"
+13	ха́ти	хата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	wf="хати"|tf="txˈɑtɪ̈"
+14	та	та	CCONJ	_	_	15	cc	_	wf="та"|tf="tɑ"
+15	взє́в	взяти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	conj	_	wf="взєв"|tf="wzʲˈew"
+16	менé	я	PRON	_	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obj	_	wf="мене"|tf="më̝nˈe"
+17	на	на	ADP	_	_	18	case	_	wf="на"|tf="nɑ"
+18	колíна	коліно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	15	obl	_	wf="коліна"|tf="koḻʲinɑ"
+19	,	,	PUNCT	_	_	20	punct	_	wf=","|tf="//"
+20	загорну́в	загорнути	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	conj	_	wf="загорнув"|tf="zɑɦornˈuw"
+21	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	20	iobj	_	wf="мені"|tf="më̝nʲˈi"
+22	но́ги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	20	obj	_	wf="ноги"|tf="nˈoɦɪ̈"
+23	в	в	ADP	_	_	24	case	_	wf="в"|tf="w"
+24	кужу́х	кужух	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	wf="кужух"|tf="kuʐˈux"
+25	тай	тай	CCONJ	_	_	26	сс	_	wf="тай"|tf="tɑj"
+26	каза́в	казати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	conj	_	wf="казав"|tf="kɑzˈɒ̝w"
+27	шоби́	шоби	SCONJ	_	_	29	mark	_	wf="шоби"|tf="ʂobˈɪ̈"
+28	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	wf="я"|tf="jɑ"
+29	колідува́в	колідувати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	26	ccomp	_	wf="колідував"|tf="kˌoḻʲiduvˈɑw"
+30	.	.	PUNCT	_	_	4	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.19
+# IPA_transcription = ʔˈɑlë̝ jɑ buw zɑmˈerzlɪ̈j jɑ në̝◡mˈix◡koḻʲiduvˈɑtɪ̈ //
+# standard_text = А́ле я був замéрзлий, я не мíг колідува́ти.
+# variation_text = А́ле я був замéрзлий, я не мíг колідува́ти.
+# german_text = Aber ich war durchgefroren, ich konnte nicht singen.
+# english_text = But I was frozen to the bone, I couldn't sing.
+1	А́ле	але	CCONJ	_	_	4	cc	_	wf="Але"|tf="ʔˈɑlë̝"
+2	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	wf="я"|tf="jɑ"
+3	був	бути	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	cop	_	wf="був"|tf="buw"
+4	замéрзлий	замерзлий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	wf="замерзлий"|tf="zɑmˈerzlɪ̈j"
+5	,	,	PUNCT	_	_	8	punct	_	wf=","
+6	я	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	wf="я"|tf="jɑ"
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	wf="не"|tf="në̝"
+8	мíг	могти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	wf="міг"|tf="mˈix"
+9	колідува́ти	колідувати	VERB	_	Aspect=Imp|VerbForm=Inf	8	xcomp	_	wf="колідувати"|tf="ʔkoḻʲiduvˈɑtɪ̈"
+10	.	.	PUNCT	_	_	4	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.20
+# IPA_transcription = to̝ɦdˈɪ̈ ɟˈit // kɑzˈɑw ʂo̝ më̝nʲˈi zɑkoḻʲidˈuje ˌɑlë̝◡pˈerʂɪ̈j◡rɑz nɑj◡më̝nʲˈi opovˈist bˈɑjku◡tɑ zɑʈ͡ʂʲë̝w wpovidˈɑtɪ̈ bɑjkʲˈɪ̞̈ //
+# standard_text = Тогди́ дíд каза́в, шо менí заколіду́є, але пéрший раз най менí оповíст ба́йку, та зачє́в оповіда́ти байки́.
+# variation_text = Тогди́ дíд каза́в, шо менí заколіду́є, але пéрший раз най менí оповíст ба́йку, та зачє́в оповіда́ти байки́.
+# german_text = Da sagte mir der Großvater, er werde singen, aber zunächst wollte ich, daß er mir ein Märchen erzählte; und er fing an Märchen zu erzählen.
+# english_text = Then my grandfather told me he would sing, but first I wanted him to tell me a fairy tale; and he began to tell fairy tales.
+1	Тогди́	тогди	ADV	_	PronType=Dem	3	advmod	_	wf="Тогди"|tf="to̝ɦdˈɪ̈"
+2	дíд	дід	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="дід"|tf="ɟˈit"
+3	каза́в	казати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="казав"|tf="kɑzˈɑw"
+4	,	,	PUNCT	_	_	7	punct	_	wf=","
+5	шо	шо	SCONJ	_	_	7	advmod	_	wf="шо"|tf="ʂo̝"
+6	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	wf="мені"|tf="më̝nʲˈi"
+7	заколіду́є	заколідувати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	ccomp	_	wf="заколідує"|tf="zɑkoḻʲidˈuje"
+8	,	,	PUNCT	_	_	14	punct	_	wf=","
+9	але	але	CCONJ	_	_	14	cc	_	wf="але"|tf="ˌɑlë̝"
+10	пéрший	перший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	wf="перший"|tf="pˈerʂɪ̈j"
+11	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	wf="раз"|tf="rɑz"
+12	най	най	PART	_	_	14	discourse	_	wf="най"|tf="nɑj"
+13	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	14	iobj	_	wf="мені"|tf="më̝nʲˈi"
+14	оповíст	оповісти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Fut|VerbForm=Fin	7	conj	_	wf="оповіст"|tf="opovˈist"
+15	ба́йку	байка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	wf="байку"|tf="bˈɑjku"
+16	,	,	PUNCT	_	_	19	punct	_	wf=","
+17	та	та	CCONJ	_	_	19	cc	_	wf="та"|tf="tɑ"
+18	зачє́в	зачяти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	wf="зачєв"|tf="zɑʈ͡ʂʲë̝w"
+19	оповіда́ти	оповідати	VERB	_	Aspect=Imp|VerbForm=Inf	18	xcomp	_	wf="оповідати"|tf="wpovidˈɑtɪ̈"
+20	байки́	байка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obj	_	wf="байки"|tf="bɑjkʲˈɪ̞̈"
+21	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.21
+# IPA_transcription = ˌɑlë̝ bˈɑbɑ vˈitːɪ̈ v'ikrɪ̈kɑlɑsɪ̈ // kɑʐˈë̝ jˈɑk ttɪ̞̈ p // tɑkʲˈe // tɑkʲˈi rˈiʈ͡ʂʲɪ̞̈ wpovidˈɑjɪ̞ʂ xlˈopt͡sevɪ̈ // kɑʐˈë̝ wpovidˈɑj ʂos rozˈumnoɦo ḻʲuskoɦo // ˌɑlɪ̈◡nʲˈe durnˈɪ̞̈t͡sʲi //
+# standard_text = Але ба́ба вíдти вíкрикаласи, ка́же: як то ти (п...) (такé...) такí рíчи оповíдаєш хло́пцеви, ка́же: оповіда́й шос розу́много, лю́дского, а́ле не дурни́ці.
+# variation_text = Але ба́ба вíдти вíкрикаласи, ка́же: як то ти (п...) (такé...) такí рíчи оповíдаєш хло́пцеви, ка́же: оповіда́й шос розу́много, лю́дского, а́ле не дурни́ці.
+# german_text = Da schrie die Großmutter von drüben: sie sagt: wie kannst du solche Sachen erzählen, erzähle etwas vernünftifes, menschliches, aber keine Dummheiten.
+# english_text = Then the grandmother from across the way shouted: she said: how can you tell such things, tell something sensible, humane, but no nonsense.
+1	Але	але	CCONJ	_	_	4	cc	_	wf="Але"|tf="ˌɑlë̝"
+2	ба́ба	баба	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	wf="баба"|tf="bˈɑbɑ"
+3	вíдти	відти	ADV	_	PronType=Dem	4	advmod	_	wf="відти"|tf="vˈitːɪ̈"
+4	вíкрикаласи	вікрикатиси	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="вікрикаласи"|tf="v'ikrɪ̈kɑlɑsɪ̈"
+5	,	,	PUNCT	_	_	6	punct	_	wf=","|tf="//"
+6	ка́же	казати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	wf="каже"|tf="kɑʐˈë̝"
+7	:	:	PUNCT	_	_	21	punct	_	wf=":"
+8	як	як	ADV	_	PronType=Rel	21	advmod	_	wf="як"|tf="jˈɑk"
+9	то	то	PART	_	_	21	discourse	_	wf="то"|tf="to"
+10	ти	ти	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	21	nsubj	_	wf="ти"|tf="tɪ̞̈"
+11	(	(	PUNCT	_	_	12	punct	_	wf="("
+12	п	п	X	_	Fragment=Yes	10	appos	_	wf="п"|tf="p"
+13	...	...	PUNCT	_	_	12	punct	_	wf="..."|tf="//"
+14	)	)	PUNCT	_	_	12	punct	_	wf=")"
+15	(	(	PUNCT	_	_	16	punct	_	wf="("
+16	такé	такий	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	19	appos	_	wf="таке"|tf="tɑkʲˈe"
+17	...	...	PUNCT	_	_	16	punct	_	wf="..."|tf="//"
+18	)	)	PUNCT	_	_	16	punct	_	wf=")"
+19	такí	такий	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	20	det	_	wf="такі"|tf="tɑkʲˈi"
+20	рíчи	річ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	21	obj	_	wf="річи"|tf="rˈiʈ͡ʂʲɪ̞̈"
+21	оповíдаєш	оповідати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	wf="оповідаєш"|tf="wpovidˈɑjɪ̞ʂ"
+22	хло́пцеви	хлопець	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	21	iobj	_	wf="хлопцеви"|tf="xlˈopt͡sevɪ̈"
+23	,	,	PUNCT	_	_	24	punct	_	wf=","|tf="//"
+24	ка́же	казати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	wf="каже"|tf="kɑʐˈë̝"
+25	оповіда́й	оповідати	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	24	parataxis	_	wf="оповідай"|tf="wpovidˈɑj"
+26	шос	шос	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	25	obj	_	wf="шос"|tf="ʂos"
+27	розу́много	розумний	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	26	amod	_	wf="розумного"|tf="rozˈumnoɦo"
+28	,	,	PUNCT	_	_	29	punct	_	wf=","
+29	лю́дского	людский	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	27	conj	_	wf="людского"|tf="ḻʲuskoɦo"
+30	,	,	PUNCT	_	_	33	punct	_	wf=","|tf="//"
+31	а́ле	але	CCONJ	_	_	33	cc	_	wf="але"|tf="ˌɑlɪ̈"
+32	не	не	PART	_	Polarity=Neg	33	advmod	_	wf="не"|tf="nʲˈe"
+33	дурни́ці	дурниця	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	27	conj	_	wf="дурниці"|tf="durnˈɪ̞̈t͡sʲi"
+34	.	.	PUNCT	_	_	4	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.22
+# IPA_transcription = täj zɑʈ͡ʂʲë̝w më̝nʲˈi to̝ɦdˈɪ̈ ɟˈid wpovidˈɑtɪ̈ // zɑ◡selˈo // bo◡jˈɑ jɦo pɪ̈tˈɒ̝w dɒ̝w // bɑɦˈɑto rɑzʲˈiw // vˈitkʲˈɪ̞̈◡to mnʲe t͡se nˈosɪ̈t selˈo xtˈo◡to◡jɦo xrestˈɪ̈w // moʐë̝ jkʲɪ̞̈j◡pˈip xrestˈɪ̈w jɦo //
+# standard_text = Тай зачє́в менí тогди́ дíд оповіда́ти за село́, бо я́ їго пита́в (дав...) бага́то разíв, вíдки то мнє це но́сит село́, хто́ то їго хрести́в, може який пíп хрести́в їго.
+# variation_text = Тай зачє́в менí тогди́ дíд оповіда́ти за село́, бо я́ їго пита́в (дав...) бага́то разíв, вíдки то мнє це но́сит село́, хто́ то їго хрести́в, може який пíп хрести́в їго.
+# german_text = Darauf begann der Großvater vom Dorfe zu erzählen, denn ich hatte ihn so oft gefragt: woher stammt der Name dieses Dorfes, wer hat es getauft, vielleicht hat ihn ein Pfarrer getauft.
+# english_text = Then the grandfather began to tell me about the village, because I had asked him so often: where did the name of this village come from, who baptized it, perhaps a priest baptized it.
+1	Тай	тай	CCONJ	_	_	2	discourse	_	wf="Тай"|tf="täj"
+2	зачє́в	зачати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="зачєв"|tf="zɑʈ͡ʂʲë̝w"
+3	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	wf="мені"|tf="më̝nʲˈi"
+4	тогди́	тогди	ADV	_	PronType=Dem	6	advmod	_	wf="тогди"|tf="to̝ɦdˈɪ̈"
+5	дíд	дід	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	wf="дід"|tf="ɟˈid"
+6	оповіда́ти	оповідати	VERB	_	Aspect=Imp|VerbForm=Inf	2	xcomp	_	wf="оповідати"|tf="wpovidˈɑtɪ̈"
+7	за	за	ADP	_	_	8	case	_	wf="за"|tf="zɑ"
+8	село́	село	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	iobj	_	wf="село"|tf="selˈo"
+9	,	,	PUNCT	_	_	13	punct	_	wf=","|tf="//"
+10	бо	бо	SCONJ	_	_	13	mark	_	wf="бо"|tf="bo"
+11	я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	wf="я"|tf="jˈɑ"
+12	їго	він	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	wf="їго"|tf="jɦo"
+13	пита́в	питати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	ccomp	_	wf="питав"|tf="pɪ̈tˈɒ̝w"
+14	(	(	PUNCT	_	_	15	punct	_	wf="("
+15	дав	дав	X	_	Fragment=Yes	18	appos	_	wf="дав"|tf="dɒ̝w"
+16	...	...	PUNCT	_	_	15	punct	_	wf="..."|tf="//"
+17	)	)	PUNCT	_	_	15	punct	_	wf=")"
+18	бага́то	багато	DET	_	Case=Acc|NumType=Card|PronType=Ind	13	obl	_	wf="багато"|tf="bɑɦˈɑto"
+19	разíв	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	wf="разів"|tf="rɑzʲˈiw"
+20	,	,	PUNCT	_	_	23	punct	_	wf=","|tf="//"
+21	вíдки	відки	ADV	_	_	23	advmod	_	wf="відки"|tf="vˈitkʲˈɪ̞̈"
+22	то	то	PART	_	_	21	discourse	_	wf="то"|tf="to"
+23	мнє	мнє	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obj	_	wf="мнє"|tf="mnʲe"
+24	це	це	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	23	det	_	wf="це"|tf="t͡se"
+25	но́сит	носити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	wf="носит"|tf="nˈosɪ̈t"
+26	село́	село	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	wf="село"|tf="selˈo"
+27	,	,	PUNCT	_	_	31	punct	_	wf=","
+28	хто́	хто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	31	nsubj	_	wf="хто"|tf="xtˈo"
+29	то	то	PART	_	_	28	discourse	_	wf="то"|tf="to"
+30	їго	воно	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	obj	_	wf="їго"|tf="jɦo"
+31	хрести́в	хрестити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	13	ccomp	_	wf="хрестив"|tf="xrestˈɪ̈w"
+32	,	,	PUNCT	_	_	36	punct	_	wf=","|tf="//"
+33	може	могти	PART	_	_	36	discourse	_	wf="може"|tf="moʐë̝"
+34	який	який	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	35	det	_	wf="який"|tf="jkʲɪ̞̈j"
+35	пíп	піп	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	wf="піп"|tf="pˈip"
+36	хрести́в	хрестити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	31	conj	_	wf="хрестив"|tf="xrestˈɪ̈w"
+37	їго	воно	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	36	obj	_	wf="їго"|tf="jɦo"
+38	.	.	PUNCT	_	_	2	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.23
+# IPA_transcription = toɦdˈɪ̈ ɟˈit◡kɑzˈɑw ʂo nʲe◡pˈip xrë̝stˈɪ̈w ˈɑle to // nɑzɪ̈vˈɑjesɪ̈ vo̝wʈ͡ʂʲˈɪ̈në̝t͡s vid◡vo̝wkˈiw //
+# standard_text = Тогди́ дíд каза́в, шо не пíп хрести́в, а́ле то назива́єси Вовчи́нец від вовкíв.
+# variation_text = Тогди́ дíд каза́в, шо не пíп хрести́в, а́ле то назива́єси Вовчи́нец від вовкíв.
+# german_text = Da sagte mir der Großvater, nicht der Pfarrer habe es getauft, es heiße Vovčynec, es kommt von den Wölfen her.
+# english_text = Then my grandfather told me that it wasn't the priest who baptized it, that it was called Vovčynec, and that it comes from the wolves.
+1	Тогди́	тогди	ADV	_	PronType=Dem	3	advmod	_	wf="Тогди"|tf="toɦdˈɪ̈"
+2	дíд	дід	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="дід"|tf="ɟˈit"
+3	каза́в	казати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="казав"|tf="kɑzˈɑw"
+4	,	,	PUNCT	_	_	8	punct	_	wf=","
+5	шо	шо	SCONJ	_	_	8	mark	_	wf="шо"|tf="ʂo"
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	wf="не"|tf="nʲe"
+7	пíп	піп	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nestled	_	wf="піп"|tf="pˈip"
+8	хрести́в	хрестити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	ccomp	_	wf="хрестив"|tf="xrë̝stˈɪ̈w"
+9	,	,	PUNCT	_	_	13	punct	_	wf=","
+10	а́ле	але	CCONJ	_	_	12	cc	_	wf="але"|tf="ˈɑle"
+11	то	то	PART	_	_	10	discourse	_	wf="то"|tf="to"
+12	назива́єси	називати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	wf="називаєси"|tf="nɑzɪ̈vˈɑjesɪ̈"
+13	Вовчи́нец	Вовчинец	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing	12	nsubj	_	wf="Вовчинец"|tf="vo̝wʈ͡ʂʲˈɪ̈në̝t͡s"
+14	від	від	ADP	_	_	15	case	_	wf="від"|tf="vid"
+15	вовкíв	вовк	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	wf="вовків"|tf="vo̝wkˈiw"
+16	.	.	PUNCT	_	_	8	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.24
+# IPA_transcription = to̝◡dɑwnˈo bˈulɪ̈ velˈɪ̞̈kʲˈi ḻʲisˈɪ̞̈ tut // tɑj // jˈilɪ̞̈ vˈiwt͡sʲi vowkʲˈɪ̈ tɑg◡ɟɑḻʲˈi tɑ◡toɦdˈɪ̈ prɪ̈jʂlˈɪ̈ // bɑɦˈɑto ḻʲudˈɪ̈j tɑ◡pobˈɪ̈lɪ̈ tɪ̈x wsʲix vo̝wkˈiw //
+# standard_text = То давно́ бу́ли вели́кі ліси́ тут тай ї́ли вíвці вовки́, так да́ли, та тогди́ прийшли́ бага́то люди́й та поби́ли тих всіх вовкíв.
+# variation_text = То давно́ бу́ли вели́кі ліси́ тут тай ї́ли вíвці вовки́, так да́ли, та тогди́ прийшли́ бага́то люди́й та поби́ли тих всіх вовкíв.
+# german_text = Früher gab es hier große Wälder, die Wölfe fraßen die Schafe weg und so weiter, da versammelten sich viele Menschen und töteten diese Wölfe.
+# english_text = There used to be large forests here, the wolves ate the sheep and so on, so many people gathered and killed these wolves.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	wf="То"|tf="to"
+2	давно́	давно	ADV	_	Degree=Pos	3	advmod	_	wf="давно"|tf="dɑwnˈo"
+3	бу́ли	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	cop	_	wf="були"|tf="bˈulɪ̈"
+4	вели́кі	великий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	wf="великі"|tf="velˈɪ̞̈kʲˈi"
+5	ліси́	ліс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	wf="ліси"|tf="ḻʲisˈɪ̞̈"
+6	тут	тут	ADV	_	PronType=Dem	3	advmod	_	wf="тут"|tf="tut"
+7	тай	тай	CCONJ	_	_	8	cc	_	wf="тай"|tf="tɑj"
+8	ї́ли	їти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	conj	_	wf="їли"|tf="jˈilɪ̞̈"
+9	вíвці	вівця	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	wf="вівці"|tf="vˈiwt͡sʲi"
+10	вовки́	вовк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	wf="вовки́"|tf="vowkʲˈɪ̈"
+11	,	,	PUNCT	_	_	13	punct	_	wf=","
+12	так	так	ADV	_	PronType=Dem	13	advmod	_	wf="так"|tf="tɑg"
+13	да́ли	дати	ADV	_	_	5	orphan	_	wf="дали"|tf="ɟɑḻʲˈi"
+14	,	,	PUNCT	_	_	13	punct	_	wf=","
+15	та	та	CCONJ	_	_	17	cc	_	wf="та"|tf="tɑ"
+16	тогди́	тогди	ADV	_	PronType=Dem	17	advmod	_	wf="тогди"|tf="toɦdˈɪ̈"
+17	прийшли́	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	conj	_	wf="прийшли"|tf="prɪ̈jʂlˈɪ̈"
+18	бага́то	багато	DET	_	Case=Nom|NumType=Card|PronType=Ind	17	nsubj	_	wf="багато"|tf="bɑɦˈɑto"
+19	люди́й	людий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	wf="людий"|tf="ḻʲudˈɪ̈j"
+20	та	та	CCONJ	_	_	21	cc	_	wf="та"|tf="tɑ"
+21	поби́ли	побити	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	17	conj	_	wf="побили"|tf="◡pobˈɪ̈lɪ̈ "
+22	всіх	весь	DET	_	Animacy=Anim|Case=Acc|Number=Plur|PronType=Tot	23	det	_	wf="всіх"|tf="wsʲix"
+23	вовкíв	вовк	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	21	obj	_	wf="вовків"|tf="vo̝wkˈiw"
+24	.	.	PUNCT	_	_	5	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.25
+# IPA_transcription = ji wnɪ̈ tɑm zɑsʲˈilɪ̈sɪ̈ nɑ◡t͡sʲˈim mˈist͡sɪ̈ // tɑ◡zrobˈɪ̈lɪ̈ së̝lˈo // ji wnɪ̈ nɑzɪ̈vˈɑlɪ̈ t͡se së̝lˈo vo̝wʈ͡ʂʲˈɪ̈nt͡sɑmɪ̈ //
+# standard_text = І они́ там засíлиси на цíм мíсци та зроби́ли село́ і они́ назива́ли це село́ Вовчи́нцями.
+# variation_text = І они́ там засíлиси на цíм мíсци та зроби́ли село́ і они́ назива́ли це село́ Вовчи́нцями.
+# german_text = Und sie (die Leute) haben sich an diesem Ort angesiedelt, hier ein Dorf gegründet und es Vovčynci genannt.
+# english_text = And they (the people) settled in this place, founded a village here and called it Vovčynci.
+1	І	і	CCONJ	_	_	4	cc	_	wf="І"|tf="ji"
+2	они́	они	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	wf="они"|tf="wnɪ̈"
+3	там	там	ADV	_	PronType=Dem	4	advmod	_	wf="там"|tf="to"
+4	засíлиси	засілити	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	wf="засілиси"|tf="zɑsʲˈilɪ̈sɪ̈ "
+5	на	на	ADP	_	_	7	case	_	wf="на"|tf="nɑ"
+6	цíм	цей	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	wf="цім"|tf="t͡sʲˈim"
+7	мíсци	місце	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	wf="місци"|tf="mˈist͡sɪ̈"
+8	та 	та 	CCONJ	_	_	9	cc	_	wf="та "|tf="tɑ"
+9	зроби́ли	зробити	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	4	conj	_	wf="зробили"|tf="zrobˈɪ̈lɪ̈"
+10	село́	село	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	wf="село"|tf="së̝lˈo"
+11	і	і	CCONJ	_	_	13	cc	_	wf="і"|tf="ji"
+12	они́	они	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	wf="они"|tf="wnɪ̈"
+13	назива́ли	називати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	4	conj	_	wf="називали"|tf="nɑzɪ̈vˈɑlɪ̈"
+14	це	цей	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	wf="це"|tf="t͡se"
+15	село́	село	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	wf="село"|tf="së̝lˈo"
+16	Вовчи́нцями	Вовчинец	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	iobj	_	wf="Вовчинцями"|tf="vo̝wʈ͡ʂʲˈɪ̈nt͡sɑmɪ̈"
+17	.	.	PUNCT	_	_	4	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.26
+# IPA_transcription = tow fˈɑjnë̝ dˈuʐë̝ së̝lˈo bo̝ wno sɪ̈dˈɪ̞̈t tˌɑk◡mˈeʐɪ̈ ɦorbˈɑmɪ̈ // tɑk◡jɑk u wo̝dnʲˈij // rˈɪ̈nʲt͡sʲi to◡fˈɑjno totˈo tɑkʲ◡jˈe //
+# standard_text = То фа́йне ду́же село́, бо оно́ сиди́т так мéжи горба́ми, так як у однíй ри́нці, то фа́йно тото́ так є́.
+# variation_text = То фа́йне ду́же село́, бо оно́ сиди́т так мéжи горба́ми, так як у однíй ри́нці, то фа́йно тото́ так є́.
+# german_text = Dieses Dorf ist sehr schön, es liegt zwischen den Hügeln, wie in einem Tiegel, es sieht sehr schön aus.
+# english_text = This village is very beautiful; it lies nestled among the hills, like in a bowl; it looks very beautiful.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	wf="То"|tf="tow"
+2	фа́йне	файний	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	wf="файне"|tf="fˈɑjnë̝"
+3	ду́же	дуже	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	wf="дуже"|tf="dˈuʐë̝"
+4	село́	село	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	wf="село"|tf="së̝lˈo"
+5	,	,	PUNCT	_	_	8	punct	_	wf=","
+6	бо	бо	SCONJ	_	_	8	mark	_	wf="бо"|tf="bo̝"
+7	оно́	оно	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	wf="оно"|tf="wno"
+8	сиди́т	сидіти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	wf="сидит"|tf="sɪ̈dˈɪ̞̈t"
+9	так	так	ADV	_	PronType=Dem	8	advmod	_	wf="так"|tf="tˌɑk"
+10	мéжи	межи	ADP	_	_	11	case	_	wf="межи"|tf="mˈeʐɪ̈"
+11	горба́ми	горб	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	8	obl	_	wf="горбами|tf="ɦorbˈɑmɪ̈"
+12	,	,	PUNCT	_	_	17	punct	_	wf=","|tf="//"
+13	так	так	ADV	_	PronType=Dem	8	advmod	_	wf="так"|tf="tɑk"
+14	як	як	ADV	_	PronType=Rel	17	mark	_	wf="як"|tf="jɑk"
+15	у	у	ADP	_	_	17	case	_	wf="у"|tf="u"
+16	однíй	один	NUM	_	Case=Loc|Gender=Fem|Number=Sing|NumType=Card	17	nummod	_	wf="одній"|tf="wo̝dnʲˈij"
+17	ри́нці	ринка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	advcl	_	wf="ринці"|tf="rˈɪ̈nʲt͡sʲi"
+18	,	,	PUNCT	_	_	17	punct	_	wf=","
+19	то	то	PART	_	PartType=Conseq	23	discourse	_	wf="то"|tf="to"
+20	фа́йно	файно	ADV	_	Degree=Pos	21	advmod	_	wf="файно"|tf="fˈɑjno"
+21	тото́	тото	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|PronType=Prs	23	nsubj	_	wf="тото"|tf="totˈo"
+22	так	так	ADV	_	PronType=Dem	23	advmod	_	wf="так"|tf="ɑkʲ"
+23	є́	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	wf="є"|tf="jˈe"
+24	.	.	PUNCT	_	_	23	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.27
+# IPA_transcription = tɑm◡pˈotixʲ◡je nɑw // nɑsˌerë̝t◡së̝lˈɑ t͡sˈerkvɑ sˌerë̝t◡së̝lˈɑ fˈɑjnɑ sɪ̈dˈɪ̞̈t // toto̝ wsʲˈi ḻʲˈudɪ̈ sxˈoɟesɪ̈ do◡t͡sˈerkvɪ̈ //
+# standard_text = Там потíк є (нав...) насéред села́, цéрква сéред села́ фа́йно сиди́т, то ту всí лю́ди схо́дєтси до цéркви.
+# variation_text = Там потíк є (нав...) насéред села́, цéрква сéред села́ фа́йно сиди́т, то ту всí лю́ди схо́дєтси до цéркви.
+# german_text = Mitten im Dorf fließt ein Bach, eine Kirche steht hübsch inmitten des Dorfes, hier kommen alle Menschen in die Kirche.
+# english_text = A stream flows through the middle of the village, a church stands pretty in the middle of the village, and everyone comes to church here.
+1	Там	там	ADV	_	PronType=Dem	3	advmod	_	wf="Там"|tf="tɑm"
+2	потíк	потік	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	wf="потік"|tf="pˈotixʲ"
+3	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	wf="є"|tf="je"
+4	(	(	PUNCT	_	_	5	punct	_	wf="("
+5	нав	нав	X	_	Fragment=Yes	8	appos	_	wf="нав"|tf="nɑw"
+6	...	...	PUNCT	_	_	5	punct	_	wf="..."|tf="//"
+7	)	)	PUNCT	_	_	5	punct	_	wf=")"
+8	насéред	насеред	ADP	_	_	9	advmod	_	wf="насеред"|tf="nɑsˌerë̝t"
+9	села́	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	wf="села"|tf="së̝lˈɑ"
+10	,	,	PUNCT	_	_	11	punct	_	wf=","
+11	цéрква	церква	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	wf="церква"|tf="t͡sˈerkvɑ"
+12	сéред	серед	ADP	_	_	13	case	_	wf="серед"|tf="sˌerë̝t"
+13	села́	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	wf="села"|tf="së̝lˈɑ"
+14	фа́йно	файно	ADV	_	Degree=Pos	15	advmod	_	wf="файно"|tf="fˈɑjno"
+15	сиди́т	сидіти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	wf="сидит"|tf="sɪ̈dˈɪ̞̈t"
+16	,	,	PUNCT	_	_	21	punct	_	wf=","|tf="//"
+17	то	то	PART	_	PartType=Conseq	21	discourse	_	wf="то"|tf="to"
+18	ту 	той	ADV	_	PronType=Dem	21	advmod	_	wf="ту"|tf="to̝"
+19	всí	весь	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	20	det	_	wf="всі"|tf="wsʲˈi"
+20	лю́ди	людина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	21	nsubj	_	wf="люди"|tf="ḻʲˈudɪ̈"
+21	схо́дєтси	сходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	wf="сходєтси"|tf="sxˈoɟesɪ̈"
+22	до	до	ADP	_	_	23	case	_	wf="до"|tf="do"
+23	цéркви	церква	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	wf="церкви"|tf="t͡sˈerkvɪ̈"
+24	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.28
+# IPA_transcription = ʔɑ◡vˌin◡më̝nʲˈi wpovidˈɑw bɑɦˈɑto jɑk totˈo dɑwnˈo // prɪ̈xodˈɪ̞̈lɪ̈ vˈitːɪ̞̈ // ʂʲɪ̞̈ z◡gɑḻʲˈicji ḻʲˈudɪ̈ //
+# standard_text = А він менí оповіда́в бага́то, як тото́ давно́ приходи́ли вíдти ше з Ґалíції лю́ди.
+# variation_text = А він менí оповіда́в бага́то, як тото́ давно́ приходи́ли вíдти ше з Ґалíції лю́ди.
+# german_text = Er erzählte mir viel noch darüber, wie früher viele Menschen aus Galizien kamen.
+# english_text = He told me a lot more about how many people used to come from Galicia.
+1	А	а	CCONJ	_	_	4	cc	_	wf="А"|tf="ʔɑ"
+2	він	він	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wf="він"|tf="vˌin"
+3	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	wf="мені"|tf="më̝nʲˈi"
+4	оповіда́в	оповідати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="оповідав"|tf="wpovidˈɑw"
+5	бага́то	багато	ADV	_	Degree=Pos	4	advmod	_	wf="багато"|tf="bɑɦˈɑto"
+6	,	,	PUNCT	_	_	10	punct	_	wf=","
+7	як	як	SCONJ	_	_	10	mark	_	wf="як"|tf="jɑk"
+8	тото́	тото	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	discourse	_	wf="тото"|tf="totˈo"
+9	давно́	давно	ADV	_	Degree=Pos	10	advmod	_	wf="давно"|tf="dɑwnˈo"
+10	приходи́ли	приходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	advcl	_	wf="приходили"|tf="prɪ̈xodˈɪ̞̈lɪ̈"
+11	вíдти	відти	ADV	_	PronType=Dem	10	advmod	_	wf="відти"|tf="vˈitːɪ̞̈"
+12	ше	ше	ADV	_	_	14	advmod	_	wf="ше"|tf="ʂʲɪ̞̈"
+13	з	з	ADP	_	_	14	case	_	wf="з"|tf="z"
+14	Ґалíції	Ґаліція	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	10	obl	_	wf="Ґаліції"|tf="gɑḻʲˈicji"
+15	лю́ди	людина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	wf="люди"|tf="ḻʲˈudɪ̈"
+16	.	.	PUNCT	_	_	4	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.29
+# IPA_transcription = to◡odˈen prɪ̈jʂoˈw kupɑʈ͡ʂʲˈuk stɑrˈɪ̈j // ʂo vin pˈerʂɪ̈j◡rɑz zɑnʲˈis w◡nˈɑʂë̝ së̝lˈo prˈoso sʲˈijäw //
+# standard_text = То одéн прийшо́в Купачу́к стари́й, шо він пéрший раз занíс у на́ше село́ про́со сíяв.
+# variation_text = То одéн прийшо́в Купачу́к стари́й, шо він пéрший раз занíс у на́ше село́ про́со сíяв.
+# german_text = Da kam ein alter Kopačuk, der als erster in unser Dorf die Hirse eingeführt und gesät hat.
+# english_text = Then an old Kopačuk came who was the first to introduce and sow millet in our village.
+1	То	то	PART	_	_	3	discourse	_	wf="То"|tf="to"
+2	одéн	оден	DET	_	Case=Loc|Gender=Fem|Number=Sing|NumType=Card	3	nsubj	_	wf="оден"|tf="odˈen"
+3	прийшо́в	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="прийшов"|tf="prɪ̈jʂoˈw"
+4	Купачу́к	Купачук	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	2	appos	_	wf="Купачук"|tf="kupɑʈ͡ʂʲˈuk"
+5	стари́й	старий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	wf="старий"|tf="stɑrˈɪ̈j"
+6	,	,	PUNCT	_	_	11	punct	_	wf=","|tf="//"
+7	шо	шо	SCONJ	_	_	11	cc	_	wf="шо"|tf="ʂo"
+8	він	він	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	wf="він"|tf="vin"
+9	пéрший	перший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	wf="перший|tf="pˈerʂɪ̈j"
+10	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	wf="раз"|tf="rɑz"
+11	занíс	занести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	conj	_	wf="заніс"|tf="zɑnʲˈis"
+12	у	у	ADP	_	_	14	case	_	wf="у"|tf="w"
+13	на́ше	наш	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	wf="наше"|tf="nˈɑʂë̝"
+14	село́	село	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	wf="село"|tf="së̝lˈo"
+15	про́со	просо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	wf="просо"|tf="prˈoso"
+16	сíяв	сіяти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	conj	_	wf="сіяв|tf="sʲˈijäw"
+17	.	.	PUNCT	_	_	3	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.30
+# IPA_transcription = bo̝◡tˌo̝◡w◡nɑs në̝◡sʲˈijalosɪ̈ prˈoso to w // // z◡moldˈowɪ̈ prɪ̈nosˈɪ̈lɪ̈ ḻʲˈudɪ̈ wse // kukurˈud͡zɪ̈ tɑj◡sʲˈijalɪ̈ ɑ◡vˈin prɪ̈nʲˈis prˈoso vˈitːɪ̈ //
+# standard_text = Бо то́ в нас не сíялоси про́со, то (у...) з Молдо́ви приноси́ли лю́ди все кукуру́дзи тай сíяли, а вíн принíс про́со вíдти.
+# variation_text = Бо то́ в нас не сíялоси про́со, то (у...) з Молдо́ви приноси́ли лю́ди все кукуру́дзи тай сíяли, а вíн принíс про́со вíдти.
+# german_text = Denn bei uns hat man die Hirse nicht gesät, man brachte sie aus Moldau, die Leute bauten Mais, und er brachte von dort die Hirse.
+# english_text = Because millet wasn't sown here; it was brought from Moldavia. People there grew maize, and he brought the millet from there.
+1	Бо	бо	SCONJ	_	_	6	mark	_	wf="Бо"|tf="bo"
+2	то́	то	SCONJ	_	_	1	fixed	_	wf="то"|tf="tˌo̝"
+3	в	в	ADP	_	_	4	case	_	wf="в"|tf="w"
+4	нас	ми	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	6	obl	_	wf="нас"|tf="nɑs"
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	wf="не"|tf="në̝"
+6	сíялоси	сіятиси	NOUN	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	_	wf="сіялоси"|tf="sʲˈijalosɪ̈"
+7	про́со	просо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	wf="просо"|tf="prˈoso"
+8	,	,	PUNCT	_	_	16	punct	_	wf=","
+9	то	то	PART	_	PartType=Conseq	16	discourse	_	wf="то"|tf="to"
+10	(	(	PUNCT	_	_	11	punct	_	wf="("
+11	у	у	ADP	_	_	14	appos	_	wf="у"|tf="w"
+12	...	...	PUNCT	_	_	11	punct	_	wf="..."|tf="//"
+13	)	)	PUNCT	_	_	11	punct	_	wf=")"
+14	з	з	ADP	_	_	15	case	_	wf="з"|tf="z"
+15	Молдо́ви	Молдова	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	16	obl	_	wf="Молдови"|tf="moldˈowɪ̈"
+16	приноси́ли	приносити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	conj	_	wf="приносили"|tf="prɪ̈nosˈɪ̈lɪ̈"
+17	лю́ди	людина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	16	nsubj	_	wf="люди"|tf="ḻʲˈudɪ̈"
+18	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	17	det	_	wf="все"|tf="wse"
+19	кукуру́дзи	кукурудза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obj	_	wf="кукурудзи"|tf="kukurˈud͡zɪ̈"
+20	тай	тай	CCONJ	_	_	21	cc	_	wf="тай"|tf="tɑj"
+21	сíяли	сіяти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	16	conj	_	wf="сіяли"|tf="sʲˈijalɪ̈"
+22	,	,	PUNCT	_	_	25	punct	_	wf=","
+23	а	а	CCONJ	_	_	25	cc	_	wf="а"|tf="ɑ"
+24	вíн	він	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	wf="він"|tf="vˈin"
+25	принíс	принести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	conj	_	wf="приніс"|tf="prɪ̈nʲˈis"
+26	про́со	просо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obj	_	wf="просо"|tf="prˈoso"
+27	вíдти	відти	ADV	_	PronType=Dem	25	advmod	_	wf="відти"|tf="vˈitːɪ̈"
+28	.	.	PUNCT	_	_	6	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.31
+# IPA_transcription = tɑ◡tˈɑk◡më̝nʲˈi wpovidˈɑw // i◡tˈɑk xoʂ // xocˈiw vin mnʲi ʂʲˈi koḻʲiduvˈɑtɪ̈ //
+# standard_text = Та та́к менí оповіда́в і так (хош...) хотíв він менí ше колідува́ти.
+# variation_text = Та та́к менí оповіда́в і так (хош...) хотíв він менí ше колідува́ти.
+# german_text = So hat er mir erzählt; er wollte mir aber noch Weihnachtslieder vorsingen.
+# english_text = That's what he told me; but he wanted to sing more Christmas carols to me.
+1	Та	та	CCONJ	_	_	4	cc	_	wf="Та"|tf="tɑ"
+2	та́к	так	ADV	_	PronType=Dem	4	advmod	_	wf="так"|tf="tˈɑk"
+3	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	wf="мені"|tf="më̝nʲˈi"
+4	оповіда́в	оповідати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="оповідав"|tf="wpovidˈɑw"
+5	і	і	CCONJ	_	_	11	cc	_	wf="і"|tf="i"
+6	так	то	ADV	_	PronType=Dem	11	advmod	_	wf="то"|tf="tˈɑk"
+7	(	(	PUNCT	_	_	8	punct	_	wf="("
+8	хош	хош	X	_	Fragment=Yes	11	appos	_	wf="хош"|tf="xoʂ"
+9	...	...	PUNCT	_	_	8	punct	_	wf="..."|tf="//"
+10	)	)	PUNCT	_	_	8	punct	_	wf=")"
+11	хотíв	хотіти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	conj	_	wf="хотів"|tf="xocˈiw"
+12	він	він	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	wf="він"|tf="vin"
+13	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	15	iobj	_	wf="мені"|tf="mnʲi"
+14	ше	ше	ADV	_	_	15	advmod	_	wf="ше"|tf="ʂʲˈi"
+15	колідува́ти	колідувати	VERB	_	Aspect=Imp|VerbForm=Inf	11	xcomp	_	wf="колідувати"|tf="koḻʲiduvˈɑtɪ̈"
+16	.	.	PUNCT	_	_	11	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.32
+# IPA_transcription = ɑ◡jˈɑ◡jɦo dˈuʐë̝ prosˈɪ̈w ʂobˈɪ̈ vin zɑkoḻʲiduvˈɑw më̝nʲˈi odnˈojɪ stɑrosvˈit͡skoji //
+# standard_text = А я́ їго ду́же проси́в, шоби́ він заколідува́в менí одно́ї старосвíцкої.
+# variation_text = А я́ їго ду́же проси́в, шоби́ він заколідува́в менí одно́ї старосвíцкої.
+# german_text = Ich bat ihn sehr darum, mir irgendein altes Weihnachtslied vorzusingen.
+# english_text = I begged him to sing me some old Christmas carol.
+1	А	а	CCONJ	_	_	5	cc	_	wf="А"|tf="ɑ"
+2	я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	wf="я"|tf="jˈɑ"
+3	їго	воно	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	wf="їго"|tf="jɦo"
+4	ду́же	дуже	ADV	_	Degree=Pos	5	advmod	_	wf="дуже"|tf="dˈuʐë̝"
+5	проси́в	просити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	wf="просив"|tf="prosˈɪ̈w"
+6	,	,	PUNCT	_	_	9	punct	_	wf=","
+7	шоби́	шоби	SCONJ	_	_	9	mark	_	wf="шоби"|tf="ʂobˈɪ̈"
+8	він	він	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	wf="він"|tf="vin"
+9	заколідува́в	заколідувати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	ccomp	_	wf="заколідував"|tf="zɑkoḻʲiduvˈɑw"
+10	менí	я	PRON	_	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	wf="мені"|tf="më̝nʲˈi"
+11	одно́ї	один	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	12	det:nummod	_	wf="одної"|tf="odnˈojɪ"
+12	старосвíцкої	старосвіцкий	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	wf="старосвіцкої"|tf="stɑrosvˈit͡skoji"
+13	.	.	PUNCT	_	_	5	punct	_	wf="."|tf="//"
+
+# sent_id = LA1491.1.33
+# IPA_transcription = tä◡jˈɑ◡vɑm zɑkoḻʲidˈuju jɑk◡sxoʈ͡ʂʲë̝të̝ vɪ̞̈ poslˈuxɑtɪ̞̈ //
+# standard_text = Та я́ вам заколіду́ю, як схо́чете ви послу́хати.
+# variation_text = Та я́ вам заколіду́ю, як схо́чете ви послу́хати.
+# german_text = Ich werde es Ihnen vorsingen, wenn SIe es hören wollen.
+# english_text = I will sing it to you if you want to hear it.
+1	Та	та	CCONJ	_	_	4	discourse	_	wf="Та"|tf="tä"
+2	я́	я	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	wf="я"|tf="jˈɑ"
+3	вам	ви	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs	4	iobj	_	wf="вам"|tf="vɑm"
+4	заколіду́ю	заколідувати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	wf="заколідую"|tf="zɑkoḻʲidˈuju"
+5	,	,	PUNCT	_	_	7	punct	_	wf=","
+6	як	як	SCONJ	_	_	7	mark	_	wf="як"|tf="jɑk"
+7	схо́чете	схотіти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	4	advcl	_	wf="схочете"|tf="sxoʈ͡ʂʲë̝të̝"
+8	ви	ви	PRON	_	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	wf="ви"|tf="vɪ̞̈"
+9	послу́хати	послухати	VERB	_	Aspect=Perf|VerbForm=Inf	7	xcomp	_	wf="послухати"|tf="poslˈuxɑtɪ̞̈"
+10	.	.	PUNCT	_	_	4	punct	_	wf="."|tf="//"
+
