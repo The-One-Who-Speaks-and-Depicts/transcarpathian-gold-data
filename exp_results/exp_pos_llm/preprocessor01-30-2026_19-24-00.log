@@ -1,0 +1,1594 @@
+2026-01-30 19:24:00 DEBUG: Configuration loaded: {'exp_dir': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results', 'exp_name': 'exp_pos_llm', 'phase': 'pred', 'stage': 'pos', 'model': 'llm', 'llm_settings': {'name': 'gemma', 'seed': 1590, 'temperature': 0.0, 'max_tokens': 4096, 'prompt': {'system_characteristics': 'You are an expert annotator with the knowledge of all the Slavic languages and especially Ukrainian (you had more experience with the western variant than with the central and the eastern). Your task is to perform\n', 'task': {'pos': 'part-of-speech tagging and morphological tagging\n', 'lemmatisation': 'part-of-speech tagging, morphological tagging and lemmatisation        \n', 'dependency': 'morphosyntactic tagging (part-of-speech tagging and morphological tagging, lemmatisation, dependency parsing)\n'}, 'general_info': 'of Lemko (a dialect in the Transcarpathian area of Slovakia, which shares a lot of features with modern standard Ukrainian). Your input is a pre-tokenised sentence Your output is the same sentence, but with morphosyntactic tags, in dictionary format, compatible with Stanza data model. Please, output only the tagged sentence, do not provide any additional comments.  \n', 'gold_data_info': 'During the reasoning phase, if your task is lemmatisation, and the input contains part-of-speech tagging and morphological tagging, use it as hint to lemmatise better. If the input does not contain part-of-speech tagging and morphological tagging, perform part-of-speech and morphological tagging first, and afterwards and use its results to better perform lemmatisation. When you perform dependency parsing, check, whether the input contains part-of-speech tagging and morphological tagging and lemmatisation. If the input contains part-of-speech tagging and morphological tagging and lemmatisation, use it as a hint to perform better dependency parsing. If the input does not contain part-of-speech tagging and morphological tagging, perform part-of-speech and morphological tagging first, and afterwards and use its results to better perform lemmatisation and dependency parsing.\n', 'example_input': 'Example input:\n  Рішення не прийнято .   \n', 'example_output': 'Example output:\n  {\n    "id": "1",\n    "upos": "NOUN,\n    "feats": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",\n  },\n  {\n    "id": "2",\n    "upos": "PART",\n    "feats": "Polarity=Neg",\n  },\n  {\n    "id": "3",\n    "upos": "VERB",\n    "feats": "Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin",\n  },\n  {\n    "id": "4",\n    "upos": "PUNCT",\n    "feats": "_",\n  },\n', 'query': 'Tag the following sentence:\n'}}, 'tagging_settings': {'input_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/depparse_gold_LA1407.conllu', 'pretagged': True}, 'evaluation_settings': {'pred_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/exp_results/exp_depparse_merged_no_tagging/depparse_silver_stanza_LA1407_merged.conllu', 'gold_file': '/home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/depparse_gold_LA1407.conllu', 'train_result': 88.6, 'train_ufeats': 85.87}}
+2026-01-30 19:24:00 DEBUG: /home/ilia/coding/Research/PhD/transcarpathian-gold-data/gold/depparse_gold_LA1407.conllu loaded
+2026-01-30 19:24:01 INFO: LLM client initialised
+2026-01-30 19:24:01 INFO: Prompt: {'system': 'You are an expert annotator with the knowledge of all the Slavic languages and especially Ukrainian (you had more experience with the western variant than with the central and the eastern). Your task is to perform\npart-of-speech tagging and morphological tagging\nof Lemko (a dialect in the Transcarpathian area of Slovakia, which shares a lot of features with modern standard Ukrainian). Your input is a pre-tokenised sentence Your output is the same sentence, but with morphosyntactic tags, in dictionary format, compatible with Stanza data model. Please, output only the tagged sentence, do not provide any additional comments.  \nDuring the reasoning phase, if your task is lemmatisation, and the input contains part-of-speech tagging and morphological tagging, use it as hint to lemmatise better. If the input does not contain part-of-speech tagging and morphological tagging, perform part-of-speech and morphological tagging first, and afterwards and use its results to better perform lemmatisation. When you perform dependency parsing, check, whether the input contains part-of-speech tagging and morphological tagging and lemmatisation. If the input contains part-of-speech tagging and morphological tagging and lemmatisation, use it as a hint to perform better dependency parsing. If the input does not contain part-of-speech tagging and morphological tagging, perform part-of-speech and morphological tagging first, and afterwards and use its results to better perform lemmatisation and dependency parsing.\nExample input:\n  Рішення не прийнято .   \nExample output:\n  {\n    "id": "1",\n    "upos": "NOUN,\n    "feats": "Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing",\n  },\n  {\n    "id": "2",\n    "upos": "PART",\n    "feats": "Polarity=Neg",\n  },\n  {\n    "id": "3",\n    "upos": "VERB",\n    "feats": "Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin",\n  },\n  {\n    "id": "4",\n    "upos": "PUNCT",\n    "feats": "_",\n  },\n', 'query': 'Tag the following sentence:\n'}
+2026-01-30 19:24:22 INFO: ```json
+{
+    "id": "1",
+    "upos": "NOUN",
+    "feats": "Case=Loc|Number=Sing",
+    "lemma": "камюньска"
+  },
+  {
+    "id": "2",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing",
+    "lemma": "бесіда"
+  },
+  {
+    "id": "3",
+    "upos": "ADP",
+    "feats": "_",
+    "lemma": "коло"
+  },
+  {
+    "id": "4",
+    "upos": "NOUN",
+    "feats": "Case=Loc|Number=Sing",
+    "lemma": "Попрада"
+  },
+  {
+    "id": "5",
+    "upos": "ADP",
+    "feats": "_",
+    "lemma": "на"
+  },
+  {
+    "id": "6",
+    "upos": "NOUN",
+    "feats": "Case=Ins|Number=Sing",
+    "lemma": "Спішу"
+  },
+  {
+    "id": "7",
+    "upos": "PUNCT",
+    "feats": "_",
+    "lemma": "."
+  }
+```
+2026-01-30 19:26:05 INFO: ```json
+[
+  {
+    "id": "1",
+    "upos": "PRON",
+    "feats": "Number=Plur|Animacy=Inan|Case=Nom|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "2",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=2|Number=Plur|Tense=Pres|VerbForm=Inf"
+  },
+  {
+    "id": "3",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "4",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "5",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Acc|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "6",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "7",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Sing|Tense=Pres|VerbForm=Inf"
+  },
+  {
+    "id": "8",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "9",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "10",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "11",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "12",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "13",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "14",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "15",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "16",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "17",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "18",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "19",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "20",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "21",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "22",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "23",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "24",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "25",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "26",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "27",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Animacy=Inan|Case=Gen|Gender=Masculine|Evidentivity=Evid"
+  },
+  {
+    "id": "28",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+]
+```
+2026-01-30 19:26:31 INFO: {
+"id": "1",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "2",
+"upos": "DET",
+"feats": "Number=Plur|Gender=Neut|Case=Nom"},
+{
+"id": "3",
+"upos": "NOUN",
+"feats": "Number=Plur|Gender=Neut|Case=Nom"},
+{
+"id": "4",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "5",
+"upos": "ADJ",
+"feats": "Number=Plur|Gender=Neut|Case=Nom"},
+{
+"id": "6",
+"upos": "NOUN",
+"feats": "Number=Plur|Gender=Neut|Case=Gen"},
+{
+"id": "7",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "8",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf"},
+{
+"id": "9",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "10",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf"},
+{
+"id": "11",
+"upos": "PUNCT",
+"feats": "_"}
+}
+2026-01-30 19:29:55 INFO: ```json
+[
+  {
+    "id": "1",
+    "upos": "ADV",
+    "feats": ""
+  },
+  {
+    "id": "2",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "3",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Plural|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "4",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "5",
+    "upos": "NOUN",
+    "feats": "Case=Dat|Number=Plural|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "6",
+    "upos": "CCONJ",
+    "feats": ""
+  },
+  {
+    "id": "7",
+    "upos": "NOUN",
+    "feats": "Case=Dat|Number=Plural|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "8",
+    "upos": "CCONJ",
+    "feats": ""
+  },
+  {
+    "id": "9",
+    "upos": "NOUN",
+    "feats": "Case=Dat|Number=Plural|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "10",
+    "upos": "CCONJ",
+    "feats": ""
+  },
+  {
+    "id": "11",
+    "upos": "NOUN",
+    "feats": "Case=Dat|Number=Plural|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "12",
+    "upos": "CCONJ",
+    "feats": ""
+  },
+  {
+    "id": "13",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "14",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "15",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "16",
+    "upos": "NOUN",
+    "feats": "Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan"
+  },
+  {
+    "id": "17",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "18",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "19",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "20",
+    "upos": "ADV",
+    "feats": ""
+  },
+  {
+    "id": "21",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "22",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "23",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "24",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "25",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "26",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "27",
+    "upos": "ADV",
+    "feats": ""
+  },
+  {
+    "id": "28",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "29",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "30",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "31",
+    "upos": "ADP",
+    "feats": ""
+  },
+  {
+    "id": "32",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "33",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "34",
+    "upos": "ADV",
+    "feats": ""
+  },
+  {
+    "id": "35",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "36",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "37",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "38",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "39",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "40",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "41",
+    "upos": "ADV",
+    "feats": ""
+  },
+  {
+    "id": "42",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "43",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "44",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "45",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "46",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "47",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "48",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "49",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "50",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "51",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "52",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "53",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "54",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "55",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "56",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "57",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "58",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "59",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "60",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "61",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "62",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "63",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "64",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  },
+  {
+    "id": "65",
+    "upos": "PUNCT",
+    "feats": ""
+  },
+  {
+    "id": "66",
+    "upos": "NOUN",
+    "feats": "Case=Nom|Number=Sing|Gender=Masc|Animacy=Inan"
+  }
+]
+```
+2026-01-30 19:30:32 INFO: ```json
+{
+    "id": "1",
+    "upos": "ADV",
+    "feats": "_",
+  },
+  {
+    "id": "2",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin",
+  },
+  {
+    "id": "3",
+    "upos": "NOUN",
+    "feats": "Number=Plur",
+  },
+  {
+    "id": "4",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin",
+  },
+  {
+    "id": "5",
+    "upos": "PUNCT",
+    "feats": "_",
+  },
+  {
+    "id": "6",
+    "upos": "NOUN",
+    "feats": "Number=Plur",
+  },
+  {
+    "id": "7",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin",
+  },
+  {
+    "id": "8",
+    "upos": "ADP",
+    "feats": "_",
+  },
+  {
+    "id": "9",
+    "upos": "NOUN",
+    "feats": "Case=Loc|Number=Sing",
+  },
+  {
+    "id": "10",
+    "upos": "ADP",
+    "feats": "_",
+  },
+  {
+    "id": "11",
+    "upos": "NOUN",
+    "feats": "Case=Loc|Number=Sing",
+  },
+  {
+    "id": "12",
+    "upos": "ADP",
+    "feats": "_",
+  },
+  {
+    "id": "13",
+    "upos": "NOUN",
+    "feats": "Case=Loc|Number=Sing",
+  },
+  {
+    "id": "14",
+    "upos": "PUNCT",
+    "feats": "_",
+  }
+```
+2026-01-30 19:31:23 INFO: ```json
+{
+    "id": "1",
+    "upos": "ADV,
+    "feats": "_",
+  },
+  {
+    "id": "2",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing",
+  },
+  {
+    "id": "3",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Gen|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "4",
+    "upos": "VERB,
+    "feats": "Aspect=Perf|Mood=Ind|Person=3|Number=Sing|Tense=Past|VerbForm=PartFin",
+  },
+  {
+    "id": "5",
+    "upos": "PUNCT,
+    "feats": "_",
+  },
+  {
+    "id": "6",
+    "upos": "ADP,
+    "feats": "_",
+  },
+  {
+    "id": "7",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur",
+  },
+  {
+    "id": "8",
+    "upos": "ADP,
+    "feats": "_",
+  },
+  {
+    "id": "9",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Loc|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "10",
+    "upos": "ADP,
+    "feats": "_",
+  },
+  {
+    "id": "11",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Gen|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "12",
+    "upos": "PUNCT,
+    "feats": "_",
+  },
+  {
+    "id": "13",
+    "upos": "ADV,
+    "feats": "_",
+  },
+  {
+    "id": "14",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Gen|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "15",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Gen|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "16",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Gen|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "17",
+    "upos": "NOUN,
+    "feats": "Animacy=Inan|Case=Gen|Gender=Mas|Number=Sing",
+  },
+  {
+    "id": "18",
+    "upos": "PUNCT,
+    "feats": "_",
+  }
+```
+2026-01-30 19:32:27 INFO: ```json
+{
+    "id": "1",
+    "upos": "ADV",
+    "feats": "Polarity=Neg"
+  },
+  {
+    "id": "2",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "3",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "4",
+    "upos": "NOUN",
+    "feats": "Case=Loc|Number=Sing"
+  },
+  {
+    "id": "5",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "6",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "7",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "8",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "9",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "10",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "11",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "12",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "13",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "14",
+    "upos": "NOUN",
+    "feats": "Case=Dat|Number=Plur"
+  },
+  {
+    "id": "15",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "16",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "17",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "18",
+    "upos": "NOUN",
+    "feats": "Number=Sing"
+  },
+  {
+    "id": "19",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "20",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "21",
+    "upos": "NOUN",
+    "feats": "Number=Sing"
+  },
+  {
+    "id": "22",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "23",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "24",
+    "upos": "VERB",
+    "feats": "Aspect=Perf|Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "25",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+```
+2026-01-30 19:33:13 INFO: ```json
+{
+    "id": "1",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Nom|Gender=Masc|Animacy=Anim"
+  },
+  {
+    "id": "2",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "3",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Nom|Gender=Fem|Animacy=Anim"
+  },
+  {
+    "id": "4",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "5",
+    "upos": "ADP",
+    "feats": "Case=Loc"
+  },
+  {
+    "id": "6",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Case=Loc|Gender=Fem|Animacy=Inan"
+  },
+  {
+    "id": "7",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Case=Gen|Gender=Fem|Animacy=Inan"
+  },
+  {
+    "id": "8",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "9",
+    "upos": "ADJ",
+    "feats": "Degree=Pos"
+  },
+  {
+    "id": "10",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "11",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "12",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Case=Nom|Gender=Masc|Animacy=Anim"
+  },
+  {
+    "id": "13",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Sing|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "14",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Case=Gen|Gender=Fem|Animacy=Inan"
+  },
+  {
+    "id": "15",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Case=Gen|Gender=Fem|Animacy=Inan"
+  },
+  {
+    "id": "16",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+}
+```
+2026-01-30 19:34:04 INFO: ```json
+{
+    "id": "1",
+    "upos": "NOUN,
+    "feats": "Number=Plur|Gender=Fem|Animacy=Inan|Case=Nom",
+  },
+  {
+    "id": "2",
+    "upos": "VERB,
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin",
+  },
+  {
+    "id": "3",
+    "upos": "NOUN,
+    "feats": "Number=Sing|Gender=Masc|Animacy=Inan|Case=Gen",
+  },
+  {
+    "id": "4",
+    "upos": "VERB,
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin",
+  },
+  {
+    "id": "5",
+    "upos": "ADP",
+    "feats": "_",
+  },
+  {
+    "id": "6",
+    "upos": "PRON,
+    "feats": "Number=Plur|Gender=Neu|Case=Acc|Animacy=Inan",
+  },
+  {
+    "id": "7",
+    "upos": "VERB,
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin",
+  },
+  {
+    "id": "8",
+    "upos": "PUNCT",
+    "feats": "_",
+  },
+  {
+    "id": "9",
+    "upos": "NOUN,
+    "feats": "Number=Sing|Gender=Masc|Animacy=Inan|Case=Acc",
+  },
+  {
+    "id": "10",
+    "upos": "VERB,
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin",
+  },
+  {
+    "id": "11",
+    "upos": "NOUN,
+    "feats": "Number=Plur|Gender=Fem|Animacy=Inan|Case=Dat",
+  },
+  {
+    "id": "12",
+    "upos": "VERB,
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin",
+  },
+  {
+    "id": "13",
+    "upos": "ADV",
+    "feats": "_",
+  },
+  {
+    "id": "14",
+    "upos": "VERB,
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin",
+  },
+  {
+    "id": "15",
+    "upos": "PUNCT",
+    "feats": "_",
+  }
+]
+```
+2026-01-30 19:34:34 INFO: ```json
+{
+    "id": "1",
+    "upos": "ADP",
+    "feats": "Case=Gen"
+  },
+  {
+    "id": "2",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "3",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "4",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "5",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "6",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "7",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "8",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "9",
+    "upos": "VERB",
+    "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "10",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "11",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+```
+2026-01-30 19:35:35 INFO: ```json
+{
+    "id": "1",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Dat"
+  },
+  {
+    "id": "2",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "3",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "4",
+    "upos": "NOUN",
+    "feats": "Number=Sing|Case=Acc"
+  },
+  {
+    "id": "5",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "6",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "7",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Dat"
+  },
+  {
+    "id": "8",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "9",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Acc"
+  },
+  {
+    "id": "10",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "11",
+    "upos": "CCONJ",
+    "feats": "_"
+  },
+  {
+    "id": "12",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Acc"
+  },
+  {
+    "id": "13",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "14",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "15",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Dat"
+  },
+  {
+    "id": "16",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "17",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "18",
+    "upos": "NOUN",
+    "feats": "Number=Plur|Case=Dat"
+  },
+  {
+    "id": "19",
+    "upos": "VERB",
+    "feats": "Person=3|Number=Plur|Tense=Pres|Aspect=Imp|Mood=Ind|VerbForm=Fin"
+  },
+  {
+    "id": "20",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+```
+2026-01-30 19:36:10 INFO: {
+"id": "1",
+"upos": "NOUN",
+"feats": "Case=Gen|Number=Plural"
+},
+{
+"id": "2",
+"upos": "NOUN",
+"feats": "Number=Sing"
+},
+{
+"id": "3",
+"upos": "ADV",
+"feats": "_"
+},
+{
+"id": "4",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Number=Plural|Person=3|Tense=Pres|VerbForm=Inf"
+},
+{
+"id": "5",
+"upos": "ADP",
+"feats": "Case=Loc"
+},
+{
+"id": "6",
+"upos": "NOUN",
+"feats": "Case=Dat|Number=Plural"
+},
+{
+"id": "7",
+"upos": "ADP",
+"feats": "Case=Loc"
+},
+{
+"id": "8",
+"upos": "NOUN",
+"feats": "Case=Gen|Number=Sing"
+},
+{
+"id": "9",
+"upos": "ADP",
+"feats": "Case=Loc"
+},
+{
+"id": "10",
+"upos": "NOUN",
+"feats": "Case=Dat|Number=Plural"
+},
+{
+"id": "11",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Number=Plural|Person=3|Tense=Pres|VerbForm=Inf"
+},
+{
+"id": "12",
+"upos": "ADP",
+"feats": "Case=Loc"
+},
+{
+"id": "13",
+"upos": "NOUN",
+"feats": "Case=Dat|Number=Sing"
+},
+{
+"id": "14",
+"upos": "PUNCT",
+"feats": "_"
+}
+}
+2026-01-30 19:37:01 INFO: ```json
+{
+    "id": "1",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "2",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "3",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Plural|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "4",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "5",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "6",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "7",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "8",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "9",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Plural|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "10",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "11",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "12",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "13",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "14",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Plural|Tense=Pres|VerbForm=Fin"
+  },
+  {
+    "id": "15",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "16",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "17",
+    "upos": "ADP",
+    "feats": "_"
+  },
+  {
+    "id": "18",
+    "upos": "NOUN",
+    "feats": "Number=Plural"
+  },
+  {
+    "id": "19",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+```
+2026-01-30 19:37:33 INFO: {
+"id": "1",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "2",
+"upos": "ADP",
+"feats": "_"},
+{
+"id": "3",
+"upos": "NOUN",
+"feats": "Animacy=Inan|Case=Acc|Gender=Mas|Number=Sing"},
+{
+"id": "4",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "5",
+"upos": "NOUN",
+"feats": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur"},
+{
+"id": "6",
+"upos": "NOUN",
+"feats": "Animacy=Inan|Case=Acc|Gender=Mas|Number=Sing"},
+{
+"id": "7",
+"upos": "ADJ",
+"feats": "_"},
+{
+"id": "8",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "9",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf"},
+{
+"id": "10",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "11",
+"upos": "NOUN",
+"feats": "Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing"},
+{
+"id": "12",
+"upos": "ADP",
+"feats": "_"},
+{
+"id": "13",
+"upos": "NOUN",
+"feats": "Animacy=Inan|Case=Acc|Gender=Mas|Number=Sing"},
+{
+"id": "14",
+"upos": "PUNCT",
+"feats": "_"}
+}
+2026-01-30 19:38:01 INFO: {
+"id": "1",
+"upos": "NOUN",
+"feats": "Number=Plur"
+},
+{
+"id": "2",
+"upos": "NOUN",
+"feats": "Number=Plur"
+},
+{
+"id": "3",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Plur|Tense=Pres|VerbForm=Fin"
+},
+{
+"id": "4",
+"upos": "ADP",
+"feats": "_"
+},
+{
+"id": "5",
+"upos": "NOUN",
+"feats": "Number=Plur"
+},
+{
+"id": "6",
+"upos": "PUNCT",
+"feats": "_"
+},
+{
+"id": "7",
+"upos": "NOUN",
+"feats": "Number=Plur"
+},
+{
+"id": "8",
+"upos": "ADP",
+"feats": "_"
+},
+{
+"id": "9",
+"upos": "NOUN",
+"feats": "Number=Plur"
+},
+{
+"id": "10",
+"upos": "PUNCT",
+"feats": "_"
+},
+{
+"id": "11",
+"upos": "ADP",
+"feats": "_"
+},
+{
+"id": "12",
+"upos": "NOUN",
+"feats": "Number=Plur"
+},
+{
+"id": "13",
+"upos": "PUNCT",
+"feats": "_"
+}
+}
+2026-01-30 19:38:40 INFO: {
+"id": "1",
+"upos": "ADV",
+"feats": "_"},
+{
+"id": "2",
+"upos": "PRON",
+"feats": "Case=Acc|Number=Plur|Gender=Neut"},
+{
+"id": "3",
+"upos": "VERB",
+"feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Plur|Tense=Pres|VerbForm=Fin"},
+{
+"id": "4",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "5",
+"upos": "PRON",
+"feats": "Case=Acc|Number=Plur|Gender=Neut"},
+{
+"id": "6",
+"upos": "NOUN",
+"feats": "Number=Sing|Gender=Fem|Animacy=Anim"},
+{
+"id": "7",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "8",
+"upos": "NOUN",
+"feats": "Number=Sing|Gender=Fem|Animacy=Anim"},
+{
+"id": "9",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "10",
+"upos": "NOUN",
+"feats": "Number=Sing|Gender=Fem|Animacy=Anim"},
+{
+"id": "11",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "12",
+"upos": "NOUN",
+"feats": "Number=Sing|Gender=Fem|Animacy=Anim"},
+{
+"id": "13",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "14",
+"upos": "NOUN",
+"feats": "Number=Sing|Gender=Fem|Animacy=Anim"},
+{
+"id": "15",
+"upos": "PUNCT",
+"feats": "_"},
+{
+"id": "16",
+"upos": "PRON",
+"feats": "Case=Gen|Number=Plur|Gender=Neut"},
+{
+"id": "17",
+"upos": "NOUN",
+"feats": "Number=Sing|Gender=Fem|Animacy=Anim"}
+}
+2026-01-30 19:39:08 INFO: ```json
+{
+    "id": "1",
+    "upos": "NOUN",
+    "feats": "Case=Gen|Number=Plur"
+  },
+  {
+    "id": "2",
+    "upos": "NOUN",
+    "feats": "Number=Plur"
+  },
+  {
+    "id": "3",
+    "upos": "VERB",
+    "feats": "Tense=Pres|Aspect=Imp|Mood=Ind|Person=3|Number=Plur|VerbForm=Inf"
+  },
+  {
+    "id": "4",
+    "upos": "ADP",
+    "feats": "Case=Ill"
+  },
+  {
+    "id": "5",
+    "upos": "NOUN",
+    "feats": "Number=Sing"
+  },
+  {
+    "id": "6",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "7",
+    "upos": "VERB",
+    "feats": "Aspect=Imp|Mood=Ind|Person=3|Number=Plur|VerbForm=Inf"
+  },
+  {
+    "id": "8",
+    "upos": "PUNCT",
+    "feats": "_"
+  },
+  {
+    "id": "9",
+    "upos": "ADV",
+    "feats": "_"
+  },
+  {
+    "id": "10",
+    "upos": "PUNCT",
+    "feats": "_"
+  }
+```
