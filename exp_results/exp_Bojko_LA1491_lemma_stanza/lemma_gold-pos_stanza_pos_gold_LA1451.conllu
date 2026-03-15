@@ -1,0 +1,837 @@
+# doc_title = LA1451
+# newdoc id = LA1451
+# newpar id = LA1451.1
+# sent_id = LA1451.1.1
+# IPA_transcription = u jednˈum mˈistˈi nˌɑ blɑɦovˈiʂʈ͡ʂʲenʲɑ pˌudvɑrtovˈɑlɪ̈ xlˈopʈ͡sʲi w◡xʲlʲˈivi jednˈu velˈɪ̈ku ʐˈɑbu //
+# standard_text = У єдну́м мíсті на Благовíщеня пудвартова́ли хло́пці в хлíві єдну́ вели́ку жа́бу.
+# variation_text = У єдну́м мíсті на Благовíщеня пудвартова́ли хло́пці в хлíві єдну́ вели́ку жа́бу.
+# german_text = Am Tage von Mariä Verkündigung haben die Jungen in einem Stall einem großen Frosch aufgelauert.
+# english_text = On the Feast of the Annunciation, the boys ambushed a large frog in a stable.
+1	У	у	ADP	_	_	0	_	_	wf="У"|tf="u"
+2	єдну́м	єдин	NUM	_	Case=Loc|Gender=Masc|Number=Sing|NumType=Card	1	_	_	wf="єднум"|tf="jednˈum"
+3	мíсті	місто	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	_	_	wf="місті"|tf="mˈistˈi"
+4	на	на	ADP	_	_	3	_	_	wf="на"|tf="nˌɑ"
+5	Благовíщеня	Благовіщеня	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|NameType=Oth|Number=Sing	4	_	_	wf="Благовіщеня"|tf="blɑɦovˈiʂʈ͡ʂʲenʲɑ"
+6	пудвартова́ли	пудвартовати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	_	_	wf="пудвартовали"|tf="pˌudvɑrtovˈɑlɪ̈"
+7	хло́пці	хлопець	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	_	_	wf="хлопці"|tf="xlˈopʈ͡sʲi"
+8	в	в	ADP	_	_	7	_	_	wf="в"|tf="w"
+9	хлíві	хлів	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	wf="хліві"|tf="xʲlʲˈivi"
+10	єдну́	єдин	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	9	_	_	wf="єдну"|tf="jednˈu"
+11	вели́ку	великий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	_	_	wf="велику"|tf="velˈɪ̈ku"
+12	жа́бу	жаб	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	11	_	_	wf="жабу"|tf="ʐˈɑbu"
+13	.	.	PUNCT	_	_	12	_	_	wf="."|tf="//"
+
+# sent_id = LA1452.1.2
+# IPA_transcription = tɔtˈɑ ʐˈɑbɑ bˈʊ̞̈lɑ tɑkˈɑ velˈɪ̈kɑ jɑk◡jedˈen kˈɑlɑp //
+# standard_text = Тота́ жа́ба бу́ла така́ вели́ка, як єдéн ка́лап.
+# variation_text = Тота́ жа́ба бу́ла така́ вели́ка, як єдéн ка́лап.
+# german_text = Dieser Frosch war so groß wie ein Hut.
+# english_text = This frog was as big as a hat.
+1	Тота́	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	wf="Тота"|tf="tɔtˈɑ"
+2	жа́ба	жаба	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	_	_	wf="жаба"|tf="ʐˈɑbɑ"
+3	бу́ла	бути	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	_	_	wf="була"|tf="bˈʊ̞̈lɑ"
+4	така́	такий	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	_	_	wf="така"|tf="tɑkˈɑ"
+5	вели́ка	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	wf="велика"|tf="velˈɪ̈kɑ"
+6	,	,	PUNCT	_	_	5	_	_	wf=","
+7	як	як	SCONJ	_	_	6	_	_	wf="як"|tf="jɑk"
+8	єдéн	єден	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	7	_	_	wf="єден"|tf="jedˈen"
+9	ка́лап	калап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	_	_	wf="калап"|tf="kˈɑlɑp"
+10	.	.	PUNCT	_	_	9	_	_	wf="."|tf="//"
+
+# sent_id = LA1452.1.3
+# IPA_transcription = zˈɑto boːnɑ xocˈilɑ brˈɑtɪ̈ ot◡korˈovɨ molokˈo / a◡wnˈɪ̈ ju wlˈɑpɪ̈lɪ̈ ɪ̈ zɑpˈerlɪ̈ do◡susʲikɑ //
+# standard_text = За́то бо она́ хотíла бра́ти од коро́ви молоко́, а они́ ю вла́пили і запéрли до сусíка.
+# variation_text = За́то бо она́ хотíла бра́ти од коро́ви молоко́, а они́ ю вла́пили і запéрли до сусíка.
+# german_text = Weil er die Milch der Kuh abnehmen wollte, haben sie ihn gefangen und in dem Heuschober eingesperrt.
+# english_text = Because it wanted to take the cow's milk, they caught it and locked it in the hayloft.
+1	За́то	зато	SCONJ	_	_	0	_	_	wf="Зато"|tf="zˈɑto"
+2	бо	бо	SCONJ	_	_	1	_	_	wf="бо"|tf="bo"
+3	она́	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	_	_	wf="она"|tf="wnɑ"
+4	хотíла	хотіти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	_	_	wf="хотіла"|tf="xocˈilɑ"
+5	бра́ти	брати	VERB	_	Aspect=Perf|VerbForm=Inf	4	_	_	wf="брати"|tf="brˈɑtɪ̈"
+6	од	од	ADP	_	_	5	_	_	wf="од"|tf="ot"
+7	коро́ви	корова	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	_	_	wf="корови"|tf="korˈovɨ"
+8	молоко́	молоко	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	_	_	wf="молоко"|tf="molokˈo"
+9	,	,	PUNCT	_	_	8	_	_	wf=","|tf="/"
+10	а	а	CCONJ	_	_	9	_	_	wf="а"|tf="ɑ"
+11	они́	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	_	_	wf="они"|tf="wnˈɪ̈"
+12	ю	ю	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	_	_	wf="ю"|tf="ju"
+13	вла́пили	влапити	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	12	_	_	wf="влапили"|tf="wlˈɑpɪ̈lɪ̈"
+14	і	і	CCONJ	_	_	13	_	_	wf="і"|tf="ɪ̈"
+15	запéрли	заперти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	14	_	_	wf="заперли"|tf="zɑpˈerlɪ̈"
+16	до	до	ADP	_	_	15	_	_	wf="до"|tf="do"
+17	сусíка	сусіка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	wf="сусіка"|tf="susʲikɑ"
+18	.	.	PUNCT	_	_	17	_	_	wf="."|tf="//"
+
+# sent_id = LA1452.1.4
+# IPA_transcription = tɑm ju dˈotɪ̈j trˈɪ̈mɑlɪ̈ dˈokʲï ne◡zrobˈɪ̞̈lɑsʲɑ nɑ◡ʐonˈu ɪ̈ prosˈɪ̈lɑsʲɑ ʐebˈɯ ju vˈutːam vˈupustɪ̈lɪ̈ //
+# standard_text = Там ю до́тий три́мали, до́ки не зроби́лася на жону́ і проси́лася, жеби́ ю ву́дтам ву́пустили.
+# variation_text = Там ю до́тий три́мали, до́ки не зроби́лася на жону́ і проси́лася, жеби́ ю ву́дтам ву́пустили.
+# german_text = Dort hat man ihn so lange gehalten, bis er zu einer Frau wurde und diese gebeten hat, man solle sie herauslassen.
+# english_text = They kept it there for so long that it turned into a woman and asked them to let him out.
+1	Там	там	ADV	_	PronType=Dem	0	_	_	wf="Там"|tf="tɑm"
+2	ю	ю	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	_	_	wf="ю"|tf="ju"
+3	до́тий	дотий	ADV	_	PronType=Dem	2	_	_	wf="дотий"|tf="dˈotɪ̈j"
+4	три́мали	тримати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	_	_	wf="тримали"|tf="trˈɪ̈mɑlɪ̈"
+5	,	,	PUNCT	_	_	4	_	_	wf=","
+6	до́ки	доки	ADV	_	PronType=Rel	5	_	_	wf="доки"|tf="dˈokʲï"
+7	не	не	PART	_	Polarity=Neg	6	_	_	wf="не"|tf="ne"
+8	зроби́лася	зробитися	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	_	_	wf="зробилася"|tf="zrobˈɪ̞̈lɑsʲɑ"
+9	на	на	ADP	_	_	8	_	_	wf="на"|tf="nɑ"
+10	жону́	жона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	wf="жону"|tf="ʐonˈu"
+11	і	і	CCONJ	_	_	10	_	_	wf="і"|tf="ɪ̈"
+12	проси́лася	проситися	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	wf="просилася"|tf="prosˈɪ̈lɑsʲɑ"
+13	,	,	PUNCT	_	_	12	_	_	wf=","
+14	жеби́	жеби	SCONJ	_	_	13	_	_	wf="жеби"|tf="ʐebˈɯ"
+15	ю	ю	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	_	_	wf="ю"|tf="ju"
+16	ву́дтам	вудтам	ADV	_	PronType=Dem	15	_	_	wf="вудтам"|tf="vˈutːam"
+17	ву́пустили	вупустити	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	16	_	_	wf="вупустили"|tf="vˈupustɪ̈lɪ̈"
+18	.	.	PUNCT	_	_	17	_	_	wf="."|tf="//"
+
+# newpar id = LA1451.2
+# sent_id = LA1451.2.1
+# IPA_transcription = buw tɑkʲɪ̞̈j ʈ͡ʂʲolovˈik ʂo◡mˈɑw jednːˈu tɑnʲˈistru //
+# standard_text = Був таки́й чоловíк, шо мав єдну́ танíстру.
+# variation_text = Був таки́й чоловíк, шо мав єдну́ танíстру.
+# german_text = Es lebte einmal ein Mann, der einen Tornister besaß.
+# english_text = Once upon a time, there lived a man who owned a knapsack.
+1	Був	бути	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	_	_	wf="Був"|tf="buw"
+2	таки́й	такий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	_	_	wf="такий"|tf="tɑkʲɪ̞̈j"
+3	чоловíк	чоловік	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	_	_	wf="чоловік"|tf="ʈ͡ʂʲolovˈik"
+4	,	,	PUNCT	_	_	3	_	_	wf=","
+5	шо	шо	SCONJ	_	_	4	_	_	wf="шо"|tf="ʂo"
+6	мав	мати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	_	_	wf="мав"|tf="mˈɑw"
+7	єдну́	єдин	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	6	_	_	wf="єдну"|tf="jednˈu"
+8	танíстру	танíстр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	_	_	wf="танíстру"|tf="tɑnʲˈistru"
+9	.	.	PUNCT	_	_	8	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.2.2
+# IPA_transcription = tɔtˈɑ tɑnʲˈistrɑ bˈʊ̞̈lɑ wse pˈownɑ ɑ◡xtˈo do◡nʲˈuj sʲːɑ dorˈuʂɪ̈c // ne◡mˈux ud◡nʲˈuj sʲːɑ odːalˈɪ̈tɪ̈ dˈokʲï vun jomˈu ne◡povˈiw ʐe◡mˈo̝ʐe jɪ̞̈tˈɪ̈ //
+# standard_text = Тота́ танíстра була́ все по́вна, а хто́ до нюй ся дору́шит, не му́г уд нюй ся оддали́ти, до́ки вун йому́ не повíв, же мо́же ити́.
+# variation_text = Тота́ танíстра була́ все по́вна, а хто́ до нюй ся дору́шит, не му́г уд нюй ся оддали́ти, до́ки вун йому́ не повíв, же мо́же ити́.
+# german_text = Dieser Tornister war immer voll, und wer ihn berührte, konnte sich nicht eher entfernen, bis er (der Mann) ihm sagte, er könne gehen.
+# english_text = This knapsack was always full, and whoever touched it could not leave until he (the man) told him he could go.
+1	Тота́	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	0	_	_	wf="Тота"|tf="tɔtˈɑ"
+2	танíстра	таністр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	_	_	wf="таністра"|tf="tɑnʲˈistrɑ"
+3	була́	бути	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	_	_	wf="була"|tf="bˈʊ̞̈lɑ"
+4	все	все	ADV	_	PronType=Tot	3	_	_	wf="все"|tf="wse"
+5	по́вна	повний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	_	_	wf="повна"|tf="pˈownɑ"
+6	,	,	PUNCT	_	_	5	_	_	wf=","
+7	а	а	CCONJ	_	_	6	_	_	wf="а"|tf="ɑ"
+8	хто́	хто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	_	_	wf="хто"|tf="xtˈo"
+9	до	до	ADP	_	_	8	_	_	wf="до"|tf="do"
+10	нюй	вона	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	_	_	wf="нюй"|tf="nʲˈuj"
+11	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	_	_	wf="ся"|tf="sʲːɑ"
+12	дору́шит	дорушити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	_	_	wf="дорушит"|tf="dorˈuʂɪ̈c"
+13	,	,	PUNCT	_	_	12	_	_	wf=","|tf="//"
+14	не	не	PART	_	Polarity=Neg	13	_	_	wf="не"|tf="ne"
+15	му́г	мугти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	_	_	wf="муг"|tf="mˈux"
+16	уд	уд	ADP	_	_	15	_	_	wf="уд"|tf="ud"
+17	нюй	вона	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	_	_	wf="нюй"|tf="nʲˈuj"
+18	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	17	_	_	wf="ся"|tf="sʲːɑ"
+19	оддали́ти	оддалити	VERB	_	Aspect=Perf|VerbForm=Inf	18	_	_	wf="оддалити"|tf="odːalˈɪ̈tɪ̈"
+20	,	,	PUNCT	_	_	19	_	_	wf=","
+21	до́ки	доки	ADV	_	PronType=Rel	20	_	_	wf="доки"|tf="dˈokʲï"
+22	вун	вун	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	_	_	wf="вун"|tf="vun"
+23	йому́	він	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	_	_	wf="йому"|tf="jomˈu"
+24	не	не	PART	_	Polarity=Neg	23	_	_	wf="не"|tf="ne"
+25	повíв	повести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	24	_	_	wf="повів"|tf="povˈiw"
+26	,	,	PUNCT	_	_	25	_	_	wf=","
+27	же	же	SCONJ	_	_	26	_	_	wf="же"|tf="ʐe"
+28	мо́же	могти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	wf="може"|tf="mˈo̝ʐe"
+29	ити́	ити	VERB	_	Aspect=Imp|VerbForm=Inf	28	_	_	wf="ити"|tf="jɪ̞̈tˈɪ̈"
+30	.	.	PUNCT	_	_	29	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.2.3
+# IPA_transcription = un totˈu tɑnʲˈistru w◡noʈ͡ʂʲɪ̈ trˈɪ̈mɑw put◡ʂˈopow //
+# standard_text = Ун тоту́ танíстру в ночи́ три́мав пуд шо́пов.
+# variation_text = Ун тоту́ танíстру в ночи́ три́мав пуд шо́пов.
+# german_text = Er hielt diesen Tornister während der Nacht unter dem Schuppen.
+# english_text = He kept this knapsack under the shed during the night.
+1	Ун	ун	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	wf="Ун"|tf="un"
+2	тоту́	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	_	_	wf="тоту"|tf="totˈu"
+3	танíстру	таністр	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	2	_	_	wf="таністру"|tf="tɑnʲˈistru"
+4	в	в	ADP	_	_	3	_	_	wf="в"|tf="w"
+5	ночи́	ноча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	_	_	wf="ночи"|tf="noʈ͡ʂʲɪ̈"
+6	три́мав	тримати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	_	_	wf="тримав"|tf="trˈɪ̈mɑw"
+7	пуд	пуд	ADP	_	_	6	_	_	wf="пуд"|tf="put"
+8	шо́пов	шопов	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	_	_	wf="шопов"|tf="ʂˈopow"
+9	.	.	PUNCT	_	_	8	_	_	wf="."|tf="//"
+
+# newpar id = LA1451.3
+# sent_id = LA1451.3.1
+# IPA_transcription = rɑz buw jedˈen ʈ͡ʂʲornoknˈɪ̈ʐnɪ̈k // kotrˈɪ̈j  xodˈɪ̈w po◡gˈɑzʲi // kolˈɪ̈ jedˈen ʈ͡ʂʲolovˈik pɑs xudˈo̝bu // tɑ◡joɦˈo vˈidʲiw ɪ̈z◡jednˈuw velˈɪ̈kow ʈ͡ʂʲˈornow knˈɪ̈ʂkow pud◡rukˈow //
+# standard_text = Раз був єдéн чорнокни́жник, котри́й ходи́в по ґа́зі, коли́ єдéн чоловíк пас худо́бу, та його́ вíдів из єдно́в вели́ков чо́рнов кни́жков пуд руко́в.
+# variation_text = Раз був єдéн чорнокни́жник, котри́й ходи́в по ґазі, коли́ єдéн чоловíк пас худо́бу, та його́ вíдів из єдно́в вели́ков чо́рнов кни́жков пуд руко́в.
+# german_text = Es lebte einmal ein Zauberer, den ein Mann, der das Vieh weidete, mit einem großen Buch unter dem Arm auf dem Gras herumgehen sah.
+# english_text = Once upon a time, there lived a magician whom a man grazing cattle saw walking around on the grass with a large book under his arm.
+1	Раз	раз	ADV	_	_	0	_	_	wf="Раз"|tf="rɑz"
+2	був	бути	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	_	_	wf="був"|tf="buw"
+3	єдéн	єден	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	2	_	_	wf="єден"|tf="jedˈen"
+4	чорнокни́жник	чорнокнижник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	_	_	wf="чорнокнижник"|tf="ʈ͡ʂʲornoknˈɪ̈ʐnɪ̈k"
+5	,	,	PUNCT	_	_	4	_	_	wf=","|tf="//"
+6	котри́й	котрий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	_	_	wf="котрий"|tf="kotrˈɪ̈j"
+7	ходи́в	ходити	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	6	_	_	wf="ходив"|tf="xodˈɪ̈w"
+8	по	по	ADP	_	_	7	_	_	wf="по"|tf="po"
+9	ґа́зі	ґаз	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	wf="ґазі"|tf="gˈɑzʲi"
+10	,	,	PUNCT	_	_	9	_	_	wf=","|tf="//"
+11	коли́	коли	ADV	_	PronType=Rel	10	_	_	wf="коли"|tf="kolˈɪ̈"
+12	єдéн	єден	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	11	_	_	wf="єден"|tf="jedˈen"
+13	чоловíк	чоловік	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	wf="чоловік"|tf="ʈ͡ʂʲolovˈik"
+14	пас	пасти	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	13	_	_	wf="пас"|tf="pɑs"
+15	худо́бу	худоба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	_	_	wf="худобу"|tf="xudˈo̝bu"
+16	,	,	PUNCT	_	_	15	_	_	wf=","|tf="//"
+17	та	та	CCONJ	_	_	16	_	_	wf="та"|tf="tɑ"
+18	його́	він	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	_	_	wf="його"|tf="joɦˈo"
+19	вíдів	відіти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	18	_	_	wf="відів"|tf="vˈidʲiw"
+20	из	из	ADP	_	_	19	_	_	wf="из"|tf="ɪ̈z"
+21	єдно́в	єдин	NUM	_	Case=Ins|Gender=Fem|Number=Sing|NumType=Card	20	_	_	wf="єднов"|tf="jednˈuw"
+22	вели́ков	великий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	21	_	_	wf="великов"|tf="velˈɪ̈kow"
+23	чо́рнов	чорний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	_	_	wf="чорнов"|tf="ʈ͡ʂʲˈornow"
+24	кни́жков	книжка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	_	_	wf="книжков"|tf="knˈɪ̈ʂkow"
+25	пуд	пуд	ADP	_	_	24	_	_	wf="пуд"|tf="pud"
+26	руко́в	руков	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	_	_	wf="руков"|tf="rukˈow"
+27	.	.	PUNCT	_	_	26	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.3.2
+# IPA_transcription = rɑz◡lem uʈ͡ʂʲuw tot◡ʈ͡ʂʲolovˈig◡ʐe ʂosʲ poʈ͡ʂʲɑlˈo dˈuʐe fˈickɑtɪ̈ //
+# standard_text = Раз лем учу́в тот чоловíк, же шось почало́ ду́же фíтькати.
+# variation_text = Раз лем учу́в тот чоловíк, же шось почало́ ду́же фíтькати.
+# german_text = Auf einmal aber hörte dieser Mann etwas stark pfeifen.
+# english_text = Suddenly, this man heard a loud whistling sound.
+1	Раз	раз	ADV	_	_	0	_	_	wf="Раз"|tf="rɑz"
+2	лем	лем	CCONJ	_	_	1	_	_	wf="лем"|tf="lem"
+3	учу́в	учути	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	_	_	wf="учув"|tf="uʈ͡ʂʲuw"
+4	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	_	_	wf="тот"|tf="tot"
+5	чоловíк	чоловік	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	_	_	wf="чоловік"|tf="ʈ͡ʂʲolovˈig"
+6	,	,	PUNCT	_	_	5	_	_	wf=","
+7	же	же	SCONJ	_	_	6	_	_	wf="же"|tf="ʐe"
+8	шось	шось	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	_	_	wf="шось"|tf="ʂosʲ"
+9	почало́	почати	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	wf="почало"|tf="poʈ͡ʂʲɑlˈo"
+10	ду́же	дуже	ADV	_	Degree=Pos	9	_	_	wf="дуже"|tf="dˈuʐe"
+11	фíтькати	фітькати	VERB	_	Aspect=Imp|VerbForm=Inf	10	_	_	wf="фітькати"|tf="fˈickɑtɪ̈"
+12	.	.	PUNCT	_	_	11	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.3.3
+# IPA_transcription = wun pozˈerɑc ɑ◡tˌo◡ʈ͡ʂʲornoknˈɪ̈ʐnɪ̈k jɪ̞̈dˈe jɪ̞̈ʐ◡gˈɑzu do◡ḻʲˈisɑ // ɪ̈z◡jednˈo̝w velˈɪ̈kow knˈɪ̈ʂkow // ɪ̈ ʂosʲ ʈ͡ʂʲɪ̈tɑw ɪ̈z nʲˈoji //
+# standard_text = Вун позéрать, а то чорнокни́жник идé из ґа́зу до лíса из єдно́в вели́ков кни́жков і шось чита́в из ньо́ї.
+# variation_text = Вун позéрать, а то чорнокни́жник идé из ґа́зу до лíса из єдно́в вели́ков кни́жков і шось чита́в из ньо́ї.
+# german_text = Er schaut hin und sieht den Zauberer mit einem großen Buch, aus dem er gelesen hat, aus dem Gras in den Wald gehen.
+# english_text = He looks over and sees the magician walking from the grass into the forest, carrying a large book from which he has been reading.
+1	Вун	вун	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	wf="Вун"|tf="wun"
+2	позéрать	позерати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="позерать"|tf="pozˈerɑc"
+3	,	,	PUNCT	_	_	2	_	_	wf=","
+4	а	а	CCONJ	_	_	3	_	_	wf="а"|tf="ɑ"
+5	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	_	_	wf="то"|tf="tˌo"
+6	чорнокни́жник	чорнокнижник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	wf="чорнокнижник"|tf="ʈ͡ʂʲornoknˈɪ̈ʐnɪ̈k"
+7	идé	ити	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	wf="иде"|tf="jɪ̞̈dˈe"
+8	из	из	ADP	_	_	7	_	_	wf="из"|tf="jɪ̞̈ʐ"
+9	ґа́зу	ґаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	wf="ґазу"|tf="gˈɑzu"
+10	до	до	ADP	_	_	9	_	_	wf="до"|tf="do"
+11	лíса	ліс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	_	_	wf="ліса"|tf="ḻʲˈisɑ"
+12	из	из	ADP	_	_	11	_	_	wf="из"|tf="ɪ̈z"
+13	єдно́в	єдин	NUM	_	Case=Ins|Gender=Fem|Number=Sing|NumType=Card	12	_	_	wf="єднов"|tf="jednˈo̝w"
+14	вели́ков	великий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	wf="великов"|tf="velˈɪ̈kow"
+15	кни́жков	книжка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	_	_	wf="книжков"|tf="knˈɪ̈ʂkow"
+16	і	і	CCONJ	_	_	15	_	_	wf="і"|tf="ɪ̈"
+17	шось	шось	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	16	_	_	wf="шось"|tf="ʂosʲ"
+18	чита́в	читати	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	17	_	_	wf="читав"|tf="ʈ͡ʂʲɪ̈tɑw"
+19	из	из	ADP	_	_	18	_	_	wf="из"|tf="ɪ̈z"
+20	ньо́ї	він	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	_	_	wf="ньої"|tf="nʲˈoji"
+21	.	.	PUNCT	_	_	20	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.3.4
+# IPA_transcription = ɑ◡tˌo◡wpˈɑw jedˈen ɪ̈s◡xmˈɑrox ʂˈɑrkɑnʲ do◡ḻʲˈisɑ // ɪ̈◡tɑk◡poʈ͡ʂʲɑw fˈickɑtɪ̈ //
+# standard_text = А то впа́в єдéн из хма́рох ша́ркань до лíса і поча́в фíтькати.
+# variation_text = А то впа́в єдéн из хма́рох ша́ркань до лíса і поча́в фíтькати.
+# german_text = Es fiel eben ein Drache aus den Wolken in den Wald herunter und begann so zu pfeifen.
+# english_text = A dragon just fell from the clouds into the forest and began to whistle.
+1	А	а	CCONJ	_	_	0	_	_	wf="а"|tf="ɑ"
+2	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	_	_	wf="то"|tf="tˌo"
+3	впа́в	впасти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	_	_	wf="впав"|tf="wpˈɑw"
+4	єдéн	єден	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	3	_	_	wf="єден"|tf="jedˈen"
+5	из	из	ADP	_	_	4	_	_	wf="из"|tf="ɪ̈s"
+6	хма́рох	хмара	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	5	_	_	wf="хмарох"|tf="xmˈɑrox"
+7	ша́ркань	шаркань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	_	_	wf="шаркань"|tf="ʂˈɑrkɑnʲ"
+8	до	до	ADP	_	_	7	_	_	wf="до"|tf="do"
+9	лíса	ліс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	_	_	wf="ліса"|tf="ḻʲˈisɑ"
+10	і	і	CCONJ	_	_	9	_	_	wf="і"|tf="ɪ̈"
+11	поча́в	почати	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	10	_	_	wf="почав"|tf="poʈ͡ʂʲɑw"
+12	фíтькати	фітькати	VERB	_	Aspect=Imp|VerbForm=Inf	11	_	_	wf="фітькати"|tf="fˈickɑtɪ̈"
+13	.	.	PUNCT	_	_	12	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.3.5
+# IPA_transcription = toɦdˈɨ ʈ͡ʂʲornoknˈɪ̈ʐnɪ̈k puʂˈow vonʲ jɪ̞̈t◡ʂɑrkɑnʲovɪ̈ // ɑ◡sʲiw nɑ◡nʲˈoɦo ˌɪ◡poʈ͡ʂʲɑlˈɑʂʲɑ velˈɪ̈kɑ tˈuʈ͡ʂɑ kolˈɪ̈ wonˈɪ̈ pudlecilɪ̈ put◡xmˈɑrɪ̈ //
+# standard_text = Тогди́ чорнокни́жник пушо́в вонь ид ша́рканьови, а сів на ньо́го і почала́ся вели́ка ту́ча, коли́ вони́ пудлетíли пуд хма́ри.
+# variation_text = Тогди́ чорнокни́жник пушо́в вонь ид ша́рканьови, а сів на ньо́го і почала́ся вели́ка ту́ча, коли́ вони́ пудлетíли пуд хма́ри.
+# german_text = Da ging der Zauberer zum Drachen, setzte sich auf ihn und es begann ein Gewitter, als sie sich gegen die Wolken erhoben hatten.
+# english_text = Then the wizard went to the dragon, sat on it, and a thunderstorm began as they rose against the clouds.
+1	Тогди́	тогди	ADV	_	PronType=Dem	0	_	_	wf="Тогди"|tf="toɦdˈɨ"
+2	чорнокни́жник	чорнокнижник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	_	_	wf="чорнокнижник"|tf="ʈ͡ʂʲornoknˈɪ̈ʐnɪ̈k"
+3	пушо́в	пути	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	_	_	wf="пушов"|tf="puʂˈow"
+4	вонь	вонь	PART	_	_	3	_	_	wf="вонь"|tf="vonʲ"
+5	ид	ид	ADP	_	_	4	_	_	wf="ид"|tf="jɪ̞̈t"
+6	ша́рканьови	шарканьова	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	_	_	wf="шарканьови"|tf="ʂɑrkɑnʲovɪ̈"
+7	,	,	PUNCT	_	_	6	_	_	wf=","|tf="//"
+8	а	а	CCONJ	_	_	7	_	_	wf="а"|tf="ɑ"
+9	сів	сісти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	_	_	wf="сів"|tf="sʲiw"
+10	на	на	ADP	_	_	9	_	_	wf="на"|tf="nɑ"
+11	ньо́го	він	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	_	_	wf="нього"|tf="nʲˈoɦo"
+12	і	і	CCONJ	_	_	11	_	_	wf="і"|tf="ˌɪ"
+13	почала́ся	початися	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Fin	12	_	_	wf="почалася"|tf="poʈ͡ʂʲɑlˈɑʂʲɑ"
+14	вели́ка	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	_	_	wf="велика"|tf="velˈɪ̈kɑ"
+15	ту́ча	туч	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	_	_	wf="туча"|tf="tˈuʈ͡ʂɑ"
+16	,	,	PUNCT	_	_	15	_	_	wf=","
+17	коли́	коли	ADV	_	PronType=Rel	16	_	_	wf="коли"|tf="kolˈɪ̈"
+18	вони́	вони	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	_	_	wf="вони"|tf="wonˈɪ̈"
+19	пудлетíли	пудлетіти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	18	_	_	wf="пудлетіли"|tf="pudlecilɪ̈"
+20	пуд	пуд	ADP	_	_	19	_	_	wf="пуд"|tf="put"
+21	хма́ри	хмара	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	_	_	wf="хмари"|tf="xmˈɑrɪ̈"
+22	.	.	PUNCT	_	_	21	_	_	wf="."|tf="//"
+
+# newpar id = LA1451.4
+# sent_id = LA1451.4.1
+# IPA_transcription = nɑ◡krˈɑʈ͡ʂʲun je w◡nɑs tɑkʲɪ̞̈j soktˈɑʂ // ʐe pˌeret◡sʲvjɑtˈow ve̝ʈ͡ʂʲe̝r̠ʲow gˈɑzdɑ pˈujde nɑ◡solˈo̝mu // ɑ ɟˈiwkɑ vˈumɪ̈të̝ xʲˈïʐu ɑ◡toɦdˈɨ nesˈe smicˈɑ kolɪ̈◡gˈɑzdɑ nesˈe solˈo̝mu //
+# standard_text = На кра́чун є у нас таки́й сокта́ш, же перед свято́в вечéрьов ґа́зда пу́йде на соло́му а дíвка ву́мете хи́жу, а тогди́ несé смітя́ коли́ ґа́зда несé соло́му.
+# variation_text = На кра́чун є у нас таки́й сокта́ш, же перед свято́в вечéрьов ґа́зда пу́йде на соло́му а дíвка ву́мете хи́жу, а тогди́ несé смітя́ коли́ ґа́зда несé соло́му.
+# german_text = Zu Weihnachten gibt es bei uns solchen Brauch: vor dem heiligen Abendessen gehr der Hausherr nach dem Stroh, und das Mädchen kehrt das Haus aus und trägt den Kehricht dann heraus, wenn der Hausherr das Stroh hereinträgt.
+# english_text = At Christmas, we have a tradition: before the holy dinner, the master of the house goes for the straw, and the girl sweeps the house and carries out the sweepings when the master of the house brings this straw.
+1	На	на	ADP	_	_	0	_	_	wf="на"|tf="nɑ"
+2	кра́чун	крачун	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	wf="крачун"|tf="krˈɑʈ͡ʂʲun"
+3	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="є"|tf="je"
+4	у	у	ADP	_	_	3	_	_	wf="у"|tf="w"
+5	нас	ми	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	4	_	_	wf="нас"|tf="nɑs"
+6	таки́й	такий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	_	_	wf="такий"|tf="tɑkʲɪ̞̈j"
+7	сокта́ш	сокташ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	_	_	wf="сокташ"|tf="soktˈɑʂ"
+8	,	,	PUNCT	_	_	7	_	_	wf=","|tf="//"
+9	же	же	SCONJ	_	_	8	_	_	wf="же"|tf="ʐe"
+10	перед	перед	ADP	_	_	9	_	_	wf="перед"|tf="pˌeret"
+11	свято́в	святий	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	10	_	_	wf="святов"|tf="sʲvjɑtˈow"
+12	вечéрьов	вечерьов	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	_	_	wf="вечерьов"|tf="ve̝ʈ͡ʂʲe̝r̠ʲow"
+13	ґа́зда	ґазда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	_	_	wf="ґазда"|tf="gˈɑzdɑ"
+14	пу́йде	пуйти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	_	_	wf="пуйде"|tf="pˈujde"
+15	на	на	ADP	_	_	14	_	_	wf="на"|tf="nɑ"
+16	соло́му	солома	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	wf="солому"|tf="solˈo̝mu"
+17	а	а	CCONJ	_	_	16	_	_	wf="а"|tf="ɑ"
+18	дíвка	дівка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	17	_	_	wf="дівка"|tf="ɟˈiwkɑ"
+19	ву́мете	вумати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	_	_	wf="вумете"|tf="vˈumɪ̈të̝"
+20	хи́жу	хижа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	_	_	wf="хижу"|tf="xʲˈïʐu"
+21	,	,	PUNCT	_	_	20	_	_	wf=","
+22	а	а	CCONJ	_	_	21	_	_	wf="а"|tf="ɑ"
+23	тогди́	тогди	ADV	_	_	22	_	_	wf="тогди"|tf="toɦdˈɨ"
+24	несé	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	wf="несе"|tf="nesˈe"
+25	смітя́	смітя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	_	_	wf="смітя"|tf="smicˈɑ"
+26	коли́	коли	ADV	_	PronType=Rel	25	_	_	wf="коли"|tf="kolɪ̈"
+27	ґа́зда	ґазда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	_	_	wf="ґазда"|tf="gˈɑzdɑ"
+28	несé	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	wf="несе"|tf="nesˈe"
+29	соло́му	солома	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	_	_	wf="солому"|tf="solˈo̝mu"
+30	.	.	PUNCT	_	_	29	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.2
+# IPA_transcription = ɟˈiwkɑ zustˈɑne vˈɒ̝ŋkɑ ɪ̞̈◡jˌɑk◡pˈes u◡kˈotromu bˈo̝t͡sʲi zɑɦˈɑwkac // tɑ◡wnˈɑ w◡tˌot◡bˈuk sʲɑ◡oddˈɑsʲc //
+# standard_text = Дíвка зуста́не во́нка і як пéс у ко́трому бо́ці зага́вкать, та она́ в тот бу́к ся одда́сть.
+# variation_text = Дíвка зуста́не во́нка і як пéс у ко́трому бо́ці зага́вкать, та она́ в тот бу́к ся одда́сть.
+# german_text = Das Mädchen bleibt draußen stehen, und wo sie den Hund bellen hört, dort wird sie heiraten.
+# english_text = The girl stays outside, and wherever she hears the dog barking, there she will get married.
+1	Дíвка	дівка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	_	_	wf="дівка"|tf="ɟˈiwkɑ"
+2	зуста́не	зустати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	_	_	wf="зустане"|tf="zustˈɑne"
+3	во́нка	вонка	ADV	_	_	2	_	_	wf="вонка"|tf="vˈɒ̝ŋkɑ"
+4	і	і	CCONJ	_	_	3	_	_	wf="і"|tf="ɪ̞̈"
+5	як	як	SCONJ	_	_	4	_	_	wf="як"|tf="jˌɑk"
+6	пéс	пес	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	_	_	wf="пес"|tf="pˈes"
+7	у	у	ADP	_	_	6	_	_	wf="у"|tf="u"
+8	ко́трому	котрий	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	7	_	_	wf="котрому"|tf="kˈotromu"
+9	бо́ці	бік	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	_	_	wf="боці"|tf="bˈo̝t͡sʲi"
+10	зага́вкать	загавкити	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	9	_	_	wf="загавкать"|tf="zɑɦˈɑwkac"
+11	,	,	PUNCT	_	_	10	_	_	wf=","|tf="//"
+12	та	та	CCONJ	_	_	11	_	_	wf="та"|tf="tɑ"
+13	она́	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	_	_	wf="она"|tf="wnˈɑ"
+14	в	в	ADP	_	_	13	_	_	wf="в"|tf="w"
+15	тот	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	14	_	_	wf="тот"|tf="tˌot"
+16	бу́к	бук	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	wf="бук"|tf="bˈuk"
+17	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	16	_	_	wf="ся"|tf="sʲɑ"
+18	одда́сть	оддати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	_	_	wf="оддасть"|tf="oddˈɑsʲc"
+19	.	.	PUNCT	_	_	18	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.3
+# IPA_transcription = potˈo̝mu dɑdˈuc xudˈobi kolˈɑʈ͡ʂʲ // ʂo◡pˈotruc jɪ̞̈ʐ mˈedom nɑ◡krˈɪ̈ʂ ɪ̈◡zaxpˈɑjuɟ◡do◡nʲˈoɦo trɪ̈ zupkʲˈɪ̞̈ ʈ͡ʂʲesnokˈu // zˈɑto ʐebˈɯ ɪ◡xudˈobɑ znˈɑlɑ ʐɛ̞◡te̝pˈe̝r je◡krˈɑʈ͡ʂʲun //
+# standard_text = Пото́му даду́ть худо́би кола́ч, шо по́труть из мéдом на кри́ж і захпа́ють до ньо́го три зубки́ чесноку́, за́то жеби́ і худо́ба зна́ла, же тепéр є кра́чун.
+# variation_text = Пото́му даду́ть худо́би кола́ч, шо по́труть из мéдом на кри́ж і захпа́ють до ньо́го три зубки́ чесноку́, за́то жеби́ і худо́ба зна́ла, же тепéр є кра́чун.
+# german_text = Dann gibt man dem Vieh ein Kuchenbrot, das man mit Honig bekreuzt und drei Zehen Knoblauch hineintut, damit auch das Vieh davon weiß, daß es jetzt Weihnachten gibt.
+# english_text = Then you give the cattle a cake-like loaf, which you cross with honey and put three cloves of garlic into, so that the cattle also know that it is now Christmas.
+1	Пото́му	потому	ADV	_	_	0	_	_	wf="Потому"|tf="potˈo̝mu"
+2	даду́ть	дати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	_	_	wf="дадуть"|tf="dɑdˈuc"
+3	худо́би	худоба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	_	_	wf="худоби"|tf="xudˈobi"
+4	кола́ч	колач	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	wf="колач"|tf="kolˈɑʈ͡ʂʲ"
+5	,	,	PUNCT	_	_	4	_	_	wf=","|tf="//"
+6	шо	шо	SCONJ	_	_	5	_	_	wf="шо"|tf="ʂo"
+7	по́труть	потрати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	_	_	wf="потруть"|tf="pˈotruc"
+8	из	из	ADP	_	_	7	_	_	wf="из"|tf="jɪ̞̈ʐ"
+9	мéдом	мед	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	_	_	wf="медом"|tf="mˈedom"
+10	на	на	ADP	_	_	9	_	_	wf="на"|tf="nɑ"
+11	кри́ж	криж	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	_	_	wf="криж"|tf="krˈɪ̈ʂ"
+12	і	і	CCONJ	_	_	11	_	_	wf="і"|tf="ɪ̈"
+13	захпа́ють	захпати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	_	_	wf="захпають"|tf="zaxpˈɑjuɟ"
+14	до	до	ADP	_	_	13	_	_	wf="до"|tf="do"
+15	ньо́го	він	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	_	_	wf="нього"|tf="nʲˈoɦo"
+16	три	три	NUM	_	Case=Acc|NumType=Card	15	_	_	wf="три"|tf="trɪ̈"
+17	зубки́	зубок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	_	_	wf="зубки"|tf="zupkʲˈɪ̞̈"
+18	чесноку́	чеснок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	_	_	wf="чесноку"|tf="ʈ͡ʂʲesnokˈu
+19	,	,	PUNCT	_	_	18	_	_	wf=","|tf="//"
+20	за́то	зато	SCONJ	_	_	19	_	_	wf="зато"|tf="zˈɑto"
+21	жеби́	жеби	SCONJ	_	_	20	_	_	wf="жеби"|tf="ʐebˈɯ"
+22	і	і	CCONJ	_	_	21	_	_	wf="і"|tf="ɪ"
+23	худо́ба	худоба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	_	_	wf="худоба"|tf="xudˈobɑ"
+24	зна́ла	знати	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	23	_	_	wf="знала"|tf="znˈɑlɑ"
+25	,	,	PUNCT	_	_	24	_	_	wf=","
+26	же	же	SCONJ	_	_	25	_	_	wf="же"|tf="ʐɛ̞"
+27	тепéр	тепер	ADV	_	PronType=Dem	26	_	_	wf="тепер"|tf="te̝pˈe̝r"
+28	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	wf="є"|tf="je"
+29	кра́чун	крачун	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	_	_	wf="крачун"|tf="krˈɑʈ͡ʂʲun"
+30	.	.	PUNCT	_	_	29	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.4
+# IPA_transcription = gˈɑzdɑ rospeʈ͡ʂʲˈe ʐeḻʲiznɪ̈j roʐˈen // ɑ ulˈɑpyc psɑ i◡wˈupeʈ͡ʂʲe◡mu ps nɑ◡ʈ͡ʂʲoḻʲˈi krɪ̈ʂ ɪ̈s◡tˈɨm roʐʲnʲˈom // zˈɑto ʐebˈɨ◡sʲɑ pˈes nˈɪ̈gdɑ ne◡zbˈisɨw //
+# standard_text = Ґа́зда розпечé желíзний рожéн а ула́пить пса і ву́пече му (пс) на чолí криж из тим рожньо́м, за́то жеби́ ся пéс ни́гда не збíсив.
+# variation_text = Ґа́зда розпечé желíзний рожéн а ула́пить пса і ву́пече му (пс) на чолí криж из тим рожньо́м, за́то жеби́ ся пéс ни́гда не збíсив.
+# german_text = Der Hausherr macht den Eisenspieß glühend, fängt den Hund und drückt ihm mit diesem Spieß ein Kreuz auf die Stirn, damit er niemals toll wird.
+1	Ґа́зда	ґазда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	_	_	wf="Ґазда"|tf="gˈɑzdɑ"
+2	розпечé	розпечати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	_	_	wf="розпече"|tf="rospeʈ͡ʂʲˈe"
+3	желíзний	желізний	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	wf="желізний"|tf="ʐeḻʲiznɪ̈j"
+4	рожéн	рожно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	_	_	wf="рожен"|tf="roʐˈen"
+5	а	а	CCONJ	_	_	4	_	_	wf="а"|tf="ɑ"
+6	ула́пить	улапити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	_	_	wf="улапить"|tf="ulˈɑpyc"
+7	пса	пес	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	_	_	wf="пса"|tf="psɑ"
+8	і	і	CCONJ	_	_	7	_	_	wf="і"|tf="i"
+9	ву́пече	вупіти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	_	_	wf="вупече"|tf="wˈupeʈ͡ʂʲe"
+10	му	му	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	_	_	wf="му"|tf="mu"
+11	(	(	PUNCT	_	_	10	_	_	wf="("
+12	пс	пс	X	_	Fragment=Yes	11	_	_	wf="пс"|tf="ps"
+13	)	)	PUNCT	_	_	12	_	_	wf=")"
+14	на	на	ADP	_	Case=Loc	13	_	_	wf="на"|tf="nɑ"
+15	чолí	чоло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	_	_	wf="чолі"|tf="ʈ͡ʂʲoḻʲˈi"
+16	криж	криж	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	_	_	wf="криж"|tf="krɪ̈ʂ"
+17	из	из	ADP	_	_	16	_	_	wf="из"|tf="ɪ̈s"
+18	тим	той	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	17	_	_	wf="тим"|tf="tˈɨm"
+19	рожньо́м	рожній	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	_	_	wf="рожньом"|tf="roʐʲnʲˈom"
+20	,	,	PUNCT	_	_	19	_	_	wf=","|tf="//"
+21	за́то	зато	SCONJ	_	_	20	_	_	wf="зато"|tf="zˈɑto"
+22	жеби́	жеби	SCONJ	_	_	21	_	_	wf="жеби"|tf="ʐebˈɨ"
+23	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	_	_	wf="ся"|tf="sʲɑ"
+24	пéс	пес	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	_	_	wf="пес"|tf="pˈes"
+25	ни́гда	нигда	ADV	_	PronType=Neg	24	_	_	wf="нигда"|tf="nˈɪ̈gdɑ"
+26	не	не	PART	_	Polarity=Neg	25	_	_	wf="не"|tf="ne"
+27	збíсив	збісити	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	26	_	_	wf="збісив"|tf="zbˈisɨw"
+28	.	.	PUNCT	_	_	27	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.5
+# IPA_transcription = pˌeret krˈɑʈ͡ʂʲunom kolˈɪ̈◡ʐˈonɪ̈ peʈ͡ʂʲˈuc kolˈɑʈ͡ʂʲ ɟˈitɪ̈ sʲɑ zubˈujuc // ɪ̈◡jˌɑk◡uʐˈe wʂˈɪ̈tkɔ vˈubrɑlï s◡pˈet͡sɑ // klɑdˈuc ɟˈitɪ̈ bˈosʲɪ nˈoɦɪ̈ nɑ◡ʈ͡ʂʲˈe̝ḻʲustɪ̈ ʐebˈɨ jˈim sʲɑ // nˈoɦï në̝◡zbɪ̈rˈɑlɪ̈ //
+# standard_text = Пéред кра́чуном коли́ жо́ни печу́ть кола́ч, дíти ся зубу́ють і як уже вши́тко ву́брали з пéца, кладу́ть дíти бо́сі но́ги на чéлюсти, жеби́ їм ся но́ги не збира́ли.
+# variation_text = Пéред кра́чуном коли́ жо́ни печу́ть кола́ч, дíти ся зубу́ють і як уже вши́тко ву́брали з пéца, кладу́ть дíти бо́сі но́ги на чéлюсти, жеби́ їм ся но́ги не збира́ли.
+# german_text = Vor Weihnachten, wenn die Frauen Kuchen backen und alles aus dem Ofen herausgenommen haben, ziehen die Kinder ihre Schuhe aus und legen die nackten Fuße auf den Rand des Backofens, damit ihre Füße nicht krank werden.
+# english_text = Before Christmas, when the women have baked cakes and taken everything out of the oven, the children take off their shoes and place their bare feet on the edge of the oven so that their feet do not get sick.
+1	Пéред	перед	ADP	_	_	0	_	_	wf="Перед"|tf="pˌeret"
+2	кра́чуном	крачун	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	_	_	wf="крачуном"|tf="krˈɑʈ͡ʂʲunom"
+3	коли́	коли	ADV	_	PronType=Rel	2	_	_	wf="коли"|tf="kolˈɪ̈"
+4	жо́ни	жона	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	_	_	wf="жони"|tf="ʐˈonɪ̈"
+5	печу́ть	пекати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	wf="печуть"|tf="peʈ͡ʂʲˈuc"
+6	кола́ч	колач	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	_	_	wf="колач"|tf="kolˈɑʈ͡ʂʲ"
+7	,	,	PUNCT	_	_	6	_	_	wf=","
+8	дíти	дитина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	7	_	_	wf="діти"|tf="ɟˈitɪ̈"
+9	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	8	_	_	wf="ся"|tf="sʲɑ"
+10	зубу́ють	зубувати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	wf="зубують"|tf="zubˈujuc"
+11	і	і	CCONJ	_	_	10	_	_	wf="і"|tf="ɪ̈"
+12	як	як	ADV	_	PronType=Rel	11	_	_	wf="як"|tf="jˌɑk"
+13	уже	уже	ADV	_	_	12	_	_	wf="уже"|tf="uʐˈe"
+14	вши́тко	вшитко	ADV	_	PronType=Tot	13	_	_	wf="вшитко"|tf="wʂˈɪ̈tkɔ"
+15	ву́брали	вубрати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	14	_	_	wf="вубрали"|tf="vˈubrɑlï"
+16	з	з	ADP	_	_	15	_	_	wf="з"|tf="s"
+17	пéца	пецо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	_	_	wf="пеца"|tf="pˈet͡sɑ"
+18	,	,	PUNCT	_	_	17	_	_	wf=","|tf="//"
+19	кладу́ть	класти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	wf="кладуть"|tf="klɑdˈuc"
+20	дíти	дитина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	19	_	_	wf="діти"|tf="ɟˈitɪ̈"
+21	бо́сі	босий	ADJ	_	Animacy=Inan|Case=Acc|Number=Plur	20	_	_	wf="босі"|tf="bˈosʲɪ"
+22	но́ги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	21	_	_	wf="ноги"|tf="nˈoɦɪ̈"
+23	на	на	ADP	_	_	22	_	_	wf="на"|tf="nɑ"
+24	чéлюсти	челюст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	23	_	_	wf="челюсти"|tf="ʈ͡ʂʲˈe̝ḻʲustɪ̈"
+25	,	,	PUNCT	_	_	24	_	_	wf=","
+26	жеби́	жеби	SCONJ	_	_	25	_	_	wf="жеби"|tf="ʐebˈɨ"
+27	їм	вони	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	26	_	_	wf="їм"|tf="jˈim"
+28	ся	ся	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	27	_	_	wf="ся"|tf="sʲɑ"
+29	но́ги	нога	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	28	_	_	wf="ноги"|tf="nˈoɦï"
+30	не	не	PART	_	Polarity=Neg	29	_	_	wf="не"|tf="në̝"
+31	збира́ли	збирати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	30	_	_	wf="збирали"|tf="zbɪ̈rˈɑlɪ̈"
+32	.	.	PUNCT	_	_	31	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.6
+# IPA_transcription = nɑ◡sʲjɑtˈɪ̈j wˈe̝ʈ͡ʂʲur dowkˈolɑ stolˈɑ objˈɑʐuc◡ʐeḻʲiznɪ̈j lˈɑnt͡s // ɑ◡nɑ◡nʲˈum ɟˈitɪ̈ klɑdˈuc nˈoɦɪ̈ // ʐebˈɨ tɑkʲˈi bˈulɪ̈ mut͡snʲˈi // jɑk◡tot◡lˈɑnt͡s //
+# standard_text = На святи́й вéчур довко́ла стола́ обвя́жуть желíзний ла́нц, а на ню́м дíти кладу́ть но́ги, жеби́ такí бу́ли муцнí, як тот ла́нц.
+# variation_text = На святи́й вéчур довко́ла стола́ обвя́жуть желíзний ла́нц, а на ню́м дíти кладу́ть но́ги, жеби́ такí бу́ли муцнí, як тот ла́нц.
+# german_text = Am heiligen Abend bindet man rings um den Tisch eine eiserne Kette und die Kinder legen ihre Füße darauf, damit sie so stark werden wie diese Kette.
+# english_text = On Christmas Eve, an iron chain is tied around the table and the children place their feet on it so that they will become as strong as this chain.
+1	На	на	ADP	_	_	0	_	_	wf="На"|tf="nɑ"
+2	святи́й	святий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	_	_	wf="святий"|tf="sʲjɑtˈɪ̈j"
+3	вéчур	вечур	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	_	_	wf="вечур"|tf="wˈe̝ʈ͡ʂʲur"
+4	довко́ла	довкола	ADP	_	_	3	_	_	wf="довкола"|tf="dowkˈolɑ"
+5	стола́	стіл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	_	_	wf="стола"|tf="stolˈɑ"
+6	обвя́жуть	обвязати	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	_	_	wf="обвяжуть"|tf="objˈɑʐuc"
+7	желíзний	желізний	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	_	_	wf="желізний"|tf="ʐeḻʲiznɪ̈j"
+8	ла́нц	ланц	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	_	_	wf="ланц"|tf="lˈɑnt͡s"
+9	,	,	PUNCT	_	_	8	_	_	wf=","|tf="//"
+10	а	а	CCONJ	_	_	9	_	_	wf="а"|tf="ɑ"
+11	на	на	ADP	_	_	10	_	_	wf="на"|tf="nɑ"
+12	ню́м	він	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	_	_	wf="нюм"|tf="nʲˈum"
+13	дíти	дитина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	12	_	_	wf="діти"|tf="ɟˈitɪ̈"
+14	кладу́ть	класти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	wf="кладуть"|tf="klɑdˈuc"
+15	но́ги	нога	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	_	_	wf="ноги"|tf="nˈoɦɪ̈"
+16	,	,	PUNCT	_	_	15	_	_	wf=","|tf="//"
+17	жеби́	жеби	SCONJ	_	_	16	_	_	wf="жеби"|tf="ʐebˈɨ"
+18	такí	такий	DET	_	Case=Nom|Number=Plur|PronType=Dem	17	_	_	wf="такі"|tf="tɑkʲˈi"
+19	бу́ли	бути	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	18	_	_	wf="були"|tf="bˈulɪ̈"
+20	муцнí	муцний	ADJ	_	Case=Nom|Number=Plur	19	_	_	wf="муцні"|tf="mut͡snʲˈi"
+21	,	,	PUNCT	_	_	20	_	_	wf=","|tf="//"
+22	як	як	SCONJ	_	_	21	_	_	wf="як"|tf="jɑk"
+23	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	22	_	_	wf="тот"|tf="tot"
+24	ла́нц	ланц	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	_	_	wf="ланц"|tf="lˈɑnt͡s"
+25	.	.	PUNCT	_	_	24	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.7
+# IPA_transcription = ɟiwkˈɪ̞̈ berˈuc ɪ̈sːolˈomɪ̈ ʂo◡jˈe w◡ʔxʲˈïʐi ɑ◡nɑ◡pˈuwnuʈ͡ʂʲ jɪ̞̈dˈuc do◡t͡serkvɪ̈ // ˌɑ◡zɑ◡sobˈo̝w puʂʈ͡ʂˈɑjuc po◡jednˈu solˈo̝mku // zˈɑto ʐebˈɨ mˈɑlɪ̈ vˈe̝ḻʲo svɑtɑʈ͡ʂʲiw //
+# standard_text = Дівки́ беру́ть из соло́ми, шо є в хи́жі а на пу́внуч иду́ть до цéркви, а за собо́в пуща́ють по єдну́ соло́мку, за́то жеби́ ма́ли вéльо сватачíв.
+# variation_text = Дівки́ беру́ть из соло́ми, шо є в хи́жі а на пу́внуч иду́ть до цéркви, а за собо́в пуща́ють по єдну́ соло́мку, за́то жеби́ ма́ли вéльо сватачíв.
+# german_text = Mädchen nehmen Stroh, das in der Wohnung liegt, und während sie um Mitternacht in die Kirche gehen, lassen sie einzelne Strohhalme fallen, damit sie viele Heiratsbewerber haben.
+# english_text = Girls take straw that is lying in the apartment, and while they go to church at midnight, they drop individual straws so that they will have many suitors.
+1	Дівки́	дівка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	0	_	_	wf="Дівки"|tf="ɟiwkˈɪ̞̈"
+2	беру́ть	брати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="беруть"|tf="berˈuc"
+3	из	из	ADP	_	_	2	_	_	wf="из"|tf="ɪ̈s"
+4	соло́ми	солома	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	_	_	wf="соломи"|tf="solˈomɪ̈"
+5	,	,	PUNCT	_	_	4	_	_	wf=","
+6	шо	шо	SCONJ	_	_	5	_	_	wf="шо"|tf="ʂo"
+7	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	wf="є"|tf="jˈe"
+8	в	в	ADP	_	_	7	_	_	wf="в"|tf="w"
+9	хи́жі	хижа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	_	_	wf="хижі"|tf="ʔxʲˈïʐi"
+10	а	а	CCONJ	_	_	9	_	_	wf="а"|tf="ɑ"
+11	на	на	ADP	_	_	10	_	_	wf="на"|tf="nɑ"
+12	пу́внуч	пувнуч	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	_	_	wf="пувнуч"|tf="pˈuwnuʈ͡ʂʲ"
+13	иду́ть	ити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	12	_	_	wf="идуть"|tf="jɪ̞̈dˈuc"
+14	до	до	ADP	_	_	13	_	_	wf="до"|tf="do"
+15	цéркви	церква	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	_	_	wf="церкви"|tf="t͡serkvɪ̈"
+16	,	,	PUNCT	_	_	15	_	_	wf=","|tf="//"
+17	а	а	CCONJ	_	_	16	_	_	wf="а"|tf="ˌɑ"
+18	за	за	ADP	_	_	17	_	_	wf="за"|tf="zɑ"
+19	собо́в	собов	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	_	_	wf="собов"|tf="sobˈo̝w"
+20	пуща́ють	пущати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	_	_	wf="пущають"|tf="puʂʈ͡ʂˈɑjuc"
+21	по	по	ADP	_	_	20	_	_	wf="по"|tf="po"
+22	єдну́	єдний	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	21	_	_	wf="єдну"|tf="jednˈu"
+23	соло́мку	соломка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	_	_	wf="соломку"|tf="solˈo̝mku"
+24	,	,	PUNCT	_	_	23	_	_	wf=","|tf="//"
+25	за́то	зато	SCONJ	_	_	24	_	_	wf="зато"|tf="zˈɑto"
+26	жеби́	жеби	SCONJ	_	_	25	_	_	wf="жеби"|tf="ʐebˈɨ"
+27	ма́ли	мати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	26	_	_	wf="мали"|tf="mˈɑlɪ̈"
+28	вéльо	вельо	ADV	_	Degree=Pos	27	_	_	wf="вельо"|tf="vˈe̝ḻʲo"
+29	сватачíв	сватач	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	28	_	_	wf="сватачів"|tf="svɑtɑʈ͡ʂʲiw"
+30	.	.	PUNCT	_	_	29	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.8
+# IPA_transcription = nɑːndrˈijɑ nɑrˈoblʲɑc ɟiwkˈɪ̞̈ kɑrtkʲˈɪ̞̈ ɪ̞̈ nɑpˈɪ̈ʂuc nɑ◡kˈɑʐdu kˈɑrtku jednˈoj xlˈopsʲkoj jɪ̞̈mnʲˈɑ // ɪ̈◡zɑḻʲˈipḻʲɑtːocˈi kɑrtkʲˈɪ̞̈ do◡pɪrˈox // ɑ◡koḻʲɪ̈ jiɟˈɑc tɑkːˈoʐdɑ tɑkˈoɦo bˈude mˈɑtɪ̈ gˈɑzdu // po◡jɪ̈mnʲˈovɪ̈ jɑk◡nɑ◡tˈuj kˈɑrtkʲe //
+# standard_text = На Андрíя наро́блять дівки́ картки́ і напи́шуть на ка́жду ка́ртку єдно́й хло́пськой имня́ і залíплять тотí картки́ до пиро́г, а коли їдя́ть, так ко́жда тако́го бу́де ма́ти ґа́зду по имньо́ви, як на ту́й ка́ртке.
+# variation_text = На Андрíя наро́блять дівки́ картки́ і напи́шуть на ка́жду ка́ртку єдно́й хло́пськой имня́ і залíплять тотí картки́ до пиро́г, а коли їдя́ть, так ко́жда тако́го бу́де ма́ти ґа́зду по имньо́ви, як на ту́й ка́ртке.
+# german_text = Am Tage des hl. Andreas machen die Mädchen Zettel, auf jeden Zettel schreiben sie einen mähnlichen Vornamen, diese Zettel tun sie in die gefüllten Maultaschen, und wenn sie sie essen, so wird jede einen Mann mit dem Vornamen haben, der auf dem Zettel steht.
+# english_text = On St. Andrew's Day, the girls make slips of paper, on each slip they write a m-like first name, these slips they put into the filled dumplings, and when they eat them, each will have a husband with the first name written on the slip of paper.
+1	На	на	ADP	_	_	0	_	_	wf="На"|tf="nɑ"
+2	Андрíя	Андрій	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	1	_	_	wf="Андрія"|tf="ɑndrˈijɑ"
+3	наро́блять	наробити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	_	_	wf="нароблять"|tf="nɑrˈoblʲɑc"
+4	дівки́	дівка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	_	_	wf="дівки"|tf="ɟiwkˈɪ̞̈"
+5	картки́	картка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	_	_	wf="картки"|tf="kɑrtkʲˈɪ̞̈"
+6	і	і	CCONJ	_	_	5	_	_	wf="і"|tf="ɪ̞̈"
+7	напи́шуть	написати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	wf="напишуть"|tf="ɑpˈɪ̈ʂuc"
+8	на	на	ADP	_	_	7	_	_	wf="на"|tf="nɑ"
+9	ка́жду	каждий	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	_	_	wf="кажду|tf="kˈɑʐdu"
+10	ка́ртку	картка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	_	_	wf="картку"|tf="kˈɑrtku"
+11	єдно́й	єдин	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	10	_	_	wf="єдной"|tf="jednˈoj"
+12	хло́пськой	хлопський	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	11	_	_	wf="хлопськой"|tf="xlˈopsʲkoj"
+13	имня́	жмня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	_	_	wf="имня"|tf="jɪ̞̈mnʲˈɑ"
+14	і	і	CCONJ	_	_	13	_	_	wf="і"|tf="ɪ̈"
+15	залíплять	заліпити	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	_	_	wf="заліплять"|tf="zɑḻʲˈipḻʲɑc"
+16	тотí	тот	DET	_	Case=Acc|Number=Plur|PronType=Dem	15	_	_	wf="тоті"|tf="tocˈi"
+17	картки́	картка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	_	_	wf="картки"|tf="kɑrtkʲˈɪ̞̈"
+18	до	до	ADP	_	_	17	_	_	wf="до"|tf="do"
+19	пиро́г	пир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	_	_	wf="пирог"|tf="pɪrˈox"
+20	,	,	PUNCT	_	_	19	_	_	wf=","|tf="//"
+21	а	а	CCONJ	_	_	20	_	_	wf="а"|tf="ɑ"
+22	коли	коли	ADV	_	PronType=Rel	21	_	_	wf="коли"|tf="koḻʲɪ̈"
+23	їдя́ть	їсти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	_	_	wf="їдять"|tf="jiɟˈɑc"
+24	,	,	PUNCT	_	_	23	_	_	wf=","|tf="//"
+25	так	так	ADV	_	PronType=Dem	24	_	_	wf="так"|tf="tɑk"
+26	ко́жда	кождий	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	25	_	_	wf="кожда"|tf="kˈoʐdɑ"
+27	тако́го	такий	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	26	_	_	wf="такого"|tf="tɑkˈoɦo"
+28	бу́де	бути	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	27	_	_	wf="буде"|tf="bˈude"
+29	ма́ти	мати	VERB	_	Aspect=Imp|VerbForm=Inf	28	_	_	wf="мати"|tf="mˈɑtɪ̈"
+30	ґа́зду	ґазда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	_	_	wf="ґазду"|tf="gˈɑzdu"
+31	по	по	ADP	_	_	30	_	_	wf="по"|tf="po"
+32	имньо́ви	омньова	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	31	_	_	wf="имньови"|tf="jɪ̈mnʲˈovɪ̈"
+33	,	,	PUNCT	_	_	32	_	_	wf=","
+34	як	як	SCONJ	_	_	33	_	_	wf="як"|tf="jɑk"
+35	на	на	ADP	_	_	34	_	_	wf="на"|tf="nɑ"
+36	ту́й	туй	DET	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	35	_	_	wf="туй"|tf="tˈuj"
+37	ка́ртке	картке	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	36	_	_	wf="картке"|tf="kˈɑrtkʲe"
+38	.	,	PUNCT	_	_	37	_	_	wf=","|tf="//"
+
+# sent_id = LA1451.4.9
+# IPA_transcription = nɑ◡mɪ̈kˈolɪ̈ ʈ͡ʂʲɪ̈tˈɑjuc ɟiwkˈɪ̞̈ // po◡plˈocˈi kolˈɪ̈ //
+# standard_text = На Мико́ли чита́ють дівки́ по пло́ті ко́ли.
+# variation_text = На Мико́ли чита́ють дівки́ по пло́ті ко́ли.
+# german_text = Am Tage des hl. Nikolaus zählen Mädchen die Pfähle.
+# english_text = On St. Nicholas' Day, girls count the stakes.
+1	На	на	ADP	_	_	0	_	_	wf="На"|tf="nɑ"
+2	Мико́ли	Микола	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|NameType=Giv|Number=Sing	1	_	_	wf="Миколи"|tf="mɪ̈kˈolɪ̈"
+3	чита́ють	читати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="читають"|tf="ʈ͡ʂʲɪ̈tɑjuc"
+4	дівки́	дівка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	_	_	wf="дівки"|tf="ɟiwkˈɪ̞̈"
+5	по	по	ADP	_	_	4	_	_	wf="по"|tf="po"
+6	пло́ті	плоть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	_	_	wf="плоті"|tf="plˈocˈi"
+7	ко́ли	коли	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	wf="коли"|tf="kolˈɪ̈"
+8	.	.	PUNCT	_	_	7	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.10
+# IPA_transcription = ɟiwkˈï ɪ̞̈dˈuc uʐˌe◡skˈoro◡rˈɑno ʈ͡ʂʲɪ̈tˈɑtɪ̈ kolˈɪ̈ //
+# standard_text = Дівки́ иду́ть ужé ско́ро ра́но чита́ти ко́ли.
+# variation_text = Дівки́ иду́ть ужé ско́ро ра́но чита́ти ко́ли.
+# german_text = Die Mädchen gehen schon ziemlich früh, die Pfähle zu zahlen.
+# english_text = The girls go quite early to pay for the stakes.
+1	Дівки́	дівка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	0	_	_	wf="Дівки"|tf="ɟiwkˈï"
+2	иду́ть	ити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="идуть"|tf="ɪ̞̈dˈuc"
+3	ужé	уже	ADV	_	_	2	_	_	wf="уже"|tf="uʐˌe"
+4	ско́ро	скоро	ADV	_	Degree=Pos	3	_	_	wf="скоро"|tf="skˈoro"
+5	ра́но	рано	ADV	_	Degree=Pos	4	_	_	wf="рано"|tf="rˈɑno"
+6	чита́ти	читати	VERB	_	Aspect=Imp|VerbForm=Inf	5	_	_	wf="читати"|tf="ʈ͡ʂʲɪ̈tˈɑtɪ̈"
+7	ко́ли	коли	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	_	_	wf="коли"|tf="kolˈɪ̈"
+8	.	.	PUNCT	_	_	7	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.4.11 - LA1451.4.12
+# IPA_transcription = onˈɪ̈ ʈ͡ʂʲɪ̈tˈɑjuc tɑk // ne◡jedˈen // në̝◡dvˈɑ në̝◡trˈɪ̈ në̝◡ʈ͡ʂʲotˈɪ̈rɪ̈ në̝◡pjˈɑc në̝◡ʂˈisc në̝◡sʲˈim në̝◡wˈusʲam në̝◡dˈe̝vjɑc // ɑ◡de̝vjˈɑtɪ̈j jɑkˈɪ̈jsʲɑ◡juj upˈɑde t͡sɪ̈◡krˈɨvɪ̈j t͡sɪ̈◡sprˈostɪ̈j // tɑ◡tɑkˈïj bˈude jɪ̞jˈï gˈɑzdɑ //
+# standard_text = Они́ чита́ють так: не єдéн, не два́, не три́, не чоти́ри, не п'я́ть, не шíсть, не сíм, не ву́сім, не дéв'ять, а дев'я́тій яки́йся юй упа́де, ци кри́вій, ци спро́стий та таки́й бу́де єї́ ґа́зда.
+# variation_text = Они́ чита́ють так: не єдéн, не два́, не три́, не чоти́ри, не п'я́ть, не шíсть, не сíм, не ву́сім, не дéв'ять, а дев'я́тій яки́йся юй упа́де, ци кри́вій, ци спро́стий та таки́й бу́де єї́ ґа́зда.
+# german_text = Sie zählen so: Nicht ein, nicht zwei, nicht drei, nicht vier, nicht fünf, nicht sechs, nicht sieben, nicht acht, nicht neun, un dwenn der neunte, der ihr zufällt, schief oder gerade ist, so wird auch ihr Mann sein.
+# english_text = They count like this: Not one, not two, not three, not four, not five, not six, not seven, not eight, not nine, and if the ninth one that falls to her (whether he is crooked or straight), then that will be her husband.
+1	Они́	они	PART	_	_	0	_	_	wf="Они"|tf="onˈɪ̈"
+2	чита́ють	читати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="читають"|tf="ʈ͡ʂʲɪ̈tˈɑjuc"
+3	так	так	ADV	_	PronType=Dem	2	_	_	wf="так"|tf="tɑk"
+4	:	:	PUNCT	_	_	3	_	_	wf=":"|tf="//"
+5	не	не	PART	_	Polarity=Neg	4	_	_	wf="не"|tf="ne"
+6	єдéн	єден	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	_	_	wf="єден"|tf="jedˈen"
+7	,	,	PUNCT	_	_	6	_	_	wf=","|tf="//"
+8	не	і	PART	_	Polarity=Neg	7	_	_	wf="і"|tf="në̝"
+9	два́	два	NUM	_	Case=Nom|Gender=Masc|NumType=Card	8	_	_	wf="два"|tf="dvˈɑ"
+10	,	,	PUNCT	_	_	9	_	_	wf=","
+11	не	не	PART	_	Polarity=Neg	10	_	_	wf="не"|tf="në̝"
+12	три́	три	NUM	_	Case=Nom|NumType=Card	11	_	_	wf="три"|tf="trˈɪ̈"
+13	,	,	PUNCT	_	_	12	_	_	wf=","
+14	не	не	PART	_	Polarity=Neg	13	_	_	wf="не"|tf="në̝"
+15	чоти́ри	чотири	NUM	_	Case=Nom|NumType=Card	14	_	_	wf="чотири"|tf="ʈ͡ʂʲotˈɪ̈rɪ̈"
+16	,	,	PUNCT	_	_	15	_	_	wf=","
+17	не	не	PART	_	Polarity=Neg	16	_	_	wf="не"|tf="në̝"
+18	п'я́ть	п’ять	NUM	_	Case=Nom|NumType=Card	17	_	_	wf="п'ять"|tf="pjˈɑc"
+19	,	,	PUNCT	_	_	18	_	_	wf=","
+20	не	не	PART	_	Polarity=Neg	19	_	_	wf="не"|tf="në̝"
+21	шíсть	шість	NUM	_	Case=Nom|NumType=Card	20	_	_	wf="шість"|tf="ʂˈisc"
+22	,	,	PUNCT	_	_	21	_	_	wf=","
+23	не	не	PART	_	Polarity=Neg	22	_	_	wf="не"|tf="në̝"
+24	сíм	сім	NUM	_	Case=Nom|NumType=Card	23	_	_	wf="сім"|tf="sʲˈim"
+25	,	,	PUNCT	_	_	24	_	_	wf=","
+26	не	не	PART	_	Polarity=Neg	25	_	_	wf="не"|tf="në̝"
+27	ву́сім	вусім	NUM	_	Case=Nom|NumType=Card	26	_	_	wf="вусім"|tf="wˈusʲam"
+28	,	,	PUNCT	_	_	27	_	_	wf=","
+29	не	не	PART	_	Polarity=Neg	28	_	_	wf="не"|tf="në̝"
+30	дéв'ять	дев’ять	NUM	_	Case=Nom|NumType=Card	29	_	_	wf="дев'ять"|tf="dˈe̝vjɑc"
+31	,	,	PUNCT	_	_	30	_	_	wf=","|tf="//"
+32	а	а	CCONJ	_	_	31	_	_	wf="а"|tf="ɑ"
+33	дев'я́тій	дев’ятий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	32	_	_	wf="дев'ятій"|tf="de̝vjˈɑtɪ̈j"
+34	яки́йся	якийся	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	33	_	_	wf="якийся"|tf="jɑkˈɪ̈jsʲɑ"
+35	юй	вона	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	_	_	wf="юй"|tf="juj"
+36	упа́де	упасти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	35	_	_	wf="упаде"|tf="upˈɑde"
+37	,	,	PUNCT	_	_	36	_	_	wf=","
+38	ци	ци	CCONJ	_	_	37	_	_	wf="ци"|tf="t͡sɪ̈"
+39	кри́вій	крива	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	38	_	_	wf="кривій"|tf="krˈɨvɪ̈j"
+40	,	,	PUNCT	_	_	39	_	_	wf=","
+41	ци	ци	CCONJ	_	_	40	_	_	wf="ци"|tf="t͡sɪ̈"
+42	спро́стий	спростий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	41	_	_	wf="спростий"|tf="sprˈostɪ̈j"
+43	,	,	PUNCT	_	_	42	_	_	wf=","|tf="//"
+44	та	та	CCONJ	_	_	43	_	_	wf="та"|tf="tɑ"
+45	таки́й	такий	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	44	_	_	wf="такий"|tf="tɑkˈïj"
+46	бу́де	бути	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	45	_	_	wf="буде"|tf="bˈude"
+47	єї́	єї	DET	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	46	_	_	wf="єї"|tf="jɪ̞jˈï"
+48	ґа́зда	ґазда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	47	_	_	wf="ґазда"|tf="gˈɑzdɑ"
+49	.	.	PUNCT	_	_	48	_	_	wf="."|tf="//"
+
+# newpar id = LA1451.5
+# sent_id = LA1451.5.1
+# IPA_transcription = ʔu◡nˈɑs u◡vˈɑroʂɪ̈ wsˈe◡rˈɑs nɑ◡mˈisʲɑt͡sʲ je◡velˈɪ̈kɪ̈◡jˈɑrmɑrok // ɑ◡kˈɑʐdɪ̈j tˈɨʐde̝nʲ je mɑlˈɪ̈j //
+# standard_text = У на́с у ва́роши всé ра́з на мíсяць є вели́кий я́рмарок, а ка́ждий ти́ждень є мали́й.
+# variation_text = У на́с у ва́роши всé ра́з на мíсяць є вели́кий я́рмарок, а ка́ждий ти́ждень є мали́й.
+# german_text = Bei uns in der Stadt gibt es einmal im Monat einen großen Jahrmarkt und jede Woche einen kleinen.
+# english_text = In our town, we have a large fair once a month and a small one every week.
+1	У	у	ADP	_	_	0	_	_	wf="У"|tf="ʔu"
+2	на́с	ми	PRON	_	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	1	_	_	wf="нас"|tf="nˈɑs"
+3	у	у	ADP	_	_	2	_	_	wf="у"|tf="nu"
+4	ва́роши	варош	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	_	_	wf="вароши"|tf="vˈɑroʂɪ̈"
+5	всé	все	ADV	_	PronType=Tot	4	_	_	wf="все"|tf="wsˈe"
+6	ра́з	раз	ADV	_	_	5	_	_	wf="раз"|tf="rˈɑs"
+7	на	на	ADP	_	_	6	_	_	wf="на"|tf="nɑ"
+8	мíсяць	місяць	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	_	_	wf="місяць"|tf="mˈisʲɑt͡sʲ"
+9	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	wf="є"|tf="je"
+10	вели́кий	великий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	_	_	wf="великий"|tf="velˈɪ̈kɪ̈"
+11	я́рмарок	ярмарка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	_	_	wf="ярмарок"|tf="jˈɑrmɑrok"
+12	,	,	PUNCT	_	_	11	_	_	wf=","|tf="//"
+13	а	а	CCONJ	_	_	12	_	_	wf="а"|tf="ɑ"
+14	ка́ждий	каждий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	_	_	wf="каждий"|tf="kˈɑʐdɪ̈j"
+15	ти́ждень	тиждень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	_	_	wf="тиждень"|tf="tˈɨʐde̝nʲ"
+16	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	wf="є"|tf="je"
+17	мали́й	малий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	_	_	wf="малий"|tf="mɑlˈɪ̈j"
+18	.	.	PUNCT	_	_	17	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.5.2
+# IPA_transcription = u◡sˈeredu je◡jˈɑrmɑrok nɑ◡svˈinʲi u◡ʈ͡ʂʲe̝tvˈer̠ʲ nɑ◡ɪ̈nʂˈɑku xudˈo̝bu ɑ◡w◡pjˈɑtnɪ̈t͡sʲu nɑ◡sʲˈino //
+# standard_text = У сéреду є я́рмарок на свíні, у четвéрь на инша́ку худо́бу, а в пя́тницю на сíно.
+# variation_text = У сéреду є я́рмарок на свíні, у четвéрь на инша́ку худо́бу, а в пя́тницю на сíно.
+# german_text = Am Mittwoch gibt es einen Jahrmarkt für Schweine, am Donnerstag für anderes Vieh und am Freitag für Heu.
+# english_text = On Wednesday there is a fair for pigs, on Thursday for other livestock, and on Friday for hay.
+1	У	у	ADP	_	_	0	_	_	wf="У"|tf="u"
+2	сéреду	середа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	_	_	wf="середу"|tf="sˈeredu"
+3	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="є"|tf="je"
+4	я́рмарок	ярмарка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	_	_	wf="ярмарок"|tf="jˈɑrmɑrok"
+5	на	на	ADP	_	_	4	_	_	wf="на"|tf="nɑ"
+6	свíні	свіня	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	5	_	_	wf="свіні"|tf="svˈinʲi"
+7	,	,	PUNCT	_	_	6	_	_	wf=","
+8	у	у	ADP	_	_	7	_	_	wf="у"|tf="u"
+9	четвéрь	четверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	_	_	wf="четверь"|tf="ʈ͡ʂʲe̝tvˈer̠ʲ"
+10	на	на	ADP	_	_	9	_	_	wf="на"|tf="nɑ"
+11	инша́ку	иншак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	_	_	wf="иншаку"|tf="ɪ̈nʂˈɑku"
+12	худо́бу	худоба	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	11	_	_	wf="худобу"|tf="xudˈo̝bu"
+13	,	,	PUNCT	_	_	12	_	_	wf=","
+14	а	а	CCONJ	_	_	13	_	_	wf="а"|tf="ɑ"
+15	в	в	ADP	_	_	14	_	_	wf="в"|tf="w"
+16	пя́тницю	пятниця	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	_	_	wf="пятницю"|tf="pjˈɑtnɪ̈t͡sʲu"
+17	на	на	ADP	_	_	16	_	_	wf="на"|tf="nɑ"
+18	сíно	сіно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	_	_	wf="сіно"|tf="sʲˈino"
+19	.	.	PUNCT	_	_	18	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.5.3
+# IPA_transcription = = jˈɑrmɑrok je nɑ◡kɑpuʂˈɑnʲsʲkoj ˈulɪ̈t͡sʲi // kˌolo◡vˌɑguɦidˈɑ jɑk◡jɪ̞̈tˈɪ̈ do◡jˈurjɑ //
+# standard_text = Я́рмарок є на Капуша́ньской у́лиці коло ваґугіда́, як ити́ до Ю́рія.
+# variation_text = Я́рмарок є на Капуша́ньской у́лиці коло ваґугіда́, як ити́ до Ю́рія.
+# german_text = Der Jahrmarkt findet auf der Kapušanka Straße statt, nicht weit vom Schlachthof, wenn man zum Jurij (Georgkirche) geht.
+1	Я́рмарок	ярмарок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	_	_	wf="Ярмарок"|tf="jˈɑrmɑrok"
+2	є	бути	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	wf="є"|tf="je"
+3	на	на	ADP	_	_	2	_	_	wf="на"|tf="nɑ"
+4	Капуша́ньской	капушаньский	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	3	_	_	wf="Капушаньской"|tf="kɑpuʂˈɑnʲsʲkoj"
+5	у́лиці	улиця	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	_	_	wf="улиці"|tf="ˈulɪ̈t͡sʲi"
+6	коло	коло	ADP	_	_	5	_	_	wf="коло"|tf="kˌolo"
+7	ваґугіда́	ваґугіда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	_	_	wf="ваґугіда"|tf="vˌɑguɦidˈɑ"
+8	,	,	PUNCT	_	_	7	_	_	wf=","
+9	як	як	SCONJ	_	_	8	_	_	wf="як"|tf="jɑk"
+10	ити́	ити	VERB	_	Aspect=Imp|VerbForm=Inf	9	_	_	wf="ити"|tf="jɪ̞̈tˈɪ̈"
+11	до	до	ADP	_	Case=Gen	10	_	_	wf="до"|tf="do"
+12	Ю́рія	Юрія	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	11	_	_	wf="Юрія"|tf="jˈurjɑ"
+13	.	.	PUNCT	_	_	12	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.5.4
+# IPA_transcription = nɑ◡jˈɑrmɑrok posxˈoɟɑcsʲɑ ḻʲude jɪ̞̈s◡tˈɪ̈x◡sˈel // ʂo◡sˈuɟ◡ɦorˈi jɪ̞̈d◡berˈeznomu tɑj jɪ̞̈t // ɪ̈s◡tˈo̝wtox ɑ◡kˈupt͡sʲi ʂo bʊ̈vˈɑjuc u◡vˈɑroʂɪ̈ tˌɑ◡në̝dɑlˈeko od◡vˈɑroʂɑ w◡blˈɪ̈sʲkʲɪ̈x selˈɑx //
+# standard_text = На я́рмарок посхо́дяться лю́ди из ти́х сéл, шо су́ть горí ид Берéзному тай (ит) из То́втох, а ку́пці, шо бува́ють у ва́роши та недалéко од ва́роша в бли́зькіх села́х.
+# variation_text = На я́рмарок посхо́дяться лю́ди из ти́х сéл, шо су́ть горí ид Берéзному тай (ит) из То́втох, а ку́пці, шо бува́ють у ва́роши та недалéко од ва́роша в бли́зькіх села́х.
+# german_text = Zum Jahrmarkt versamelln sich Leite aus den Dörfern, die bergwärts in der Richtung Bereznyj liegen und aus Towty (Gegend) und Kaufleute, die in der Stadt leben und in den von der Stadt nicht weit entfernten Dörfern.
+1	На	на	ADP	_	_	0	_	_	wf="На"|tf="nɑ"
+2	я́рмарок	ярмарка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	wf="ярмарок"|tf="jˈɑrmɑrok"
+3	посхо́дяться	посходитися	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	_	_	wf="посходяться"|tf="posxˈoɟɑcsʲɑ"
+4	лю́ди	людина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	_	_	wf="люди"|tf="ḻʲude"
+5	из	из	ADP	_	_	4	_	_	wf="из"|tf="jɪ̞̈s"
+6	ти́х	той	DET	_	Case=Gen|Number=Plur|PronType=Dem	5	_	_	wf="тих"|tf="tˈɪ̈x"
+7	сéл	сел.	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	_	_	wf="сел"|tf="sˈel"
+8	,	,	PUNCT	_	_	7	_	_	wf=","|tf="//"
+9	шо	шо	SCONJ	_	_	8	_	_	wf="шо"|tf="ʂo"
+10	су́ть	суть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	wf="суть"|tf="sˈuɟ"
+11	горí	гора	ADJ	_	Case=Nom|Degree=Comp|Number=Plur	10	_	_	wf="горі"|tf="ɦorˈi"
+12	ид	ид	ADP	_	_	11	_	_	wf="ид"|tf="jɪ̞̈d"
+13	Берéзному	Березний	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|NameType=Geo|Number=Sing	12	_	_	wf="Березному"|tf="berˈeznomu"
+14	тай	тай	CCONJ	_	_	13	_	_	wf="тай"|tf="tɑj"
+15	(	(	PUNCT	_	_	14	_	_	wf="("
+16	ит	ит	X	_	Fragment=Yes	15	_	_	wf="ит"|tf="jɪ̞̈t"
+17	)	)	PUNCT	_	_	16	_	_	wf=")"
+18	из	из	ADP	_	_	17	_	_	wf="из"|tf="ɪ̈s"
+19	То́втох	Товт	PROPN	_	Animacy=Inan|Case=Gen|NameType=Geo|Number=Plur	18	_	_	wf="Товтох"|tf="tˈo̝wtox"
+20	,	,	PUNCT	_	_	19	_	_	wf=","|tf="//"
+21	а	а	CCONJ	_	_	20	_	_	wf="а"|tf="ɑ"
+22	ку́пці	купка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	21	_	_	wf="купці"|tf="kˈupt͡sʲi"
+23	,	,	PUNCT	_	_	22	_	_	wf=","|tf="//"
+24	шо	шо	SCONJ	_	_	23	_	_	wf="шо"|tf="ʂo"
+25	бува́ють	бувати	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	_	_	wf="бувають"|tf="bʊ̈vˈɑjuc"
+26	у	у	ADP	_	_	25	_	_	wf="у"|tf="u"
+27	ва́роши	варош	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	26	_	_	wf="вароши"|tf="vˈɑroʂɪ̈"
+28	та	та	CCONJ	_	_	27	_	_	wf="та"|tf="tɑ"
+29	недалéко	недалеко	ADV	_	_	28	_	_	wf="недалеко"|tf="në̝dɑlˈeko"
+30	од	од	ADP	_	Case=Gen	29	_	_	wf="од"|tf="od"
+31	ва́роша	вароша	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	_	_	wf="вароша"|tf="vˈɑroʂɑ"
+32	в	в	ADP	_	_	31	_	_	wf="в"|tf="w"
+33	бли́зькіх	близький	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	32	_	_	wf="близькіх"|tf="blˈɪ̈sʲkʲɪ̈x"
+34	села́х	село	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	33	_	_	wf="селах"|tf="selˈɑx"
+35	.	.	PUNCT	_	_	34	_	_	wf="."|tf="//"
+
+# sent_id = LA1451.5.5 - LA1451.5.6
+# IPA_transcription = nɑ◡jˈɑrmɑrok nesˈe kˈɑʐdɪ̈j // ʂo◡mˈɑje ʂosʲ prodɑtˈɪ̈ // usʲˈɑku mɑrʐˈɪ̈nu sʲˈino // ɑ◡ʐˈonɪ̈ nesˈuc nɑ◡pjˈɑt͡s usʲˈɑkoj polotnˈo // ɦˈunʲi ʐebˈɨ dustɑlˈɪ̈ jɑkʲˈiʐʲ◡grɑjt͡sɑrˈɪ ʐebˈɨ moɦlˈɪ̈ kupˈɪ̈tɪ̈ bˈilu suḻj pro◡sˈebe // ɑ◡pru◡xudˈobu ʈ͡ʂʲervˈenu nˈɑftu ɑbˌo◡sʲviʈ͡ʂʲkʲɪ̞̈ // ʐebˈɨ ne◡mˈusʲilɪ̈ sɪ̞̈ɟˈitɪ̈ u◡potˈemkovɪ̈ //
+# standard_text = На я́рмарок несé ка́ждий, шо ма́є шось прода́ти, уся́ку маржи́ну, сíно, а жо́ни несу́ть на пя́ц уся́кой полотно́, гу́ні, жеби́ дуста́ли якíсь ґрайцарí, жеби́ могли́ купи́ти бíлу суль про сéбе, а пру худо́бу червéну, на́фту або́ свічки́, жеби́ не му́сіли сидíти у потéмкови.
+# variation_text = На я́рмарок несé ка́ждий, шо ма́є шось прода́ти, уся́ку маржи́ну, сíно, а жо́ни несу́ть на пя́ц уся́кой полотно́, гу́ні, жеби́ дуста́ли якíсь ґрайцарí, жеби́ могли́ купи́ти бíлу суль про сéбе, а пру худо́бу червéну, на́фту або́ свічки́, жеби́ не му́сіли сидíти у потéмкови.
+# german_text = Auf den Jahrmarkt bringt jeder, was er zu verkaufen hat: verschiedenes Vieh, Heu, und Frauen tragen auf den Marktplatz mancherlei Leinen, Jacken, damit sie ein paar Groschen bekommen und dafür weißes Salz für sich und für das Vieh rotes Salz kaufen können, Petroleum oder Lichter, damit sie nicht in der Dunkelheit zu sitzen brauchen.
+1	На	на	ADP	_	_	0	_	_	wf="На"|tf="nɑ"
+2	я́рмарок	ярмарка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	_	_	wf="ярмарок"|tf="jˈɑrmɑrok"
+3	несé	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	wf="несе"|tf="nesˈe"
+4	ка́ждий	каждий	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	3	_	_	wf="каждий"|tf="kˈɑʐdɪ̈j"
+5	,	,	PUNCT	_	_	4	_	_	wf=","|tf="//"
+6	шо	шо	SCONJ	_	_	5	_	_	wf="шо"|tf="ʂo"
+7	ма́є	мати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	wf="має"|tf="mˈɑje"
+8	шось	шось	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	_	_	wf="шось"|tf="ʂosʲ"
+9	прода́ти	продати	VERB	_	Aspect=Perf|VerbForm=Inf	8	_	_	wf="продати"|tf="prodɑtˈɪ̈"
+10	,	,	PUNCT	_	_	9	_	_	wf=","|tf="//"
+11	уся́ку	усякий	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	10	_	_	wf="усяку"|tf="usʲˈɑku"
+12	маржи́ну	маржина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	_	_	wf="маржину"|tf="mɑrʐˈɪ̈nu"
+13	,	,	PUNCT	_	_	12	_	_	wf=","
+14	сíно	сіно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	_	_	wf="сіно"|tf="sʲˈino"
+15	,	,	PUNCT	_	_	14	_	_	wf=","|tf="//"
+16	а	а	CCONJ	_	_	15	_	_	wf="а"|tf="ɑ"
+17	жо́ни	жона	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	16	_	_	wf="жони"|tf="ʐˈonɪ̈"
+18	несу́ть	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	_	_	wf="несуть"|tf="nesˈuc"
+19	на	на	ADP	_	_	18	_	_	wf="на"|tf="nɑ"
+20	пя́ц	пяц	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	_	_	wf="пяц"|tf="pjˈɑt͡s"
+21	уся́кой	усякий	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	20	_	_	wf="усякой"|tf="usʲˈɑkoj"
+22	полотно́	полотно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	_	_	wf="полотно"|tf="nɑpolotnˈo"
+23	,	,	PUNCT	_	_	22	_	_	wf=","|tf="//"
+24	гу́ні	гуна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	23	_	_	wf="гуні"|tf="ɦˈunʲi"
+25	,	,	PUNCT	_	_	24	_	_	wf=","
+26	жеби́	жеби	SCONJ	_	_	25	_	_	wf="жеби"|tf="ʐebˈɨ"
+27	дуста́ли	дустати	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	26	_	_	wf="дустали"|tf="dustɑlˈɪ̈"
+28	якíсь	якийсь	DET	_	Case=Nom|Number=Plur|PronType=Ind	27	_	_	wf="якісь"|tf="jɑkʲˈiʐ"
+29	ґрайцарí	ґрайцар	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	28	_	_	wf="ґрайцарі"|tf="grɑjt͡sɑrˈɪ"
+30	,	,	PUNCT	_	_	29	_	_	wf=","
+31	жеби́	жеби	SCONJ	_	_	30	_	_	wf="жеби"|tf="ʐebˈɨ"
+32	могли́	могти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	31	_	_	wf="могли"|tf="moɦlˈɪ̈"
+33	купи́ти	купити	VERB	_	Aspect=Perf|VerbForm=Inf	32	_	_	wf="купити"|tf="kupˈɪ̈tɪ̈"
+34	бíлу	білий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	33	_	_	wf="білу"|tf="bˈilu"
+35	суль	суль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	_	_	wf="суль"|tf="suḻj"
+36	про	про	ADP	_	_	35	_	_	wf="про"|tf="pro"
+37	сéбе	себе	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	36	_	_	wf="себе"|tf="sˈebe"
+38	,	,	PUNCT	_	_	37	_	_	wf=","|tf="//"
+39	а	а	CCONJ	_	_	38	_	_	wf="а"|tf="ɑ"
+40	пру	пру	ADP	_	_	39	_	_	wf="пру"|tf="pru"
+41	худо́бу	худоба	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	40	_	_	wf="худобу"|tf="xudˈobu"
+42	червéну	червен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	41	_	_	wf="червену"|tf="ʈ͡ʂʲervˈenu"
+43	,	,	PUNCT	_	_	42	_	_	wf=","
+44	на́фту	нафта	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	43	_	_	wf="нафту"|tf="nˈɑftu"
+45	або́	або	CCONJ	_	_	44	_	_	wf="або"|tf="ɑbˌo"
+46	свічки́	свічка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	45	_	_	wf="свічки"|tf="sʲviʈ͡ʂʲkʲɪ̞̈"
+47	,	,	PUNCT	_	_	46	_	_	wf=","|tf="//"
+48	жеби́	жеби	SCONJ	_	_	47	_	_	wf="жеби"|tf="ʐebˈɨ"
+49	не	не	PART	_	Polarity=Neg	48	_	_	wf="не"|tf="ne"
+50	му́сіли	мусіти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	49	_	_	wf="мусіли"|tf="mˈusʲilɪ̈"
+51	сидíти	сидіти	VERB	_	Aspect=Imp|VerbForm=Inf	50	_	_	wf="сидіти"|tf="sɪ̞̈ɟˈitɪ̈"
+52	у	у	ADP	_	_	51	_	_	wf="у"|tf="u"
+53	потéмкови	потемкова	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	52	_	_	wf="потемкови"|tf="potˈemkovɪ̈"
+54	.	.	PUNCT	_	_	53	_	_	wf="."|tf="//"
+
